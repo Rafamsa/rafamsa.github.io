@@ -15,6 +15,9 @@ social:
 
 # CV sections - each can have multiple entries
 cv:
+  macaxera:
+    - title: "Gosto muito de macaxeira"
+      description: "Macaxeira é um alimento versátil e delicioso, muito presente na culinária brasileira. Pode ser preparada de diversas formas, como cozida, frita ou assada, e é uma ótima fonte de carboidratos e fibras."
   education:
     - title: "Mestrado em Ciência da Computação"
       institution: "UNIFAL-MG"
