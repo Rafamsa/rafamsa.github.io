@@ -1,0 +1,8 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $img := .Page.Resources.GetMatch $src -}}
+{{- $imgURL := cond (ne $img nil) $img.RelPermalink $src -}}
+<figure class="grid-gallery__item" tabindex="0" role="button" aria-label="{{ $alt }}" data-full="{{ $imgURL }}">
+    <img src="{{ $imgURL }}" alt="{{ $alt }}" loading="lazy" />
+    {{- with $alt }}<figcaption>{{ . }}</figcaption>{{ end -}}
+</figure>

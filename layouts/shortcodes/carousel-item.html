@@ -1,0 +1,12 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $desc := .Get "description" | default "" -}}
+{{- $img := .Page.Resources.GetMatch $src -}}
+{{- $imgURL := cond (ne $img nil) $img.RelPermalink $src -}}
+<div class="carousel__slide" data-full="{{ $imgURL }}">
+    <img src="{{ $imgURL }}" alt="{{ $alt }}" loading="lazy" />
+    <div class="carousel__info">
+        {{- with $alt }}<p class="carousel__title">{{ . }}</p>{{ end -}}
+        {{- with $desc }}<p class="carousel__description">{{ . }}</p>{{ end -}}
+    </div>
+</div>

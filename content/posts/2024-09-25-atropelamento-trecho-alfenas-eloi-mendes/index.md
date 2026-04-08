@@ -25,6 +25,7 @@ O local de escolha do estudo, atualmente está sob administração do grupo EPR 
 Pontos de maior incidência de atropelamentos. (Imagens: Reprodução/TCC Danna Ferreira)
 
 ## Motivação para o tema de pesquisa
+
 Intitulado “Avaliação de hotspots de atropelamento de animais silvestres na rodovia MG-491”, o estudo é fruto do trabalho de conclusão de curso (TCC), vinculado ao projeto de iniciação científica “Biodiversidade e serviços associados: PELD Corredor Cantareira Mantiqueira”.
 
 A proposta do TCC veio a partir das viagens que a pesquisadora fazia entre Alfenas e sua cidade natal. “Eu sou de Três Corações e sempre que ia pra lá nos finais de semana eu via muitos animais atropelados, isso sempre me chateava e eu ficava me perguntando sobre o motivo de tantas ocorrências, e se havia algo que eu pudesse fazer. Procurei saber mais sobre o tema, encontrei vários artigos e conversei com a Érica [Hasui], minha orientadora, sugerindo o tema“, informa Danna Ferreira. “A partir daí, vimos a possibilidade de desenvolver essa pesquisa para entender melhor os padrões de atropelamento e a partir disso sugerir medidas que pudessem mudar essa realidade”, complementa.
@@ -50,7 +51,7 @@ Durante o período de coleta, a pesquisadora encontrou 189 animais atropelados, 
 
 Algumas aves, como os canários-da-terra e urubus-de-cabeça-preta também foram bastante encontrados. Com relação aos répteis, teiús (lagartos) também foram vistos atropelados. De anfíbios, não foi possível identificar as espécies.
 
-Segundo o estudo, as espécies mais abundantes localmente e/ou generalistas (capazes de sobreviver em diversas condições e se alimentar de diversas fontes de alimento), são as espécies que apresentam maior movimentação entre os fragmentos e rodovias, por isso, tendem a ser os mais atingidos. 
+Segundo o estudo, as espécies mais abundantes localmente e/ou generalistas (capazes de sobreviver em diversas condições e se alimentar de diversas fontes de alimento), são as espécies que apresentam maior movimentação entre os fragmentos e rodovias, por isso, tendem a ser os mais atingidos.
 
 Vale também para espécies noturnas, como os gambás, que podem ser vítimas pelo fato de a visibilidade do motorista à noite ser reduzida e os faróis desnortearem os animais.
 
@@ -64,14 +65,12 @@ Danna Ferreira nos mostra, em seu estudo, que o ambiente é um fator crucial par
 
 ## Desdobramentos do estudo
 
-Os dados do estudo apontam para a necessidade de pensar em medidas mitigadoras. No início de 2023, Guilherme Abraão, ambientalista e sociólogo, encaminhou ao Ministério Público uma proposta de medidas de preservação de fauna no edital de concessão de rodovias, o que inclui o trecho estudado. No entanto, essas medidas não chegaram até agora. 
+Os dados do estudo apontam para a necessidade de pensar em medidas mitigadoras. No início de 2023, Guilherme Abraão, ambientalista e sociólogo, encaminhou ao Ministério Público uma proposta de medidas de preservação de fauna no edital de concessão de rodovias, o que inclui o trecho estudado. No entanto, essas medidas não chegaram até agora.
 
-“Eu não via medidas mitigadoras para atropelamento de animais nessa rodovia nem antes de iniciar a pesquisa”, informou Danna Ferreira. “[o grupo EPR Vias do Café] iniciou diversas obras ao longo da pista, mas ainda não vejo medidas voltadas para redução de atropelamento”, argumenta. 
+“Eu não via medidas mitigadoras para atropelamento de animais nessa rodovia nem antes de iniciar a pesquisa”, informou Danna Ferreira. “[o grupo EPR Vias do Café] iniciou diversas obras ao longo da pista, mas ainda não vejo medidas voltadas para redução de atropelamento”, argumenta.
 
 Segundo a autora e outros estudos sobre o tema, medidas como pontes para travessia de animais, radares em pontos estratégicos, cercas laterais, entre outras, auxiliariam na redução de atropelamentos. “São importantes para, além de evitar que animais morram atropelados, permitir que tanto eles como os seres humanos se movimentem com segurança, já que esses acidentes também são um risco para nós.”
 
-
 *Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
-
 
 Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/trecho-alfenas-x-paraguacu-possui-maior-incidencia-de-atropelamento-de-animais-silvestres-e-domesticos-da-rodovia-mg-491/) para acessar o texto na íntegra.

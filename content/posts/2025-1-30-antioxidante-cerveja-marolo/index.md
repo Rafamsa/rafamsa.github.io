@@ -26,13 +26,13 @@ Segundo explica o acadêmico, a fruta foi inserida em diferentes concentrações
 ![alt text](AS-1.jpg)
 Registro feito durante a análise sensorial. (Foto: Arquivo/Tallis Silva)
 
-A avaliação foi realizada em dois momentos: no primeiro, um grupo de 17 avaliadores treinados fez uma análise sensorial das cervejas, classificando-as conforme a intensidade do sabor do marolo. Esses avaliadores, que foram testados quanto à sensibilidade para identificar diferentes sabores, também indicaram as cervejas que mais gostaram. As amostras mais promissoras seguiram para a próxima fase. Já o segundo momento foi o teste de preferência (painel não treinado), em que 84 avaliadores indicaram qual tratamento foi o seu preferido e o quanto gostou de cada amostra. 
+A avaliação foi realizada em dois momentos: no primeiro, um grupo de 17 avaliadores treinados fez uma análise sensorial das cervejas, classificando-as conforme a intensidade do sabor do marolo. Esses avaliadores, que foram testados quanto à sensibilidade para identificar diferentes sabores, também indicaram as cervejas que mais gostaram. As amostras mais promissoras seguiram para a próxima fase. Já o segundo momento foi o teste de preferência (painel não treinado), em que 84 avaliadores indicaram qual tratamento foi o seu preferido e o quanto gostou de cada amostra.
 
 Mas a ingestão de cervejas ainda apresenta riscos, conforme destaca o autor. “A cerveja com marolo, mesmo com maior potencial antioxidante comparada com a sem marolo, sendo uma bebida alcoólica, apresenta etanol e a ingestão deste, principalmente de forma não moderada, pode contribuir para o aparecimento de várias doenças”, alerta.
 
-Para testar o marolo, Tallis Silva utilizou uma inovação tecnológica chamada pico-fermentadores. “Os pico-fermentadores são adaptações com tubos falcons para fermentação em escala laboratorial, que poderão ser aplicados em diversas áreas e contribuir com as cervejarias em seus testes de qualidade ou de novos produtos”, explica.  e: “Uma vez que validamos esse sistema de fermentadores para escala laboratorial, estamos com novos experimentos avaliando outros parâmetros da fermentação utilizando-se desse sistema”, ressalta o pesquisador sobre a contribuição da tecnologia. 
+Para testar o marolo, Tallis Silva utilizou uma inovação tecnológica chamada pico-fermentadores. “Os pico-fermentadores são adaptações com tubos falcons para fermentação em escala laboratorial, que poderão ser aplicados em diversas áreas e contribuir com as cervejarias em seus testes de qualidade ou de novos produtos”, explica.  e: “Uma vez que validamos esse sistema de fermentadores para escala laboratorial, estamos com novos experimentos avaliando outros parâmetros da fermentação utilizando-se desse sistema”, ressalta o pesquisador sobre a contribuição da tecnologia.
 
-O estudo cervejeiro na Universidade já era presente com a atuação do professor Gabriel Hornink, que coordena o projeto “Ciência da cerveja: estudo da influência de variáveis na fermentação no desempenho fermentativo e potencial antioxidante de cervejas”, enquanto que as propriedades do marolo já vem sendo estudadas pelo professor Bruno Dala Paula. 
+O estudo cervejeiro na Universidade já era presente com a atuação do professor Gabriel Hornink, que coordena o projeto “Ciência da cerveja: estudo da influência de variáveis na fermentação no desempenho fermentativo e potencial antioxidante de cervejas”, enquanto que as propriedades do marolo já vem sendo estudadas pelo professor Bruno Dala Paula.
 
 ![alt text](equipe-as1-768x576.jpg)
 À esquerda o professor Gabriel Hornink, acompanhado por Tallis Silva e colegas da equipe do projeto. (Foto: Arquivo/Tallis Silva)
@@ -41,7 +41,7 @@ De acordo com Tallis Silva, a parceria entre os professores provou a ideia de te
 
 A pesquisa recebeu apoio por meio do Programa Institucional de Bolsas de Iniciação Científica e Tecnológica – PIBICT/FAPEMIG.
 
-O resumo do trabalho, apresentado durante o 10º Simpósio Integrado da UNIFAL-MG, pode ser acessado neste [link](https://jornal.unifal-mg.edu.br/wp-content/uploads/2025/01/Aumento-de-valor-agregado-da-cerveja-uso-de-insumos-inovadores-e-aumento-do-potencial-antioxidante.pdf).
+O resumo do trabalho, apresentado durante o 10º Simpósio Integrado da UNIFAL-MG, pode ser [acessado neste no jornal da UNIFAL](https://jornal.unifal-mg.edu.br/wp-content/uploads/2025/01/Aumento-de-valor-agregado-da-cerveja-uso-de-insumos-inovadores-e-aumento-do-potencial-antioxidante.pdf).
 
 Acesse também informações sobre o projeto [“Ciência com Cerveja”](https://www.unifal-mg.edu.br/lme/cervejacomciencia/)
 

@@ -1,0 +1,11 @@
+# markdownlint-cli2 configuration for Hugo blog
+# Frontmatter uses TOML (+++), not YAML (---).
+config:
+  # Line length — blog prose and URLs make long lines unavoidable
+  MD013: false
+
+  # Inline HTML — Hugo shortcodes and content often include HTML
+  MD033: false
+
+  # First-line heading — title is declared in TOML frontmatter, not in body
+  MD041: false

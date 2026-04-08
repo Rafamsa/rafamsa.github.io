@@ -1,5 +1,5 @@
 +++
-title = "Jogo de tabuleiro para o ensino da Matemática auxilia crianças do Ensino Fundamental a compreender números inteiros" 
+title = "Jogo de tabuleiro para o ensino da Matemática auxilia crianças do Ensino Fundamental a compreender números inteiros"
 subtitle = "Ferramenta proposta por pesquisa desenvolvida na UNIFAL-MG também promove interações sociais entre participantes"
 date = "2024-11-19"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
@@ -26,9 +26,9 @@ Segundo o autor da pesquisa, o desenvolvimento do jogo de tabuleiro foi pensado 
 ![alt text](Luiz-Gustavo-Alves-Silva.png)
 Luiz Gustavo Alves Silva – autor da pesquisa desenvolvida junto ao Mestrado Profissional em Matemática em Rede Nacional (PROFMAT) da Universidade. (Foto: Arquivo Pessoal)
 
-O nome está relacionado com a palavra alemã ”Zahl”, o que segundo o autor da pesquisa, é uma referência ao fato do conjunto dos números inteiros ser representado pelo símbolo **ℤ**, que por sua vez, advém da palavra em alemão ‘zahl’, cujo significado é ‘número’. 
+O nome está relacionado com a palavra alemã ”Zahl”, o que segundo o autor da pesquisa, é uma referência ao fato do conjunto dos números inteiros ser representado pelo símbolo **ℤ**, que por sua vez, advém da palavra em alemão ‘zahl’, cujo significado é ‘número’.
 
-A dinâmica do jogo apresenta duas modalidades: adição/subtração e multiplicação/divisão. Para ambas as modalidades, de dois a quatro jogadores competem para avançar em tabuleiros distintos. No jogo de adição e subtração, os participantes começam na casa 0 e se movem até a casa 100, usando dados de operações (D12 para avanço e D6 para retrocesso) para somar ou subtrair números positivos e negativos. Há fichas de fração recebidas ao parar em casas douradas, permitindo lançar um D20 para avançar mais rapidamente. 
+A dinâmica do jogo apresenta duas modalidades: adição/subtração e multiplicação/divisão. Para ambas as modalidades, de dois a quatro jogadores competem para avançar em tabuleiros distintos. No jogo de adição e subtração, os participantes começam na casa 0 e se movem até a casa 100, usando dados de operações (D12 para avanço e D6 para retrocesso) para somar ou subtrair números positivos e negativos. Há fichas de fração recebidas ao parar em casas douradas, permitindo lançar um D20 para avançar mais rapidamente.
 
 No jogo de multiplicação e divisão, o objetivo é chegar à casa central de um tabuleiro com espiral de Fibonacci. Jogadores lançam dois D10 e escolhem multiplicar ou dividir os números sorteados, movendo-se conforme o resultado. Sinais iguais avançam o peão; sinais diferentes o fazem retroceder. A Carta Curinga, obtida em casas douradas, obriga o uso de um dado especial, que decide a operação de forma aleatória, exigindo adaptação estratégica.
 
@@ -39,12 +39,13 @@ Para testar a ferramenta, alguns alunos do 7º ano da EMBBC foram selecionados, 
 Embora à primeira vista as regras pareçam complexas, Luiz Gustavo Silva afirma: “As crianças amostradas nesta pesquisa, em geral, compreenderam com grande facilidade as regras e dinâmicas do jogo.”
 
 ## Jogos educativos como meio do ensino de matemática
+
 ![alt text](jogo-tabuleiro-ensino-matematica1.jpg)
 “Corrida Zahl” é uma referência ao fato do conjunto dos números inteiros ser representado pelo símbolo ℤ, que por sua vez, advém da palavra em alemão ‘zahl’, cujo significado é ‘número’. (Foto: Arquivo/Luiz Gustavo Alves Silva)
 
 Para Luiz Gustavo Silva e sua orientadora, a concepção de “Corrida Zahl” e seu uso em escolas para o ensino de números inteiros em Matemática se configura como importante ferramenta, já que a Matemática possui a fama de ser uma matéria difícil. Para eles, as causas dessa dificuldade são multifatoriais e constituem um amplo espaço de investigação em diversas pesquisas acadêmicas. “Os jogos educativos são apontados por estudos e documentos oficiais como a Base Nacional Comum Curricular (BNCC) como alternativas para tornar a Matemática mais atrativa e acessível para as crianças”, enfatiza Luiz Gustavo Silva.
 
-O autor reforça que os jogos educativos no ensino e aprendizagem de Matemática são ferramentas utilizadas há muitos anos, visto que a Matemática formal é baseada em axiomas, definições e proposições rigorosas, conceitos que podem ser demasiadamente abstratos para crianças do Ensino Fundamental. “Os jogos serviriam como ‘pontes’ nesse processo de trazer um conhecimento formal para uma linguagem mais lúdica e acessível a alunos da educação básica”, conta. 
+O autor reforça que os jogos educativos no ensino e aprendizagem de Matemática são ferramentas utilizadas há muitos anos, visto que a Matemática formal é baseada em axiomas, definições e proposições rigorosas, conceitos que podem ser demasiadamente abstratos para crianças do Ensino Fundamental. “Os jogos serviriam como ‘pontes’ nesse processo de trazer um conhecimento formal para uma linguagem mais lúdica e acessível a alunos da educação básica”, conta.
 
 Nesse cenário, também se enquadra o jogo produzido durante a pesquisa, uma vez que, como reforçado por Luiz Gustavo Silva, houve o interesse de elaborar estruturas e materiais de fácil confecção para que qualquer professor de educação básica possa reproduzir o tabuleiro artesanalmente e utilizar com seus alunos, permitindo o uso facilitado da ferramenta.
 
@@ -54,7 +55,7 @@ Outras análises, testes e melhoramentos da ferramenta são previstas para a pes
 
 A pesquisa foi financiada pela [Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)](https://www.gov.br/capes/pt-br) com a [defesa de dissertação](https://jornal.unifal-mg.edu.br/mestrado-profissional-em-matematica-realiza-primeira-defesa-tema-do-trabalho-apresentado-envolve-jogos-de-tabuleiro-no-ensino-de-numeros-inteiro/) realizada no Mestrado Profissional em Matemática em Rede Nacional (PROFMAT) no final de 2023.
 
-Para mais informações, acesse a dissertação neste [link](https://profmat-sbm.org.br/dissertacoes/?aluno=Luiz+Gustavo+Alves+Silva&titulo=&polo=)
+Para mais informações, [acesse a dissertação neste link](https://profmat-sbm.org.br/dissertacoes/?aluno=Luiz+Gustavo+Alves+Silva&titulo=&polo=)
 
 Conheça também o [Mestrado Profissional em Matemática em Rede Nacional (PROFMAT)](https://www.unifal-mg.edu.br/profmat/) da UNIFAL-MG
 

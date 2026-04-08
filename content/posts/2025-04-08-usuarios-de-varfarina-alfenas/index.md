@@ -45,21 +45,21 @@ O estudo está vinculado ao [Grupo de Pesquisa em Assistência Farmacêutica](ht
 
 Conheça os pesquisadores do grupo:
 ![alt text](CamilaCamposDutra.png)
-Camila Campos Dutra – acadêmica do mestrado em Assistência Farmacêutica 
+Camila Campos Dutra – acadêmica do mestrado em Assistência Farmacêutica
 ![alt text](Prof.Dr_.TiagoMarquesdosReis.png)
-Tiago Marques dos Reis – professor e orientador do estudo 
+Tiago Marques dos Reis – professor e orientador do estudo
 ![alt text](Profa.Dra_.LeilismaraSousaNogueira.png)
-Leilismara Sousa Nogueira – professora e coorientadora do estudo 
+Leilismara Sousa Nogueira – professora e coorientadora do estudo
 ![alt text](Profa.Dra_.IaraBaldimRabeloGomes.png)
-Iara Baldim Rabelo Gomes – professora e médica 
+Iara Baldim Rabelo Gomes – professora e médica
 ![alt text](JosianeCostadeSa.png)
-Josiane Costa de Sá – acadêmica 
+Josiane Costa de Sá – acadêmica
 ![alt text](KarenCristinaCassiaRoeslerdaSilva.png)
 Karen Cristina Cássia Roesler da Silva – acadêmica
 ![alt text](MarciaVivianedosSantos.png)
 Márcia Viviane dos Santos – acadêmica
 ![alt text](YasmindosSantosLousano.png)
-Yasmin dos Santos Lousano – acadêmica 
+Yasmin dos Santos Lousano – acadêmica
 
 *Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
 

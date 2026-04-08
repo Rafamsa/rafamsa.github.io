@@ -1,0 +1,71 @@
+<div class="grid-gallery">
+    {{ .Inner }}
+</div>
+<script>
+    (function () {
+        if (window.__galleryLightboxInit) return;
+        window.__galleryLightboxInit = true;
+
+        /* --- Create lightbox DOM --- */
+        var lb = document.createElement('div');
+        lb.className = 'gallery-lightbox';
+        lb.innerHTML =
+            '<button class="gallery-lightbox__close" aria-label="Fechar">&times;</button>' +
+            '<img class="gallery-lightbox__img" src="" alt="" />' +
+            '<div class="gallery-lightbox__caption"></div>';
+        document.body.appendChild(lb);
+
+        var img = lb.querySelector('.gallery-lightbox__img');
+        var cap = lb.querySelector('.gallery-lightbox__caption');
+        var closeBtn = lb.querySelector('.gallery-lightbox__close');
+
+        window.openLightbox = function (src, caption) {
+            img.src = src;
+            img.alt = caption || '';
+            cap.textContent = caption || '';
+            lb.classList.add('gallery-lightbox--open');
+            document.body.style.overflow = 'hidden';
+            closeBtn.focus();
+        };
+
+        function closeLightbox() {
+            lb.classList.remove('gallery-lightbox--open');
+            document.body.style.overflow = '';
+            img.src = '';
+        }
+
+        closeBtn.addEventListener('click', closeLightbox);
+        lb.addEventListener('click', function (e) {
+            if (e.target === lb) closeLightbox();
+        });
+        document.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape' && lb.classList.contains('gallery-lightbox--open')) {
+                closeLightbox();
+            }
+        });
+    })();
+
+    /* --- Grid gallery click handlers --- */
+    (function () {
+        var grids = document.querySelectorAll('.grid-gallery');
+        var last = grids[grids.length - 1];
+        if (!last) return;
+        last.addEventListener('click', function (e) {
+            var item = e.target.closest('.grid-gallery__item');
+            if (!item) return;
+            var src = item.getAttribute('data-full');
+            var caption = item.querySelector('figcaption');
+            window.openLightbox(src, caption ? caption.textContent : '');
+        });
+        last.addEventListener('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                var item = e.target.closest('.grid-gallery__item');
+                if (!item) return;
+                e.preventDefault();
+                var src = item.getAttribute('data-full');
+                var caption = item.querySelector('figcaption');
+                window.openLightbox(src, caption ? caption.textContent : '');
+            }
+        });
+    })();
+</script>

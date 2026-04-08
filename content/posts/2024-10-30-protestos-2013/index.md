@@ -21,15 +21,16 @@ Intitulado [“Interpretações das dimensões educacionais das Jornadas de 2013
 
 Segundo o professor Luís Groppo, o estudo é resultado de um dos produtos relacionados à segunda fase da pesquisa. Conforme o pesquisador, as entrevistas permitiram que os participantes falassem sobre a relação entre as Jornadas e as transformações sociais e políticas posteriores e aspectos educacionais das Jornadas.
 
-Para os autores do estudo, o principal resultado da pesquisa foi a possibilidade de preparar a equipe para as entrevistas da terceira fase. Nesta etapa, foram entrevistadas 36 pessoas que, em 2013, eram jovens ativistas ou  militantes de organizações que tiveram importante atuação nas Jornadas. 
+Para os autores do estudo, o principal resultado da pesquisa foi a possibilidade de preparar a equipe para as entrevistas da terceira fase. Nesta etapa, foram entrevistadas 36 pessoas que, em 2013, eram jovens ativistas ou  militantes de organizações que tiveram importante atuação nas Jornadas.
 
 “As entrevistas nos trouxeram informações relevantes sobre o perfil juvenil majoritário de 2013, mas não exclusivo, assim como as diferenças entre as pautas iniciais, mais centradas no direito à cidade e as pautas na fase massiva, plurais e genéricas”, explica o professor Luís Groppo.
 
 ## O que foram as Jornadas de 2013
+
 ![alt text](jornadas-2013-tarifas.png)
 Aumento da tarifa dos transportes públicos em São Paulo foi uma das pautas dos protestos de 2013. (Foto: Divulgação/Agência Brasil)
 
-As Jornadas de 2013 foram uma série de protestos realizados nos anos de 2010, caracterizados pela ocupação de espaços públicos pelos manifestantes. O ciclo de protestos foi impulsionado pela crise econômica mundial de 2007-2008. 
+As Jornadas de 2013 foram uma série de protestos realizados nos anos de 2010, caracterizados pela ocupação de espaços públicos pelos manifestantes. O ciclo de protestos foi impulsionado pela crise econômica mundial de 2007-2008.
 
 Aqui no Brasil, para Luís Groppo, durante as Jornadas, os protestos contra o aumento da tarifa dos transportes públicos em São Paulo, capital, em junho, convocados pelo Movimento Passe Livre de São Paulo (MPL-SP) foram muito importantes. No entanto, ele e os colegas pesquisadores também levantam o período que antecede a junho, o que eles chamam de latência.
 
@@ -40,6 +41,7 @@ Os pesquisadores têm preferido se referir à Jornada apenas como ciclo de prote
 A pesquisa mostrou que  as Jornadas repercutiram nacionalmente, e se interiorizaram, levando ao conjunto de ações coletivas com maior adesão popular do país. “Em dado momento, os protestos se massificaram ainda mais e outras demandas, em geral difusas e ambíguas, se somaram”, ressalta Luís Groppo. Ele continua: “Mas após junho, a tendência foi a de protestos com pautas novamente progressistas e bem definidas, como greves defensivas em torno dos direitos trabalhistas, movimento por moradia e protestos contra a Copa e Olimpíadas”, afirma.
 
 ## A visão dos entrevistados sobre as Jornadas de 2013
+
 ![alt text](jornadas-2013-1.png)
 Protestos de junho de 2013 reuniram multidões em várias cidades do país. (Foto: Marcelo Camargo/Agência Brasil)
 
@@ -51,9 +53,10 @@ Os protestos iniciaram como uma proposta progressista, que juntava autonomistas 
 
 Para Ana Karina Brenner, docente do Programa de Pós-Graduação em Educação da Universidade do Estado do Rio de Janeiro e entrevistada, a complexidade das Jornadas se dá também pela grande captura de mídia realizada entre os protestos. “Teve uma captura da mídia, em determinados setores da sociedade, para uma interpretação reacionária que, de fato, ajudou a construir um movimento da direita reacionária”, afirma. “Não existia no país, inclusive, ninguém tinha coragem de dizer que era de direita”, observa e continua: “Agora a gente vê que um monte de gente diz que é de direita”, explica.
 
-Outro fator levantado em algumas das entrevistas foi o fato de as Jornadas garantirem um intenso processo de subjetivação política, ou seja, o processo pelo qual indivíduos e grupos formam suas identidades políticas, crenças e ações em resposta aos contextos sociais e políticos. 
+Outro fator levantado em algumas das entrevistas foi o fato de as Jornadas garantirem um intenso processo de subjetivação política, ou seja, o processo pelo qual indivíduos e grupos formam suas identidades políticas, crenças e ações em resposta aos contextos sociais e políticos.
 
 ## Quais são as consequências das Jornadas de 2013?
+
 ![alt text](jornadas-2013-copa.png)
 Movimento Passe Livre organizou a manifestação feita em 20 de junho de 2013 na capital paulista. (Foto: Gianluca Ramalho Misiti/Flickr)
 
@@ -68,6 +71,7 @@ Outra docente entrevistada, Olívia Perez, professora de Ciência Política e de
 Entre as consequências negativas, as citadas nas entrevistas estão relacionadas à ascensão da direita e extrema-direita nos anos seguintes às Jornadas de 2013. Os participantes também afirmam que a forma como o PT lidou com as demandas das Jornadas após sua vitória eleitoral em 2014 e como o sistema político se protegeu contra as reformas demandadas pela sociedade civil auxiliaram na ascensão da extrema-direita no país, bem como as transformações sociais e políticas que favoreceram a médio prazo a extrema-direita. Alguns dos entrevistados explicitam também que a fase massiva das Jornadas ampliou a visibilidade da extrema-direita.
 
 ## Próximos passos da pesquisa
+
 ![alt text](Parte-da-equipe-do-projeto-do-professor-Groppo.jpg)
 Parte da equipe do projeto de pesquisa liderado pelo professor Luís Groppo. (Foto: Arquivo/Luís Groppo)
 
@@ -77,7 +81,7 @@ Segundo Luís Groppo, tanto este artigo quanto o estudo se inserem na pesquisa d
 
 A quarta fase da pesquisa, que será a última, prevê novas atividades de comunicação e divulgação científica, como a publicação de um livro sistematizando os principais resultados da pesquisa. “Após o Seminário Memorial das Jornadas de 2013, realizado em março de 2024 em nossa universidade, também está prevista a criação de uma página na internet com os dados e produtos da pesquisa”, informa Luís Groppo.
 
-O estudo recebeu recursos para desenvolvimento do [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br), da [Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/), da [Coordenação de Aperfeiçoamento do Pessoal de Nível Superior (CAPES)](https://pt.wikipedia.org/wiki/Coordena%C3%A7%C3%A3o_de_Aperfei%C3%A7oamento_de_Pessoal_de_N%C3%ADvel_Superior#:~:text=Coordena%C3%A7%C3%A3o%20de%20Aperfei%C3%A7oamento%20de%20Pessoal%20de%20N%C3%ADvel%20Superior%20(CAPES)%20%C3%A9,em%20todos%20os%20estados%20brasileiros.) e da UNIFAL-MG. 
+O estudo recebeu recursos para desenvolvimento do [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br), da [Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/), da [Coordenação de Aperfeiçoamento do Pessoal de Nível Superior (CAPES)](https://pt.wikipedia.org/wiki/Coordena%C3%A7%C3%A3o_de_Aperfei%C3%A7oamento_de_Pessoal_de_N%C3%ADvel_Superior#:~:text=Coordena%C3%A7%C3%A3o%20de%20Aperfei%C3%A7oamento%20de%20Pessoal%20de%20N%C3%ADvel%20Superior%20(CAPES)%20%C3%A9,em%20todos%20os%20estados%20brasileiros.) e da UNIFAL-MG.
 
 *Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
 

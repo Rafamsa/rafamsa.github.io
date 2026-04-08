@@ -35,26 +35,25 @@ O trabalho conta com financiamento da [Coordenação de Aperfeiçoamento de Pess
 
 Os resultados foram publicados em artigo científico assinado por Richard Silveira Pereira e Marcelo Gonçalves Vivas, com a participação dos pesquisadores Diego Lourençoni Ferreira e Gabriel Ferrari de Oliveira, do Laboratório de Espectroscopia Óptica e Fotônica (LEOF) da UNIFAL-MG, em parceria com colaboradores do Instituto de Física de São Carlos: Gabriele C. Felipe de Paula, André Luís dos Santos Romero e Cleber Renato Mendonça.
 
-![alt text](Richard-Silveira-Pereira.jpg)
-Richard Silveira Pereira – autor do estudo/doutorando em Ciência e Engenharia de Materiais. (Foto: Arquivo Pessoal)
+{{< grid-gallery >}}
+  {{< grid-item src="Richard-Silveira-Pereira.jpg" alt="Richard Silveira Pereira – autor do estudo/doutorando em Ciência e Engenharia de Materiais" >}}
+  {{< grid-item src="Marcelo-Goncalves-Vivas.jpg" alt="Marcelo Gonçalves Vivas – orientador do estudo/professor da UNIFAL-MG" >}}
+  {{< grid-item src="Diego-Lourenconi-Ferreira.jpg" alt="Diego Lourençoni Ferreira – pesquisador do LEOF" >}}
+  {{< grid-item src="Gabriel-Ferrari-de-Oliveira.jpg" alt="Gabriel Ferrari de Oliveira – pesquisador do LEOF" >}}
+  {{< grid-item src="Gabriele-C.-Felipe-de-Paula.jpg" alt="Gabriele C. Felipe de Paula – pesquisadora do IFSC" >}}
+  {{< grid-item src="Andre-Luis-dos-Santos-Romero.jpg" alt="André Luís dos Santos Romero – pesquisador do IFSC" >}}
+  {{< grid-item src="Cleber-Renato-Mendonca.jpg" alt="Cleber Renato Mendonça – pesquisador do IFSC" >}}
+{{< /grid-gallery >}}
 
-![alt text](Marcelo-Goncalves-Vivas.jpg)
-Marcelo Gonçalves Vivas – orientador do estudo/professor da UNIFAL-MG. (Foto: Arquivo Pessoal) 
-
-![alt text](Diego-Lourenconi-Ferreira.jpg)
-Diego Lourençoni Ferreira – pesquisador do Laboratório de Espectroscopia Óptica e Fotônica. (Foto: Arquivo Pessoal) 
-
-![alt text](Gabriel-Ferrari-de-Oliveira.jpg)
-Gabriel Ferrari de Oliveira – pesquisador do Laboratório de Espectroscopia Óptica e Fotônica. (Foto: Arquivo Pessoal)
-
-![alt text](Gabriele-C.-Felipe-de-Paula.jpg)
-Gabriele C. Felipe de Paula – pesquisadora do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal)
-
-![alt text](Andre-Luis-dos-Santos-Romero.jpg)
-André Luís dos Santos Romero – pesquisador do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal)
-
-![alt text](Cleber-Renato-Mendonca.jpg)
-Cleber Renato Mendonça – pesquisador do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal) 
+{{< carousel >}}
+  {{< carousel-item src="Richard-Silveira-Pereira.jpg" alt="Richard Silveira Pereira" description="Autor do estudo/doutorando em Ciência e Engenharia de Materiais. (Foto: Arquivo Pessoal)" >}}
+  {{< carousel-item src="Marcelo-Goncalves-Vivas.jpg" alt="Marcelo Gonçalves Vivas" description="Orientador do estudo/professor da UNIFAL-MG. (Foto: Arquivo Pessoal)" >}}
+  {{< carousel-item src="Diego-Lourenconi-Ferreira.jpg" alt="Diego Lourençoni Ferreira" description="Pesquisador do Laboratório de Espectroscopia Óptica e Fotônica. (Foto: Arquivo Pessoal)" >}}
+  {{< carousel-item src="Gabriel-Ferrari-de-Oliveira.jpg" alt="Gabriel Ferrari de Oliveira" description="Pesquisador do Laboratório de Espectroscopia Óptica e Fotônica. (Foto: Arquivo Pessoal)" >}}
+  {{< carousel-item src="Gabriele-C.-Felipe-de-Paula.jpg" alt="Gabriele C. Felipe de Paula" description="Pesquisadora do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal)" >}}
+  {{< carousel-item src="Andre-Luis-dos-Santos-Romero.jpg" alt="André Luís dos Santos Romero" description="Pesquisador do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal)" >}}
+  {{< carousel-item src="Cleber-Renato-Mendonca.jpg" alt="Cleber Renato Mendonça" description="Pesquisador do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal)" >}}
+{{< /carousel >}}
 
 Confira o artigo completo no site da revista científica ACS Applied Nano Materials, [neste link](https://pubs.acs.org/doi/10.1021/acsanm.5c00832).
 
