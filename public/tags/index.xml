@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Meu Novo Projeto Hugo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nanopartículas</title>
+      <link>http://localhost:1313/tags/nanopart%C3%ADculas/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nanopart%C3%ADculas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pesquisa</title>
+      <link>http://localhost:1313/tags/pesquisa/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pesquisa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programa De Pós-Graduação Em Ciência E Engenharia De Materiais</title>
+      <link>http://localhost:1313/tags/programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-ci%C3%AAncia-e-engenharia-de-materiais/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/programa-de-p%C3%B3s-gradua%C3%A7%C3%A3o-em-ci%C3%AAncia-e-engenharia-de-materiais/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projeto &#43;Ciência</title>
+      <link>http://localhost:1313/tags/projeto-&#43;ci%C3%AAncia/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/projeto-&#43;ci%C3%AAncia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UNIFAL-MG</title>
+      <link>http://localhost:1313/tags/unifal-mg/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/unifal-mg/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Enfermagem</title>
       <link>http://localhost:1313/tags/enfermagem/</link>
@@ -41,13 +76,6 @@
       <link>http://localhost:1313/tags/ppgnl/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ppgnl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Projeto &#43;Ciência</title>
-      <link>http://localhost:1313/tags/projeto-&#43;ci%C3%AAncia/</link>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/projeto-&#43;ci%C3%AAncia/</guid>
       <description></description>
     </item>
     <item>
@@ -90,6 +118,27 @@
       <link>http://localhost:1313/tags/bioestrutura-neuromuscular/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/bioestrutura-neuromuscular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Distrofia Muscular De Duchenne</title>
+      <link>http://localhost:1313/tags/distrofia-muscular-de-duchenne/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/distrofia-muscular-de-duchenne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extrato De Soja</title>
+      <link>http://localhost:1313/tags/extrato-de-soja/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/extrato-de-soja/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Isoflavonas</title>
+      <link>http://localhost:1313/tags/isoflavonas/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/isoflavonas/</guid>
       <description></description>
     </item>
     <item>
@@ -286,6 +335,13 @@
       <link>http://localhost:1313/tags/ci%C3%AAncia/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ci%C3%AAncia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iniciação Científica</title>
+      <link>http://localhost:1313/tags/inicia%C3%A7%C3%A3o-cient%C3%ADfica/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/inicia%C3%A7%C3%A3o-cient%C3%ADfica/</guid>
       <description></description>
     </item>
   </channel>
