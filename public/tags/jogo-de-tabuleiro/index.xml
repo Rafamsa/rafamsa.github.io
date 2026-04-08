@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jogo De Tabuleiro on Meu Novo Projeto Hugo</title>
+    <link>http://localhost:1313/tags/jogo-de-tabuleiro/</link>
+    <description>Recent content in Jogo De Tabuleiro on Meu Novo Projeto Hugo</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/jogo-de-tabuleiro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jogo de tabuleiro para o ensino da Matemática auxilia crianças do Ensino Fundamental a compreender números inteiros</title>
+      <link>http://localhost:1313/posts/2024-11-19-jogo-tabuleiro-matematica-ensino/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-19-jogo-tabuleiro-matematica-ensino/</guid>
+      <description>&lt;p&gt;A Matemática é uma disciplina básica conhecida por ser difícil, sobretudo durante a infância. Pensando nisso, Luiz Gustavo Alves Silva, orientado, em seu &lt;a href=&#34;https://www.unifal-mg.edu.br/profmat/&#34;&gt;mestrado&lt;/a&gt;, pela professora Cátia Regina de Oliveira Quilles Queiroz, do Departamento de Matemática do &lt;a href=&#34;https://www.unifal-mg.edu.br/icex/&#34;&gt;Instituto de Ciências Exatas (ICEx)&lt;/a&gt; da UNIFAL-MG, desenvolveu um jogo para o ensino de números inteiros para crianças a partir do 7º ano do Ensino Fundamental.&lt;/p&gt;&#xA;&lt;p&gt;Denominado “Corrida Zahl”, o jogo foi utilizado junto às crianças do 7º ano da Escola Municipal Benedita Braga Cobra (EMBBC) no município de Borda da Mata/MG em 2023, e se mostrou eficaz, principalmente, em gerar interações sociais entre os participantes. “O jogo cumpriu com as expectativas de ser divertido e interativo, as crianças se ajudavam mutuamente na execução de cálculos, revisão de jogadas e estratégias”, compartilha. “Alunos com maiores dificuldades em Matemática e raciocínio lógico, aos poucos, apresentavam uma maior desenvoltura diante da mediação de outros alunos com maiores habilidades”, completa.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

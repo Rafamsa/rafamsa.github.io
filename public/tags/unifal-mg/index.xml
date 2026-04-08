@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNIFAL-MG on Meu Novo Projeto Hugo</title>
+    <link>http://localhost:1313/tags/unifal-mg/</link>
+    <description>Recent content in UNIFAL-MG on Meu Novo Projeto Hugo</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unifal-mg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pesquisa desenvolve técnica de alta precisão para produção de nanopartículas de ouro com potencial aplicação em saúde, tecnologia e meio ambiente</title>
+      <link>http://localhost:1313/posts/2026-01-19-nanoparticulas-de-ouro/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-01-19-nanoparticulas-de-ouro/</guid>
+      <description>&lt;p&gt;Uma pesquisa realizada no &lt;a href=&#34;https://www.unifal-mg.edu.br/ppgf/laboratorio-de-espectroscopia-optica-e-fotonica/&#34;&gt;Laboratório de Espectroscopia Óptica e Fotônica (LEOF)&lt;/a&gt; da UNIFAL-MG, no campus de Poços de Caldas, apresenta um novo método para a fabricação de nanopartículas de ouro com controle preciso de tamanho, forma, densidade e concentração. O estudo é parte do doutorado de Richard Silveira Pereira, desenvolvido sob orientação do professor Marcelo Gonçalves Vivas, junto ao &lt;a href=&#34;https://www.unifal-mg.edu.br/ppgcem/&#34;&gt;Programa de Pós-Graduação em Ciência e Engenharia de Materiais&lt;/a&gt;, e abre caminho para aplicações em áreas como diagnóstico de doenças, desenvolvimento de sensores e tecnologias ópticas avançadas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

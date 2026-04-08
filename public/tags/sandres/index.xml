@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAnDReS on Meu Novo Projeto Hugo</title>
+    <link>http://localhost:1313/tags/sandres/</link>
+    <description>Recent content in SAnDReS on Meu Novo Projeto Hugo</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sandres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ferramenta computacional otimiza o desenvolvimento de novos fármacos em estudos de doenças como o câncer com a ajuda de IA</title>
+      <link>http://localhost:1313/posts/2025-08-07-ferramentas-ia-farmaco-cancer/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-08-07-ferramentas-ia-farmaco-cancer/</guid>
+      <description>&lt;p&gt;Uma equipe de pesquisadores vinculada aos programas de pós-graduação em &lt;a href=&#34;https://www.unifal-mg.edu.br/ppgbiotec/&#34;&gt;Biotecnologia&lt;/a&gt; e em &lt;a href=&#34;https://www.unifal-mg.edu.br/ppgf/&#34;&gt;Física&lt;/a&gt; da UNIFAL-MG utilizou uma ferramenta de IA, chamada SAnDRes, para modelar interações entre a proteína CDK2 (alvo terapêutico no combate ao câncer) e os inibidores, a fim de identificar fármacos em potencial de forma mais rápida e precisa. A pesquisa foi conduzida pelo pesquisador Walter Filgueira de Azevedo Júnior, professor visitante do Programa de Pós-Graduação em Física (PPGF).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
