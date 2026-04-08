@@ -1,0 +1,55 @@
+name: "Rafael M. S. A."
+title: "Mestrando em Ciência da Computação, Comunicador de Tecnologia"
+photo: "/img/rafael-bio.jpg"
+short_description: "Apaixonado por tecnologia e comunicação científica, compartilho conhecimentos sobre programação, pesquisa acadêmica e inovação tecnológica."
+full_description: |
+  Mestrando em Ciência da Computação com foco em inteligência artificial e processamento de linguagem natural. Trabalho como comunicador científico, traduzindo pesquisas acadêmicas complexas em conteúdo acessível para o público geral.
+
+  Tenho experiência em desenvolvimento de software, pesquisa acadêmica e divulgação científica. Acredito no poder da comunicação para democratizar o conhecimento e aproximar a ciência da sociedade.
+
+email: "rafael@example.com"
+social:
+  github: "rafamsa"
+  linkedin: "rafael-msa"
+  twitter: "@rafamsa"
+
+# CV sections - each can have multiple entries
+cv:
+  education:
+    - title: "Mestrado em Ciência da Computação"
+      institution: "UNIFAL-MG"
+      start: "2024-03"
+      end: "current"
+      description: "Foco em IA e processamento de linguagem natural"
+
+    - title: "Bacharelado em Ciências da Computação"
+      institution: "UNIFAL-MG"
+      start: "2020-02"
+      end: "2023-12"
+      description: "Graduação com ênfase em desenvolvimento de software"
+
+  experience:
+    - title: "Comunicador Científico"
+      organization: "Freelancer"
+      start: "2023-01"
+      end: "current"
+      description: "Produção de conteúdo científico para blogs e revistas especializadas"
+
+    - title: "Desenvolvedor Web"
+      organization: "Empresa Tech"
+      start: "2022-06"
+      end: "2023-12"
+      description: "Desenvolvimento de aplicações web em Python e JavaScript"
+
+  research:
+    - title: "Processamento de Linguagem Natural em Português"
+      organization: "UNIFAL-MG"
+      start: "2024-03"
+      end: "current"
+      description: "Pesquisa sobre modelos de linguagem para o português brasileiro"
+
+    - title: "Análise de Sentimentos em Redes Sociais"
+      organization: "UNIFAL-MG"
+      start: "2023-08"
+      end: "2024-02"
+      description: "Trabalho de conclusão de curso sobre análise automatizada de sentimentos"

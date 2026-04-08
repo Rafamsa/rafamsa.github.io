@@ -4,6 +4,15 @@ title = 'My New Hugo Project'
 
 theme = "terminal"
 
+[params]
+author = "Rafael M. S. A."
+description = "A blog about programming, technology, and more."
+centerTheme = true
+
+[params.Logo]
+logoText = "Meu Blog"
+
+
 [languages]
 [languages.pt-br]
 languageName = 'Portuguese'

@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{- $bio := hugo.Data.bio -}}
+
+<div class="fullbio">
+    <header class="fullbio__header">
+        <img src="{{ $bio.photo }}" alt="{{ $bio.name }}" class="fullbio__photo" />
+        <div class="fullbio__info">
+            <h1 class="fullbio__name">{{ $bio.name }}</h1>
+            <p class="fullbio__title">{{ $bio.title }}</p>
+        </div>
+    </header>
+
+    <div class="fullbio__description">
+        {{ $bio.full_description | markdownify }}
+    </div>
+
+    {{ if $bio.social }}
+    <div class="fullbio__social">
+        <h3>Contato</h3>
+        <ul>
+            {{ if $bio.email }}<li><strong>Email:</strong> <a href="mailto:{{ $bio.email }}">{{ $bio.email }}</a></li>{{
+            end }}
+            {{ if $bio.social.github }}<li><strong>GitHub:</strong> <a
+                    href="https://github.com/{{ $bio.social.github }}">{{ $bio.social.github }}</a></li>{{ end }}
+            {{ if $bio.social.linkedin }}<li><strong>LinkedIn:</strong> <a
+                    href="https://linkedin.com/in/{{ $bio.social.linkedin }}">{{ $bio.social.linkedin }}</a></li>{{ end
+            }}
+            {{ if $bio.social.twitter }}<li><strong>Twitter:</strong> <a
+                    href="https://twitter.com/{{ $bio.social.twitter }}">{{ $bio.social.twitter }}</a></li>{{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
+    {{ if $bio.cv }}
+    <div class="fullbio__cv">
+        {{ range $section, $entries := $bio.cv }}
+        <section class="cv-section">
+            <h3 class="cv-section__title">
+                {{ if eq $section "education" }}Formação
+                {{ else if eq $section "experience" }}Experiência
+                {{ else if eq $section "research" }}Pesquisa
+                {{ else }}{{ $section | title }}{{ end }}
+            </h3>
+
+            {{ range $entries }}
+            <div class="cv-entry">
+                <div class="cv-entry__header">
+                    <h4 class="cv-entry__title">{{ .title }}</h4>
+                    <span class="cv-entry__period">
+                        {{ .start }} - {{ if eq .end "current" }}presente{{ else }}{{ .end }}{{ end }}
+                    </span>
+                </div>
+
+                <div class="cv-entry__meta">
+                    {{ if .institution }}
+                    <span class="cv-entry__org">{{ .institution }}</span>
+                    {{ else if .organization }}
+                    <span class="cv-entry__org">{{ .organization }}</span>
+                    {{ end }}
+                </div>
+
+                {{ if .description }}
+                <p class="cv-entry__description">{{ .description }}</p>
+                {{ end }}
+            </div>
+            {{ end }}
+        </section>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>
+
+{{ end }}

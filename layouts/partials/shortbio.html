@@ -1,0 +1,10 @@
+{{- $bio := hugo.Data.bio -}}
+<div class="shortbio">
+    <img src="{{ $bio.photo }}" alt="{{ $bio.name }}" class="shortbio__photo" />
+    <div class="shortbio__content">
+        <h3 class="shortbio__name">{{ $bio.name }}</h3>
+        <p class="shortbio__title">{{ $bio.title }}</p>
+        <p class="shortbio__description">{{ $bio.short_description }}</p>
+        <a href="/meu_blog/bio/" class="shortbio__link">Ver bio completo →</a>
+    </div>
+</div>

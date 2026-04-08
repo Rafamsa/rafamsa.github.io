@@ -233,4 +233,220 @@
     max-width: 95vw;
     max-height: 85vh;
   }
+
+  .shortbio {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .shortbio__photo {
+    margin: 0 auto 1rem;
+  }
+
+  .fullbio__header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .fullbio__photo {
+    margin: 0 auto 1rem;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Bio Components
+   -------------------------------------------------------------------------- */
+
+/* Short Bio Component for Homepage */
+.shortbio {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 2px solid var(--accent);
+  background: var(--background);
+}
+
+.shortbio__photo {
+  width: 80px;
+  height: 120px;
+  object-fit: cover;
+  border: 3px solid var(--accent);
+  flex-shrink: 0;
+}
+
+.shortbio__content {
+  flex: 1;
+}
+
+.shortbio__name {
+  margin: 0 0 0.25rem;
+  color: var(--accent);
+  font-size: 1.2rem;
+}
+
+.shortbio__title {
+  margin: 0 0 0.75rem;
+  color: var(--foreground);
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.shortbio__description {
+  margin: 0 0 1rem;
+  color: var(--foreground);
+  line-height: 1.5;
+}
+
+.shortbio__link {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.9rem;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.shortbio__link:hover {
+  border-color: var(--accent);
+}
+
+/* Full Bio Page */
+.fullbio {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.fullbio__header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid var(--accent);
+}
+
+.fullbio__photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border: 4px solid var(--accent);
+  flex-shrink: 0;
+}
+
+.fullbio__name {
+  margin: 0 0 0.5rem;
+  color: var(--accent);
+  font-size: 2rem;
+}
+
+.fullbio__title {
+  margin: 0;
+  color: var(--foreground);
+  font-size: 1.1rem;
+  opacity: 0.8;
+}
+
+.fullbio__description {
+  margin: 2rem 0;
+  color: var(--foreground);
+  line-height: 1.6;
+}
+
+.fullbio__social {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: rgba(var(--accent-rgb, 238, 195, 94), 0.05);
+  border-left: 4px solid var(--accent);
+}
+
+.fullbio__social h3 {
+  margin: 0 0 1rem;
+  color: var(--accent);
+}
+
+.fullbio__social ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.fullbio__social li {
+  margin: 0.5rem 0;
+  color: var(--foreground);
+}
+
+.fullbio__social a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.fullbio__social a:hover {
+  text-decoration: underline;
+}
+
+.fullbio__cv {
+  margin: 3rem 0 0;
+}
+
+.cv-section {
+  margin: 2rem 0;
+}
+
+.cv-section__title {
+  margin: 0 0 1.5rem;
+  color: var(--accent);
+  font-size: 1.4rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--accent);
+}
+
+.cv-entry {
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  border-left: 2px solid var(--accent);
+}
+
+.cv-entry__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.25rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.cv-entry__title {
+  margin: 0;
+  color: var(--foreground);
+  font-size: 1.1rem;
+  flex: 1;
+}
+
+.cv-entry__period {
+  color: var(--accent);
+  font-size: 0.85rem;
+  white-space: nowrap;
+  background: rgba(var(--accent-rgb, 238, 195, 94), 0.1);
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+}
+
+.cv-entry__meta {
+  margin: 0.25rem 0 0.75rem;
+}
+
+.cv-entry__org {
+  color: var(--foreground);
+  font-size: 0.95rem;
+  opacity: 0.8;
+  font-style: italic;
+}
+
+.cv-entry__description {
+  margin: 0;
+  color: var(--foreground);
+  opacity: 0.9;
+  line-height: 1.5;
 }
