@@ -25,7 +25,7 @@ weight = 20
 
 [[menus.main]]
 name = "Educação"
-url = "/educacao/"
+url = "/edu/"
 weight = 30
 
 [[menus.main]]
