@@ -1,6 +1,6 @@
 name: "Rafael Martins da Silva Afeto"
 title: "Mestrando em Ciências Ambientais, Comunicador Científico, Ilustrador e Escritor"
-photo: "/meu_blog/img/myface.jpg"
+photo: "/img/myface.jpg"
 short_description: "Apaixonado por ciência, arte e comunicação científica, compartilho conhecimentos sobre ciência, pesquisa acadêmica e arte."
 full_description: "Mestrando em Ciências Ambientais com foco em comunicação científica, ilustração e escrita. Trabalho como comunicador científico, traduzindo pesquisas acadêmicas complexas em conteúdo acessível para o público geral."
 
@@ -8,7 +8,7 @@ email: "rafael.afeto@gmail.com"
 social:
   github: "rafamsa"
   linkedin: "rafael-martins-274121227"
-  instagram: "afetu.oso"
+  instagram: "rafa.yo_"
 
 # CV sections - each can have multiple entries
 cv:

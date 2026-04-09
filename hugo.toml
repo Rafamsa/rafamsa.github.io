@@ -1,4 +1,4 @@
-baseURL = 'https://rafamsa.github.io/meu_blog/'
+baseURL = 'https://rafamsa.github.io/'
 languageCode = 'pt-br'
 locale = 'pt-br'
 title = 'Rafael Martins'
