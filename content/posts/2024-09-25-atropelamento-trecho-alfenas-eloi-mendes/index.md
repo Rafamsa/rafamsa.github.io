@@ -21,7 +21,11 @@ O trecho estudado se encontra entre as cidades mineiras de Alfenas e Varginha, n
 Durante o período de realização do estudo, a pesquisadora fotografou animais atropelados para posterior análise e também anotou os padrões geográficos e do ambiente próximo aos animais encontrados.
 
 O local de escolha do estudo, atualmente está sob administração do grupo EPR Vias do Café e já é conhecido pela grande quantidade de atropelamentos de animais. A pesquisa mostra que estes acidentes prejudicam tanto a fauna local, com a morte destes animais, quanto a segurança dos viajantes.
-![alt text](trecho-atropelamentos-800x528.jpg)![alt text](trecho-atropelamentos1.jpg)
+
+{{< grid-gallery >}}
+    {{< grid-item src="trecho-atropelamentos-800x528.jpg" >}}
+    {{< grid-item src="trecho-atropelamentos1.jpg" >}}
+{{< /grid-gallery >}}
 Pontos de maior incidência de atropelamentos. (Imagens: Reprodução/TCC Danna Ferreira)
 
 ## Motivação para o tema de pesquisa

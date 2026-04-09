@@ -17,10 +17,10 @@ hideComments = false
 
 Com o intuito de possibilitar que o estudo de ondas gravitacionais e buracos negros sejam mais acessíveis para alunos no início de graduação em cursos da área de Ciências Exatas, pesquisadores da UNIFAL-MG desenvolveram métodos, utilizando conceitos e equações de física básica, para facilitar os cálculos e entendimentos. A pesquisa foi desenvolvida em 2022 como um projeto de iniciação científica do discente do curso de Física Nicolas Lerioni Nascimento e orientado pelo professor Rodrigo Cuzinatto, do [Programa de Pós-Graduação em Física](https://www.unifal-mg.edu.br/ppgf/) da UNIFAL-MG.
 
-![alt text](Nicolas-Lerioni-Nascimento-Fisica.png)
-Nicolas Nascimento – egresso de Física e autor do estudo. (Foto: Arquivo Pessoal)
-![alt text](Rodrigo-Cuzinatto.jpg)
-Rodrigo Cuzinatto – professor e orientador. (Foto: Arquivo Pessoal)
+{{< grid-gallery >}}
+  {{< grid-item src="Nicolas-Lerioni-Nascimento-Fisica.png" alt="Nicolas Nascimento – egresso de Física e autor do estudo. (Foto: Arquivo Pessoal)" >}}
+  {{< grid-item src="Rodrigo-Cuzinatto.jpg" alt="Rodrigo Cuzinatto – professor e orientador. (Foto: Arquivo Pessoal)" >}}
+{{< /grid-gallery >}}
 
 Para o orientador, o principal mérito do trabalho é o caráter pedagógico. “Ele entrega ideias e resultados sofisticados de uma forma supostamente tão simples quanto possível”, destaca. O professor acrescenta que as equações estipuladas permitiram estimar com precisão os parâmetros físicos de sistemas binários de buracos negros em comparação com os dados coletados pela colaboração da rede internacional dos observatórios e interferômetros [LIGO-Virgo-Kagra (LVK)](https://gcn-nasa-gov.translate.goog/missions/lvk?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc).
 

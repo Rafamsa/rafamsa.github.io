@@ -32,16 +32,15 @@ O grupo apostou em duas frentes para viabilizar a produção nacional: usar a sa
 
 Para converter a sacarose em FOS, foi necessário um biocatalisador específico: uma enzima produzida pelo fungo Aspergillus oryzae IPT-301. “Esse fungo é o único capaz de produzir a enzima adequada para transformar, potencialmente, a sacarose em FOS”, detalha o professor Rafael Perna.
 
-![alt text](pesquisadora-cultivando-o-fungo-600x800.jpg)
+![alt text](pesquisadora-cultivando-o-fungo.jpg)
 Pesquisadora cultivando o fungo. (Foto: Arquivo/Grupo de pesquisa)
 
 O desafio seguinte foi tornar as células mais resistentes no processo produtivo. A solução veio com a engenharia de bioprocessos: os cientistas usaram poliácido lático (PLA), um plástico biodegradável e reciclável, para criar estruturas 3D que imobilizam os micro-organismos. Isso aumentou a estabilidade operacional das células e garantiu uma produção mais eficiente e sustentável do açúcar prebiótico. Segundo o professor, o grupo já alcançou uma produção de aproximadamente 160 g/L.h de FOS em escala laboratorial, um resultado promissor que foi validado por estudos de viabilidade técnico-econômica realizados pelo grupo de pesquisa.
 
-![alt text](inicio-da-reacao-utilizando-o-impresso-3d-de-pla-em-reator-de-leito-fixo-Rafael-Martins-da-Silva-Afeto-450x800.jpg)
-
-Início da reação utilizando o impresso 3d de PLA em reator de leito fixo. (Arquivo/Grupo de pesquisa)
-![alt text](Reator-de-leito-fixo-Rafael-Martins-da-Silva-Afeto-450x800.jpg)
-Reator de leito fixo. (Arquivo/Grupo de pesquisa)
+{{< grid-gallery >}}
+  {{< grid-item src="inicio-da-reacao-utilizando-o-impresso-3d-de-pla-em-reator-de-leito-fixo.jpg" alt="Início da reação utilizando o impresso 3d de PLA em reator de leito fixo. (Arquivo/Grupo de pesquisa)" >}}
+  {{< grid-item src="Reator-de-leito-fixo.jpg" alt="Reator de leito fixo. (Arquivo/Grupo de pesquisa)" >}}
+{{< /grid-gallery >}}
 
 ## Próximos passos
 
@@ -53,7 +52,7 @@ E a pesquisa não deve parar por aí. Segundo Rafael Perna, a mesma tecnologia p
 
 A rede de pesquisa conta com parcerias nacionais e internacionais, incluindo laboratórios da Universidade Federal do Tocantis (UFT, Campus Palmas-TO), da Universidade Estadual Paulista (UNESP, Campus São Vicente-SP), do Instituto de Pesquisas Tecnológicas de São Paulo (IPT, São Paulo-SP) e do Centro de Engenharia Biológica da Universidade do Minho, em Portugal.
 
-![alt text](Parte-do-grupo-de-pesquisa-Rafael-Perna-768x572.jpg)
+![alt text](Parte-do-grupo-de-pesquisa-Rafael-Perna.jpg)
 Parte dos pesquisadores que fazem parte da rede de colaboração. (Foto: Arquivo/Grupo de pesquisa)
 
 Nos últimos anos, o trabalho foi apoiado por oito projetos financiados pela [Fundação de Amparo à Pesquisa do Estado de Minas Gerais – FAPEMIG](https://fapemig.br/) (Processos APQ-00793-24, BPD-00030-22, APQ-00085-21 e APQ-02131-14) e pelo [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br) do Governo Federal (Processos 305029/2024-0, 408302/2023-2, 404912/2021-4 e 421540/2018-4).

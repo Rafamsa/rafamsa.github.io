@@ -44,22 +44,17 @@ Na nova fase do estudo, que agora avança para o nível de doutorado, o foco ser
 O estudo está vinculado ao [Grupo de Pesquisa em Assistência Farmacêutica](https://www.unifal-mg.edu.br/gpaf/#:~:text=O%20Grupo%20de%20Pesquisa%20em,na%20%C3%A1rea%20do%20Cuidado%20Farmac%C3%AAutico.) e constitui parte de um projeto mais amplo, intitulado Projeto FLUIR: Manejo e cuidado do paciente em anticoagulação, coordenado pelos orientadores da pesquisa. Tal pesquisa recebeu financiamento da [Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/).
 
 Conheça os pesquisadores do grupo:
-![alt text](CamilaCamposDutra.png)
-Camila Campos Dutra – acadêmica do mestrado em Assistência Farmacêutica
-![alt text](Prof.Dr_.TiagoMarquesdosReis.png)
-Tiago Marques dos Reis – professor e orientador do estudo
-![alt text](Profa.Dra_.LeilismaraSousaNogueira.png)
-Leilismara Sousa Nogueira – professora e coorientadora do estudo
-![alt text](Profa.Dra_.IaraBaldimRabeloGomes.png)
-Iara Baldim Rabelo Gomes – professora e médica
-![alt text](JosianeCostadeSa.png)
-Josiane Costa de Sá – acadêmica
-![alt text](KarenCristinaCassiaRoeslerdaSilva.png)
-Karen Cristina Cássia Roesler da Silva – acadêmica
-![alt text](MarciaVivianedosSantos.png)
-Márcia Viviane dos Santos – acadêmica
-![alt text](YasmindosSantosLousano.png)
-Yasmin dos Santos Lousano – acadêmica
+{{< grid-gallery >}}
+    {{< grid-item src="CamilaCamposDutra.png" alt="Camila Campos Dutra – acadêmica do mestrado em Assistência Farmacêutica." >}}
+    {{< grid-item src="Prof.Dr_.TiagoMarquesdosReis.png" alt="Tiago Marques dos Reis – professor e orientador do estudo." >}}
+    {{< grid-item src="Profa.Dra_.LeilismaraSousaNogueira.png" alt="Leilismara Sousa Nogueira – professora e coorientadora do estudo." >}}
+    {{< grid-item src="Profa.Dra_.IaraBaldimRabeloGomes.png" alt="Iara Baldim Rabelo Gomes – professora e médica." >}}
+    {{< grid-item src="JosianeCostadeSa.png" alt="Josiane Costa de Sá – acadêmica." >}}
+    {{< grid-item src="KarenCristinaCassiaRoeslerdaSilva.png" alt="Karen Cristina Cássia Roesler da Silva – acadêmica." >}}
+    {{< grid-item src="MarciaVivianedosSantos.png" alt="Márcia Viviane dos Santos – acadêmica." >}}
+    {{< grid-item src="YasmindosSantosLousano.png" alt="Yasmin dos Santos Lousano – acadêmica." >}}
+{{< /grid-gallery >}}
+
 
 *Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
 

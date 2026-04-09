@@ -19,11 +19,11 @@ A criação de comissões responsáveis por verificar a autodeclaração racial 
 
 O trabalho intitulado Sob a pele: o processo de heteroidentificação na graduação da Universidade Federal de Alfenas é de autoria do acadêmico Paulo Henrique Santos Pereira, desenvolvido sob a orientação do professor Jackson Wilke da Cruz Souza , que integrou o corpo docente do [Mestrado Profissional em Administração Pública (Profiap)](https://www.unifal-mg.edu.br/profiap/) oferecido pela Universidade no campus Varginha, e hoje faz parte do [Instituto de Ciência, Tecnologia e Inovação (ICTI)](https://icti.ufba.br/) da Universidade Federal da Bahia (UFBA).
 
-![alt text](Paulo-Henrique-Santos-Pereira.jpg)
-Paulo Henrique Santos Pereira – autor da pesquisa. (Foto: Arquivo Pessoal)
+{{< grid-gallery >}}
+  {{< grid-item src="Paulo-Henrique-Santos-Pereira.jpg" alt="Paulo Henrique Santos Pereira – autor da pesquisa. (Foto: Arquivo Pessoal)" >}}
+  {{< grid-item src="Jackson-Wilke-da-Cruz-Souza.jpg" alt="Jackson Wilke da Cruz Souza – professor que orientou o trabalho. (Foto: Arquivo Pessoal)" >}}
+{{< /grid-gallery >}}
 
-![alt text](Jackson-Wilke-da-Cruz-Souza.jpg)
-Jackson Wilke da Cruz Souza – professor que orientou o trabalho. (Foto: Arquivo Pessoal)
 
 A CAVANE, comissão responsável por essa validação, foi criada em 2018 na UNIFAL-MG e, para Paulo Henrique Pereira, foi um divisor de águas na Universidade. “O resultado mais impactante é a drástica queda no percentual de matrículas indeferidas”, compartilha. Ele informa que, no início do processo, em 2018, 52% das autodeclarações analisadas eram rejeitadas, número que caiu para apenas 11% no segundo semestre de 2020. Segundo o acadêmico, isso sugere que a existência da comissão diminuiu tentativas de fraude, tornando o processo mais robusto e transparente.
 
