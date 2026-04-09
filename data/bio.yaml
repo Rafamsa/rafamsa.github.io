@@ -1,58 +1,85 @@
-name: "Rafael M. S. A."
-title: "Mestrando em Ciência da Computação, Comunicador de Tecnologia"
+name: "Rafael Martins da Silva Afeto"
+title: "Mestrando em Ciências Ambientais, Comunicador Científico, Ilustrador e Escritor"
 photo: "/img/rafael-bio.jpg"
-short_description: "Apaixonado por tecnologia e comunicação científica, compartilho conhecimentos sobre programação, pesquisa acadêmica e inovação tecnológica."
-full_description: |
-  Mestrando em Ciência da Computação com foco em inteligência artificial e processamento de linguagem natural. Trabalho como comunicador científico, traduzindo pesquisas acadêmicas complexas em conteúdo acessível para o público geral.
+short_description: "Apaixonado por ciência, arte e comunicação científica, compartilho conhecimentos sobre ciência, pesquisa acadêmica e arte."
+full_description: "Mestrando em Ciências Ambientais com foco em comunicação científica, ilustração e escrita. Trabalho como comunicador científico, traduzindo pesquisas acadêmicas complexas em conteúdo acessível para o público geral."
 
-  Tenho experiência em desenvolvimento de software, pesquisa acadêmica e divulgação científica. Acredito no poder da comunicação para democratizar o conhecimento e aproximar a ciência da sociedade.
-
-email: "rafael@example.com"
+email: "rafael.afeto@gmail.com"
 social:
   github: "rafamsa"
-  linkedin: "rafael-msa"
-  twitter: "@rafamsa"
+  linkedin: "rafael-martins-274121227"
+  instagram: "afetu.oso"
 
 # CV sections - each can have multiple entries
 cv:
-  macaxera:
-    - title: "Gosto muito de macaxeira"
-      description: "Macaxeira é um alimento versátil e delicioso, muito presente na culinária brasileira. Pode ser preparada de diversas formas, como cozida, frita ou assada, e é uma ótima fonte de carboidratos e fibras."
-  education:
-    - title: "Mestrado em Ciência da Computação"
-      institution: "UNIFAL-MG"
-      start: "2024-03"
-      end: "current"
-      description: "Foco em IA e processamento de linguagem natural"
+  projects:
+    - title: "Núcleo de Estudos e Divulgação Científica"
+      organization: "Núcleo de Estudos em Ciências Ambientais e Exatas - NECAE"
+      start: "jan-2026"
+      end: "Atual"
+      instagram: "necae_unifal"
+      description: "Participação em atividades de divulgação científica, incluindo produção de conteúdo para redes sociais e organização de eventos."
 
-    - title: "Bacharelado em Ciências da Computação"
-      institution: "UNIFAL-MG"
-      start: "2020-02"
-      end: "2023-12"
-      description: "Graduação com ênfase em desenvolvimento de software"
+    - title: "Projeto de Divulgação Científica"
+      organization: "+Ciência"
+      start: "ago-2024"
+      end: "abr-2026"
+      site:
+        url: "https://jornal.unifal-mg.edu.br/maisciencia/"
+        label: "Acessar o portal do +Ciência" # O nome "bonitinho" que vai aparecer
+      instagram: "maiscienciaunifalmg"
+      description: "Desenvolvimento de conteúdo jornalístico para divulgação de ciência, inovação e tecnologia da UNIFAL-MG. Além de análise de métricas e controle do Instagram do projeto, entrevistas com pesquisadores e organização de eventos de divulgação científica."
 
-  experience:
-    - title: "Comunicador Científico"
-      organization: "Freelancer"
-      start: "2023-01"
-      end: "current"
-      description: "Produção de conteúdo científico para blogs e revistas especializadas"
+    - title: "Ilustrador"
+      organization: "Freelance"
+      start: "dez-2020"
+      end: "Atual"
+      instagram: "rafa.yo_"
+      description: "Criação de ilustrações artísticas e logos, manutenção e criação de posts e vídeos para Instagram, além de prospecção de clientes."
 
-    - title: "Desenvolvedor Web"
-      organization: "Empresa Tech"
-      start: "2022-06"
-      end: "2023-12"
-      description: "Desenvolvimento de aplicações web em Python e JavaScript"
+    - title: "Divulgação científica e extensão universidária"
+      organization: "Fermentando Alimentos e Saberes"
+      start: "fev-2024"
+      end: "dez-2024"
+      instagram: "fermentandounifal"
+      description: "Participação em atividades de divulgação científica e extensão universitária, incluindo produção de conteúdo para redes sociais, organização de eventos e realização de oficinas."
 
-  research:
-    - title: "Processamento de Linguagem Natural em Português"
-      organization: "UNIFAL-MG"
-      start: "2024-03"
-      end: "current"
-      description: "Pesquisa sobre modelos de linguagem para o português brasileiro"
+    - title: "Ilustrador científico"
+      organization: "Atlas de Histologia Interativa"
+      start: "jan-2022"
+      end: "dez-2022"
+      site:
+        url: "https://www.unifal-mg.edu.br/histologiainterativa/"
+        label: "Acessar o Atlas de Histologia Interativa"
+      description: "Criação de ilustrações científicas e didáticas para o Atlas Interativo de Histologia."
+  #education:
+  #- title: "Mestrado em Ciências Ambientais"
+  #institution: "UNIFAL-MG"
+  #start: "2025-03"
+  #end: "current"
+  #description: "Desenvolvimento de modelos de Machine Learning para a identificação de abelhas através da bioacústica."
 
-    - title: "Análise de Sentimentos em Redes Sociais"
-      organization: "UNIFAL-MG"
-      start: "2023-08"
-      end: "2024-02"
-      description: "Trabalho de conclusão de curso sobre análise automatizada de sentimentos"
+  #- title: "Bacharelado em Ciências Biológicas"
+  #institution: "UNIFAL-MG"
+  #start: "2020-02"
+  #end: "2025-02"
+
+  #experience:
+  #- title: "Comunicador Científico"
+  #organization: "+Ciência"
+  #start: "2024"
+  #end: "2026"
+  #description: "Tradução de conteúdo técnico-científico para o público geral e produção de material jornalístico"
+
+  #- title: "Desenvolvedor Web"
+  #organization: "Empresa Tech"
+  #start: "2022-06"
+  #end: "2023-12"
+  #description: "Desenvolvimento de aplicações web em Python e JavaScript"
+
+  #research:
+  #- title: "Processamento de Linguagem Natural em Português"
+  #organization: "UNIFAL-MG"
+  #start: "2024-03"
+  #end: "current"
+  #description: "Pesquisa sobre modelos de linguagem para o português brasileiro"

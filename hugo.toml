@@ -5,13 +5,13 @@ title = 'My New Hugo Project'
 theme = "terminal"
 
 [params]
-author = "Rafael M. S. A."
-description = "A blog about programming, technology, and more."
+author = "Rafael Martins da Silva Afeto."
+description = "Um blog sobre ciência, educação, arte e cultura."
 centerTheme = true
 showMenuItems = 4
 
 [params.Logo]
-logoText = "Meu Blog"
+logoText = "Menu"
 
 [[menus.main]]
 name = "Bio"
@@ -24,9 +24,14 @@ url = "/posts/"
 weight = 20
 
 [[menus.main]]
+name = "Educação"
+url = "/educacao/"
+weight = 30
+
+[[menus.main]]
 name = "Tags"
 url = "/tags/"
-weight = 30
+weight = 40
 
 [languages]
 [languages.pt-br]
