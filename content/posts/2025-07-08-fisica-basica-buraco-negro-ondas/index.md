@@ -2,14 +2,12 @@
 title = "Estudo usa conceitos de física básica para explicar buracos negros e ondas gravitacionais"
 subtitle = "Pesquisa da UNIFAL-MG transforma conceitos avançados em aprendizado acessível para estudantes da área de Ciências Exatas"
 date = "2025-07-08"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "buraco-negro.jpg"
-#Imagem ilustrativa. (Foto: Reprodução/Canva Education)
 tags = ["Astrofísica", "Buraco Negro", "Física", "Ondas Gravitacionais", "Programa de Pós-Graduação em Física", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Física"]
+keywords = ["buracos negros física básica", "ondas gravitacionais", "astrofísica acessível", "ensino de física", "LIGO-Virgo pesquisa UNIFAL"]
+description = "Pesquisadores da UNIFAL-MG usam equações de física básica para tornar o estudo de buracos negros e ondas gravitacionais acessível a alunos de graduação."
 showFullContent = false
 readingTime = false
 hideComments = false

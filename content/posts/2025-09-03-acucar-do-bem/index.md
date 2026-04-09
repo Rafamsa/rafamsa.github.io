@@ -2,14 +2,12 @@
 title = "Grupo de pesquisa desenvolve tecnologia nacional inédita que promete popularizar o ‘açúcar do bem’"
 subtitle = "Pesquisadores da UNIFAL-MG e de instituições parceiras criam método inovador para produzir fruto-oligossacarídeos (FOS) a partir da sacarose da cana-de-açúcar, o que reduz custos e diminui a dependência de importações"
 date = "2025-09-03"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_acucar-do-bem.jpg"
-#PLA [Poliácido Láctico - tipo plástico biodegradável] impresso em 3d para imobilização das células fúngicas. (Foto: Arquivo/Grupo de pesquisa)
 tags = ["FAPEMIG", "Açúcar do bem", "PPGEQ", "Biotecnologia", "CNPq", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Biotecnologia"]
+keywords = ["fruto-oligossacarídeos FOS", "açúcar do bem", "produção nacional FOS", "prebióticos cana de açúcar", "biotecnologia engenharia química UNIFAL"]
+description = "Pesquisadores da UNIFAL-MG desenvolvem tecnologia inédita para produzir fruto-oligossacarídeos (FOS) no Brasil, usando cana-de-açúcar como matéria-prima."
 showFullContent = false
 readingTime = false
 hideComments = false

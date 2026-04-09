@@ -1,39 +1,65 @@
 baseURL = 'https://rafamsa.github.io/meu_blog/'
+languageCode = 'pt-br'
 locale = 'pt-br'
-title = 'My New Hugo Project'
+title = 'Rafael Martins'
+enableRobotsTXT = true
 
 theme = "terminal"
+defaultContentLanguage = 'pt-br'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = []
 
 [params]
-author = "Rafael Martins da Silva Afeto."
+author = "Rafael Martins da Silva Afeto"
 description = "Um blog sobre ciência, educação, arte e cultura."
 centerTheme = true
-showMenuItems = 4
+showMenuItems = 5
+readMore = "Leia mais"
+newerPosts = "Artigos mais recentes"
+olderPosts = "Artigos mais antigos"
+
+# SEO
+subtitle = "Blog de divulgação científica, educação, arte e cultura por Rafael Martins — UNIFAL-MG"
+keywords = [
+    "divulgação científica",
+    "ciência",
+    "educação",
+    "UNIFAL-MG",
+    "pesquisa acadêmica",
+    "arte e cultura",
+]
+
 
 [params.Logo]
-logoText = "Menu"
+logoText = "Rafael Martins"
 
 [[menus.main]]
-name = "Bio"
-url = "/bio/"
-weight = 10
-
-[[menus.main]]
-name = "Posts"
+name = "Artigos"
 url = "/posts/"
-weight = 20
+weight = 10
 
 [[menus.main]]
 name = "Educação"
 url = "/edu/"
+weight = 20
+
+[[menus.main]]
+name = "Categorias"
+url = "/categories/"
 weight = 30
 
 [[menus.main]]
-name = "Tags"
+name = "Assuntos"
 url = "/tags/"
 weight = 40
+
+[[menus.main]]
+name = "Quem sou"
+url = "/quem-sou/"
+weight = 50
 
 [languages]
 [languages.pt-br]
 languageName = 'Portuguese'
-title = 'Meu Novo Projeto Hugo'
+title = 'Rafael Martins :: Divulgação científica, educação, arte e cultura'

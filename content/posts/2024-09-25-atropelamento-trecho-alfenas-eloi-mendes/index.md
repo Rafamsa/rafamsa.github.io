@@ -2,14 +2,12 @@
 title = "Trecho Alfenas x Elói Mendes possui maior incidência de atropelamento de animais silvestres e domésticos da rodovia MG-491"
 subtitle = "Estudo realizado por pesquisadores da UNIFAL-MG identifica acidentes que prejudicam tanto a fauna local quanto a segurança dos viajantes"
 date = "2024-09-25"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "danna-em-campo.jpg"
-#{{< figure cover = "danna-em-campo.jpg" caption = "Danna Ferreira coletando os dados. (Foto: Arquivo Pessoal)" >}}
 tags = ["Atropelamentos", "Ciência", "FAPEMIG", "Iniciação Científica", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Meio Ambiente"]
+keywords = ["atropelamento de animais silvestres", "rodovia MG-491", "fauna silvestre Alfenas", "hotspots atropelamento", "ecologia de estradas"]
+description = "Pesquisa da UNIFAL-MG mapeia os trechos com maior incidência de atropelamento de animais silvestres e domésticos na rodovia MG-491, entre Alfenas e Varginha."
 showFullContent = false
 readingTime = false
 hideComments = false

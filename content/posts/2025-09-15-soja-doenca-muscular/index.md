@@ -2,14 +2,12 @@
 title = "Compostos naturais da soja apresentam efeitos benéficos para doença muscular genética, aponta estudo"
 subtitle = "Utilizando modelo experimental, grupo de pesquisa liderado por professor da UNIFAL-MG demonstra potencial ação antioxidante e anti-inflamatória de compostos naturais derivados da soja para distrofia muscular de Duchenne"
 date = "2025-09-15"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_extrato-soja-distrofia.jpg"
-#Imagem ilustrativa. (Foto: Reproduação/Canva Education)
 tags = ["Anatomia", "Bioestrutura Neuromuscular", "Distrofia Muscular de Duchenne", "Extrato de Soja", "Isoflavonas", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Saúde"]
+keywords = ["distrofia muscular de Duchenne", "isoflavonas soja", "tratamento DMD", "extrato de soja saúde muscular", "pesquisa neuromuscular UNIFAL"]
+description = "Estudo da UNIFAL-MG mostra que isoflavonas da soja melhoram a função muscular e reduzem inflamação em modelo experimental de distrofia muscular de Duchenne."
 showFullContent = false
 readingTime = false
 hideComments = false

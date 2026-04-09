@@ -2,13 +2,12 @@
 title = "Jogo de tabuleiro para o ensino da Matemática auxilia crianças do Ensino Fundamental a compreender números inteiros"
 subtitle = "Ferramenta proposta por pesquisa desenvolvida na UNIFAL-MG também promove interações sociais entre participantes"
 date = "2024-11-19"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "capa_materia_jogo_matematica.jpg"
 tags = ["Educação Matemática", "Jogo de Tabuleiro", "Matemática", "PROFMAT", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Educação"]
+keywords = ["jogo de tabuleiro matemática", "ensino de números inteiros", "Corrida Zahl", "educação matemática ensino fundamental", "jogos educativos matemática"]
+description = "Pesquisa da UNIFAL-MG desenvolve o jogo 'Corrida Zahl' para ensinar números inteiros a crianças do 7º ano, promovendo aprendizado e interação social."
 showFullContent = false
 readingTime = false
 hideComments = false

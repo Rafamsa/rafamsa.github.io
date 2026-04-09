@@ -8,4 +8,5 @@ config:
   MD033: false
 
   # First-line heading — title is declared in TOML frontmatter, not in body
+  MD001: false
   MD041: false

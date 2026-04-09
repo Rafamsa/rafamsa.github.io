@@ -2,14 +2,12 @@
 title = "Pesquisa traz novos achados sobre a relação entre a perda de apetite e um ‘biomarcador’ do envelhecimento"
 subtitle = "Realizado por pesquisadores da UNIFAL-MG, o estudo mostra uma relação entre a anorexia do envelhecimento e o comprimento do telômero de pessoas idosas"
 date = "2025-10-30"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "capa-pesquisa-anorexia-do-envelhecimento.jpg"
-#Imagem ilustrativa. (Foto: Reprodução/Canva Education)
 tags = ["Enfermagem", "Envelhecimento", "Nutrição", "PPGENF", "PPGNL", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Saúde"]
+keywords = ["anorexia do envelhecimento", "telômero idosos", "biomarcador envelhecimento", "perda de apetite idosos", "pesquisa enfermagem nutrição UNIFAL"]
+description = "Estudo da UNIFAL-MG descobre relação entre a anorexia do envelhecimento e o encurtamento do telômero em pessoas idosas, um biomarcador do envelhecimento."
 showFullContent = false
 readingTime = false
 hideComments = false

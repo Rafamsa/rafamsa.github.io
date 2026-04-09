@@ -2,14 +2,12 @@
 title = "Protestos que ocorreram por todo o Brasil em 2013 ainda impactam a estrutura política atual"
 subtitle = "Pesquisadores da UNIFAL-MG mostram como o legado educacional e político das Jornadas de 2013 impulsionaram ações coletivas em todo o país"
 date = "2024-10-30"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "jornadas-2013.jpg"
-#Jornadas de protestos de junho de 2013. (Foto: Fabio Rodrigues Pozzebom/Agência Brasil)
 tags = ["Jornadas de 2013", "Jornadas de Junho", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Ciências Sociais"]
+keywords = ["jornadas de junho 2013", "protestos Brasil 2013", "legado político jornadas", "movimentos sociais Brasil", "pesquisa UNIFAL-MG"]
+description = "Estudo da UNIFAL-MG analisa como as Jornadas de 2013 influenciaram a estrutura política e educacional brasileira, a partir de entrevistas com pesquisadores e ativistas."
 showFullContent = false
 readingTime = false
 hideComments = false

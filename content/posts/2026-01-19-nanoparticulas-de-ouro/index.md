@@ -2,14 +2,12 @@
 title = "Pesquisa desenvolve técnica de alta precisão para produção de nanopartículas de ouro com potencial aplicação em saúde, tecnologia e meio ambiente"
 subtitle = "Método desenvolvido no doutorado em Ciência e Engenharia de Materiais da UNIFAL-MG utiliza laser ultravioleta para controlar tamanho e formato das partículas"
 date = "2026-01-19"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "Capa_materia_tecnica-de-alta-precisao-para-producao-de-nanoparticulas-de-ouro.jpg"
-#Processo utilizado na pesquisa é conhecido como “escrita direta a laser” e consiste na aplicação de um laser ultravioleta sobre um filme fino de polimetilmetacrilato (PMMA) - um tipo de plástico transparente que contém um composto chamado sal de ouro. (Foto: Arquivo/Richard Pereira)
 tags = ["Nanopartículas", "Pesquisa", "Programa de Pós-Graduação em Ciência e Engenharia de Materiais", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Tecnologia"]
+keywords = ["nanopartículas de ouro", "escrita direta a laser", "nanomateriais saúde", "PMMA nanopartículas", "pesquisa engenharia de materiais UNIFAL"]
+description = "Pesquisa da UNIFAL-MG apresenta método de escrita direta a laser para produzir nanopartículas de ouro com controle preciso, com aplicações em saúde e tecnologia."
 showFullContent = false
 readingTime = false
 hideComments = false
@@ -44,16 +42,6 @@ Os resultados foram publicados em artigo científico assinado por Richard Silvei
   {{< grid-item src="Andre-Luis-dos-Santos-Romero.jpg" alt="André Luís dos Santos Romero – pesquisador do IFSC" >}}
   {{< grid-item src="Cleber-Renato-Mendonca.jpg" alt="Cleber Renato Mendonça – pesquisador do IFSC" >}}
 {{< /grid-gallery >}}
-
-{{< carousel >}}
-  {{< carousel-item src="Richard-Silveira-Pereira.jpg" alt="Richard Silveira Pereira" description="Autor do estudo/doutorando em Ciência e Engenharia de Materiais. (Foto: Arquivo Pessoal)" >}}
-  {{< carousel-item src="Marcelo-Goncalves-Vivas.jpg" alt="Marcelo Gonçalves Vivas" description="Orientador do estudo/professor da UNIFAL-MG. (Foto: Arquivo Pessoal)" >}}
-  {{< carousel-item src="Diego-Lourenconi-Ferreira.jpg" alt="Diego Lourençoni Ferreira" description="Pesquisador do Laboratório de Espectroscopia Óptica e Fotônica. (Foto: Arquivo Pessoal)" >}}
-  {{< carousel-item src="Gabriel-Ferrari-de-Oliveira.jpg" alt="Gabriel Ferrari de Oliveira" description="Pesquisador do Laboratório de Espectroscopia Óptica e Fotônica. (Foto: Arquivo Pessoal)" >}}
-  {{< carousel-item src="Gabriele-C.-Felipe-de-Paula.jpg" alt="Gabriele C. Felipe de Paula" description="Pesquisadora do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal)" >}}
-  {{< carousel-item src="Andre-Luis-dos-Santos-Romero.jpg" alt="André Luís dos Santos Romero" description="Pesquisador do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal)" >}}
-  {{< carousel-item src="Cleber-Renato-Mendonca.jpg" alt="Cleber Renato Mendonça" description="Pesquisador do Instituto de Física de São Carlos. (Foto: Arquivo Pessoal)" >}}
-{{< /carousel >}}
 
 Confira o artigo completo no site da revista científica ACS Applied Nano Materials, [neste link](https://pubs.acs.org/doi/10.1021/acsanm.5c00832).
 

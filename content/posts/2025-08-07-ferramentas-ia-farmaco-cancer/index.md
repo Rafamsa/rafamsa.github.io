@@ -2,14 +2,12 @@
 title = "Ferramenta computacional otimiza o desenvolvimento de novos fármacos em estudos de doenças como o câncer com a ajuda de IA"
 subtitle = "Com o uso da plataforma SAnDReS, equipe de pesquisadores da UNIFAL-MG identifica compostos com potencial terapêutico de forma mais rápida e precisa"
 date = "2025-08-07"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "docking-farmaco.jpg"
-#Docking (chave–fechadura): fármaco (molécula dourada) interagindo com o sítio de ligação de uma proteína (esferas). (Imagem: Reprodução/SAnDRes)
 tags = ["Física", "Inteligência Artificial", "PPGF", "SAnDReS", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Saúde", "Tecnologia"]
+keywords = ["inteligência artificial fármacos", "SAnDReS docking molecular", "desenvolvimento de medicamentos IA", "proteína CDK2 câncer", "aprendizado de máquina fármacos"]
+description = "Equipe da UNIFAL-MG usa a ferramenta de IA SAnDReS para modelar interações moleculares e acelerar a identificação de potenciais fármacos contra o câncer."
 showFullContent = false
 readingTime = false
 hideComments = false

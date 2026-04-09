@@ -2,14 +2,12 @@
 title = "Estudo confirma a importância das comissões de verificação para garantir a legitimidade das políticas afirmativas nas universidades públicas"
 subtitle = "Levantamento feito em dissertação de mestrado em Administração Pública da UNIFAL-MG aponta queda nas tentativas de fraude após criação de bancas de heteroidentificação"
 date = "2025-10-09"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_comissao_heteroidentificacao.jpg"
-#Imagem ilustrativa. (Foto gerada por IA/Plataforma DALL·E 3)
 tags = ["CAVANE", "Cotas", "Mestrado em Administração Pública", "Políticas Afirmativas", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Ciências Sociais"]
+keywords = ["heteroidentificação universidade", "cotas raciais fraude", "comissão verificação autodeclaração", "políticas afirmativas universidade pública", "CAVANE UNIFAL"]
+description = "Pesquisa da UNIFAL-MG demonstra que a comissão de heteroidentificação (CAVANE) reduziu fraudes nas cotas raciais e fortaleceu a transparência do processo."
 showFullContent = false
 readingTime = false
 hideComments = false

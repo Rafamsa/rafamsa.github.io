@@ -2,14 +2,12 @@
 title = "Mais da metade dos usuários do anticoagulante varfarina em Alfenas desconhecem informações básicas sobre o tratamento"
 subtitle = "Pesquisa em desenvolvimento no Programa de Pós-Graduação em Assistência Farmacêutica da UNIFAL-MG mostra que cerca de 60% dos pacientes estão fora da faixa terapêutica ideal"
 date = "2025-04-08"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "varfarina1.jpg"
-#Imagem ilustrativa. (Foto: Reprodução/Canva Education)
 tags = ["Anticoagulante", "Pós-graduação em Assistência Farmacêutica", "Varfarina", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Saúde"]
+keywords = ["varfarina anticoagulante", "letramento em saúde", "assistência farmacêutica Alfenas", "uso seguro de varfarina", "pesquisa farmacêutica UNIFAL"]
+description = "Pesquisa da UNIFAL-MG revela que mais de 50% dos usuários de varfarina em Alfenas possuem baixo letramento em saúde, comprometendo a segurança do tratamento."
 showFullContent = false
 readingTime = false
 hideComments = false

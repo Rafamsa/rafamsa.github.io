@@ -2,14 +2,12 @@
 title = "Pesquisadores confirmam potencial antioxidante na produção de cerveja com marolo e sabor é aprovado por avaliadores"
 subtitle = "Resultados de estudo de iniciação científica da UNIFAL-MG reforçam o valor agregado das cervejas com frutas"
 date = "2025-01-30"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
+author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa-cerveja-com-marolo.jpg"
-#Tallis Vinicius Araujo da Silva, discente do curso de Biotecnologia, durante a primeira fase da pesquisa. (Foto: Arquivo Pessoal)
 tags = ["Cerveja com Ciência", "Cerveja com Marolo", "Ciência da Cerveja", "Marolo", "Pesquisa", "Projeto +Ciência", "UNIFAL-MG"]
-keywords = ["", ""]
-description = ""
+categories = ["Biotecnologia"]
+keywords = ["cerveja com marolo", "potencial antioxidante cerveja", "cerveja artesanal frutas", "marolo cerrado", "pesquisa cervejeira UNIFAL"]
+description = "Pesquisa da UNIFAL-MG comprova que a cerveja produzida com marolo possui maior potencial antioxidante, e o sabor foi aprovado em avaliação sensorial."
 showFullContent = false
 readingTime = false
 hideComments = false
