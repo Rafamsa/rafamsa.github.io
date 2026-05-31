@@ -14,7 +14,7 @@ disableLanguages = []
 author = "Rafael Martins da Silva Afeto"
 description = "Um blog sobre ciência, educação, arte e cultura."
 centerTheme = true
-showMenuItems = 5
+showMenuItems = 6
 readMore = "Leia mais"
 newerPosts = "Artigos mais recentes"
 olderPosts = "Artigos mais antigos"
@@ -47,8 +47,7 @@ weight = 20
 [[menus.main]]
 name = "Ilustrações"
 url = "/ilustracoes/"
-weight = 30           # Ajuste esse número para ficar entre "Educação" e "Categorias"
-
+weight = 30
 
 [[menus.main]]
 name = "Categorias"

@@ -44,6 +44,15 @@ cv:
       instagram: "fermentandounifal"
       description: "Participação em atividades de divulgação científica e extensão universitária, incluindo produção de conteúdo para redes sociais, organização de eventos e realização de oficinas."
 
+    - title: "Podcast de Divulgação Científica"
+      organization: "Laboratório EcoFrag"
+      start: "out-2021"
+      end: "out-2023"
+      site:
+        url: "https://www.unifal-mg.edu.br/ecofrag/category/podcast/"
+        label: "Acessar o site do Podcast"
+      description: "Participação em atividades de divulgação científica, como edição dos podcasts do laboratório durante o período, além de participar como ouvinte beta, apontando erros nas edições, e capacitando os novos editores."
+
     - title: "Ilustrador científico"
       organization: "Atlas de Histologia Interativa"
       start: "jan-2022"
