@@ -43,7 +43,7 @@ for post in todas_postagens:
 title: "{titulo_limpo}"
 date: {data_publicacao}
 image: "{media_url}"
-type: "{media_type}"
+media_type: "{media_type}"
 link_instagram: "{permalink}"
 ---
 
