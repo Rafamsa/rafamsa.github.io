@@ -45,19 +45,25 @@ url = "/edu/"
 weight = 20
 
 [[menus.main]]
+name = "Ilustrações"
+url = "/ilustracoes/"
+weight = 30           # Ajuste esse número para ficar entre "Educação" e "Categorias"
+
+
+[[menus.main]]
 name = "Categorias"
 url = "/categories/"
-weight = 30
+weight = 40
 
 [[menus.main]]
 name = "Assuntos"
 url = "/tags/"
-weight = 40
+weight = 50
 
 [[menus.main]]
 name = "Quem sou"
 url = "/quem-sou/"
-weight = 50
+weight = 60
 
 [languages]
 [languages.pt-br]
