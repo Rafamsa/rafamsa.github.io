@@ -37,7 +37,7 @@ cv:
       instagram: "rafa.yo_"
       description: "Criação de ilustrações artísticas e logos, manutenção e criação de posts e vídeos para Instagram, além de prospecção de clientes."
 
-    - title: "Divulgação científica e extensão universidária"
+    - title: "Divulgação científica e extensão universitária"
       organization: "Fermentando Alimentos e Saberes"
       start: "fev-2024"
       end: "dez-2024"
@@ -61,34 +61,3 @@ cv:
         url: "https://www.unifal-mg.edu.br/histologiainterativa/"
         label: "Acessar o Atlas de Histologia Interativa"
       description: "Criação de ilustrações científicas e didáticas para o Atlas Interativo de Histologia."
-  #education:
-  #- title: "Mestrado em Ciências Ambientais"
-  #institution: "UNIFAL-MG"
-  #start: "2025-03"
-  #end: "current"
-  #description: "Desenvolvimento de modelos de Machine Learning para a identificação de abelhas através da bioacústica."
-
-  #- title: "Bacharelado em Ciências Biológicas"
-  #institution: "UNIFAL-MG"
-  #start: "2020-02"
-  #end: "2025-02"
-
-  #experience:
-  #- title: "Comunicador Científico"
-  #organization: "+Ciência"
-  #start: "2024"
-  #end: "2026"
-  #description: "Tradução de conteúdo técnico-científico para o público geral e produção de material jornalístico"
-
-  #- title: "Desenvolvedor Web"
-  #organization: "Empresa Tech"
-  #start: "2022-06"
-  #end: "2023-12"
-  #description: "Desenvolvimento de aplicações web em Python e JavaScript"
-
-  #research:
-  #- title: "Processamento de Linguagem Natural em Português"
-  #organization: "UNIFAL-MG"
-  #start: "2024-03"
-  #end: "current"
-  #description: "Pesquisa sobre modelos de linguagem para o português brasileiro"
