@@ -4,6 +4,7 @@ subtitle = "Pesquisadores da UNIFAL-MG e de instituições parceiras criam méto
 date = "2025-09-03"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_acucar-do-bem.jpg"
+coverCaption = "PLA [Poliácido Láctico - tipo plástico biodegradável] impresso em 3d para imobilização das células fúngicas. (Foto: Arquivo/Grupo de pesquisa)"
 tags = ["FAPEMIG", "Açúcar do bem", "PPGEQ", "Biotecnologia", "CNPq", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Biotecnologia"]
 keywords = ["fruto-oligossacarídeos FOS", "açúcar do bem", "produção nacional FOS", "prebióticos cana de açúcar", "biotecnologia engenharia química UNIFAL"]

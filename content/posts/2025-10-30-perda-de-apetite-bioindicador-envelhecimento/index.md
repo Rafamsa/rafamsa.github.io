@@ -4,6 +4,7 @@ subtitle = "Realizado por pesquisadores da UNIFAL-MG, o estudo mostra uma relaç
 date = "2025-10-30"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa-pesquisa-anorexia-do-envelhecimento.jpg"
+coverCaption = "Imagem ilustrativa. (Foto: Reprodução/Canva Education)"
 tags = ["Enfermagem", "Envelhecimento", "Nutrição", "PPGENF", "PPGNL", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Saúde"]
 keywords = ["anorexia do envelhecimento", "telômero idosos", "biomarcador envelhecimento", "perda de apetite idosos", "pesquisa enfermagem nutrição UNIFAL"]

@@ -4,6 +4,7 @@ subtitle = "Resultados de estudo de iniciação científica da UNIFAL-MG reforç
 date = "2025-01-30"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa-cerveja-com-marolo.jpg"
+coverCaption = "Tallis Vinicius Araujo da Silva, discente do curso de Biotecnologia, durante a primeira fase da pesquisa. (Foto: Arquivo Pessoal)"
 tags = ["Cerveja com Ciência", "Cerveja com Marolo", "Ciência da Cerveja", "Marolo", "Pesquisa", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Biotecnologia"]
 keywords = ["cerveja com marolo", "potencial antioxidante cerveja", "cerveja artesanal frutas", "marolo cerrado", "pesquisa cervejeira UNIFAL"]

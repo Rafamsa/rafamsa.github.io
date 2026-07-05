@@ -1,5 +1,4 @@
 baseURL = 'https://rafamsa.github.io/'
-languageCode = 'pt-br'
 locale = 'pt-br'
 title = 'Rafael Martins'
 enableRobotsTXT = true
@@ -18,6 +17,8 @@ showMenuItems = 6
 readMore = "Leia mais"
 newerPosts = "Artigos mais recentes"
 olderPosts = "Artigos mais antigos"
+customCSS = ["css/extended.css"]
+# showLanguageSelector = true
 
 # SEO
 subtitle = "Blog de divulgação científica, educação, arte e cultura por Rafael Martins — UNIFAL-MG"
@@ -66,5 +67,81 @@ weight = 60
 
 [languages]
 [languages.pt-br]
-languageName = 'Portuguese'
+label = 'PT'
+locale = 'pt-br'
+weight = 1
 title = 'Rafael Martins :: Divulgação científica, educação, arte e cultura'
+
+#[languages.en]
+#label = 'EN'
+#locale = 'en-US'
+#weight = 2
+#title = 'Rafael Martins'
+
+#[languages.en.menus.main]
+#name = "Articles"
+#url = "/en/posts/"
+#weight = 10
+
+#[[languages.en.menus.main]]
+#name = "Education"
+#url = "/en/edu/"
+#weight = 20
+
+#[[languages.en.menus.main]]
+#name = "Illustrations"
+#url = "/en/ilustracoes/"
+#weight = 30
+
+#[[languages.en.menus.main]]
+#name = "Categories"
+#url = "/en/categories/"
+#weight = 40
+
+#[[languages.en.menus.main]]
+#name = "Topics"
+#url = "/en/tags/"
+#weight = 50
+
+#[[languages.en.menus.main]]
+#name = "About me"
+#url = "/en/quem-sou/"
+#weight = 60
+
+
+#[languages.es]
+#label = 'ES'
+#locale = 'es-ES'
+#weight = 3
+#title = 'Rafael Martins'
+
+#[[languages.es.menus.main]]
+#name = "Artículos"
+#url = "/es/posts/"
+#weight = 10
+
+#[[languages.es.menus.main]]
+#name = "Educación"
+#url = "/es/edu/"
+#weight = 20
+
+#[[languages.es.menus.main]]
+#name = "Ilustraciones"
+#url = "/es/ilustracoes/"
+#weight = 30
+
+#[[languages.es.menus.main]]
+#name = "Categorías"
+#url = "/es/categories/"
+#weight = 40
+
+#[[languages.es.menus.main]]
+#name = "Temas"
+#url = "/es/tags/"
+#weight = 50
+
+
+#[[languages.es.menus.main]]
+#name = "Sobre mí"
+#url = "/es/quem-sou/"
+#weight = 60

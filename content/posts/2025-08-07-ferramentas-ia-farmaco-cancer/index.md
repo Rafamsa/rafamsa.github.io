@@ -4,6 +4,7 @@ subtitle = "Com o uso da plataforma SAnDReS, equipe de pesquisadores da UNIFAL-M
 date = "2025-08-07"
 author = "Rafael Martins da Silva Afeto"
 cover = "docking-farmaco.jpg"
+coverCaption = "Docking (chave–fechadura): fármaco (molécula dourada) interagindo com o sítio de ligação de uma proteína (esferas). (Imagem: Reprodução/SAnDRes)"
 tags = ["Física", "Inteligência Artificial", "PPGF", "SAnDReS", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Saúde", "Tecnologia"]
 keywords = ["inteligência artificial fármacos", "SAnDReS docking molecular", "desenvolvimento de medicamentos IA", "proteína CDK2 câncer", "aprendizado de máquina fármacos"]

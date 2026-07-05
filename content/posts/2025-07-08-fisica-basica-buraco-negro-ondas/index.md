@@ -4,6 +4,7 @@ subtitle = "Pesquisa da UNIFAL-MG transforma conceitos avançados em aprendizado
 date = "2025-07-08"
 author = "Rafael Martins da Silva Afeto"
 cover = "buraco-negro.jpg"
+coverCaption = "Imagem ilustrativa. (Foto: Reprodução/Canva Education)"
 tags = ["Astrofísica", "Buraco Negro", "Física", "Ondas Gravitacionais", "Programa de Pós-Graduação em Física", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Física"]
 keywords = ["buracos negros física básica", "ondas gravitacionais", "astrofísica acessível", "ensino de física", "LIGO-Virgo pesquisa UNIFAL"]

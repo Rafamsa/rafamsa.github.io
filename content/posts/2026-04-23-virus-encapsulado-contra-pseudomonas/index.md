@@ -7,7 +7,7 @@ date = "2026-04-23"
 author = ""
 authorTwitter = "" #do not include @
 cover = "capa_pesquisa_nanoparticulas_superbacterias.jpg"
-#Nanopartículas em interação com a bactéria Pseudomonas aeruginosa. As nanopartículas contendo o fago em processo de degradação e liberação dos bacteriófagos (estruturas menores e mais esbranquiçadas). (Foto: Arquivo/Grupo de pesquisa)
+coverCaption = "Nanopartículas em interação com a bactéria Pseudomonas aeruginosa. As nanopartículas contendo o fago em processo de degradação e liberação dos bacteriófagos (estruturas menores e mais esbranquiçadas). (Foto: Arquivo/Grupo de pesquisa)"
 tags = ["Infecção Hospitalar", "Nanotecnologia", "PPGCF", "Programa de Pós-Graduação em Ciências Farmacêuticas", "superbactéria", "Projeto +Ciência", "UNIFAL-MG", "Universidade do Ártico da Noruega"]
 keywords = ["", ""]
 description = "Pesquisadores da UNIFAL-MG desenvolveram uma estratégia que pode auxiliar no combate a Pseudomonas aeruginosa, uma superbactéria responsável por infecções hospitalares graves e de difícil tratamento, utilizando vírus, que infectam bactérias, encapsulados em nanopartículas para aumentar sua eficácia e estabilidade no organismo."

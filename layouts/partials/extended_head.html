@@ -38,3 +38,58 @@ $.Site.BaseURL) "sameAs" $sameAs }}
 {{ with .Params.keywords }}{{ $schema = merge $schema (dict "keywords" .) }}{{ end }}
 <script type="application/ld+json">{{ $schema | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{ end }}
+
+
+<style>
+    /* 1. Chama pelo nome certo e cria o botão! */
+    ul.navigation-menu__inner li a {
+        box-shadow: none !important;
+        text-decoration: none !important;
+        border: none !important;
+        padding: 6px 10px !important;
+        border-radius: 0px !important;
+        transition: background-color 0.2s ease !important;
+    }
+
+    /* 2. Remove elementos fantasmas que o tema usa para a linha amarela */
+    ul.navigation-menu__inner li a::before,
+    ul.navigation-menu__inner li a::after {
+        display: none !important;
+        content: none !important;
+        box-shadow: none !important;
+    }
+
+    /* 3. Efeito ao passar o mouse */
+    ul.navigation-menu__inner li a:hover {
+        background-color: rgba(245, 194, 17, 0.2) !important;
+        color: #f5c211 !important;
+    }
+
+    /* 4. A Aba Selecionada (A caixa amarela) */
+    ul.navigation-menu__inner li.active a,
+    ul.navigation-menu__inner li a.active {
+        background-color: var(--accent, #f5c211) !important;
+        color: #111 !important;
+        font-weight: 800 !important;
+    }
+</style>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Pega o endereço atual que o leitor está acessando (ex: /edu/)
+        var currentUrl = window.location.pathname;
+        // Seleciona todos os botões do nosso menu
+        var menuLinks = document.querySelectorAll("ul.navigation-menu__inner li a");
+
+        menuLinks.forEach(function (link) {
+            var href = link.getAttribute("href");
+
+            // Checa se o link do botão faz parte do endereço atual
+            // Isso garante que se você abrir um artigo, a aba "Artigos" continua amarela!
+            if (href !== "/" && currentUrl.startsWith(href)) {
+                link.classList.add("active");
+            } else if (href === "/" && currentUrl === "/") {
+                link.classList.add("active");
+            }
+        });
+    });
+</script>

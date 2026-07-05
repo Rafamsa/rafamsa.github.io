@@ -4,6 +4,7 @@ subtitle = "Método desenvolvido no doutorado em Ciência e Engenharia de Materi
 date = "2026-01-19"
 author = "Rafael Martins da Silva Afeto"
 cover = "Capa_materia_tecnica-de-alta-precisao-para-producao-de-nanoparticulas-de-ouro.jpg"
+coverCaption = "Processo utilizado na pesquisa é conhecido como “escrita direta a laser” e consiste na aplicação de um laser ultravioleta sobre um filme fino de polimetilmetacrilato (PMMA) - um tipo de plástico transparente que contém um composto chamado sal de ouro. (Foto: Arquivo/Richard Pereira)"
 tags = ["Nanopartículas", "Pesquisa", "Programa de Pós-Graduação em Ciência e Engenharia de Materiais", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Tecnologia"]
 keywords = ["nanopartículas de ouro", "escrita direta a laser", "nanomateriais saúde", "PMMA nanopartículas", "pesquisa engenharia de materiais UNIFAL"]

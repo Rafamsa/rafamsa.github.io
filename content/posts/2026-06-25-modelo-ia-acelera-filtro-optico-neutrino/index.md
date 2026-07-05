@@ -6,10 +6,10 @@ date = "2026-06-25"
 author = ""
 authorTwitter = "" #do not include @
 cover = "modelo-IA-para-filtro-optico-detector-neutrinos-1.jpg"
-#Ambiente de desenvolvimento do projeto, com códigos em Python e gráficos de treinamento da rede neural aplicada à óptica de filtros multicamadas. (Imagem: Arquivo/Mateus Rodrigues)
+coverCaption = "Ambiente de desenvolvimento do projeto, com códigos em Python e gráficos de treinamento da rede neural aplicada à óptica de filtros multicamadas. (Imagem: Arquivo/Mateus Rodrigues)"
 tags = ["Aprendizado de Máquina", "Filtro", "Inteligência Artificial", "Neutrinos", "Programa de Pós-Graduação em Física", "Projeto +Ciência", "Projeto Dune", "UNIFAL-MG"]
 keywords = ["", ""]
-description = ""
+description = "Pesquisadores da UNIFAL-MG desenvolveram um modelo de aprendizado de máquina que, com poucos dados reais, foi capaz de gerar simulações ópticas de filtros usados na captura do sinal de neutrinos. A solução se mostrou mais precisa e até 700 vezes mais rápida que o método tradicional de simulação."
 showFullContent = false
 readingTime = false
 hideComments = false

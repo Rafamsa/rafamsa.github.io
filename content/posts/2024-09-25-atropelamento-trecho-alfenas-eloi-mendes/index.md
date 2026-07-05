@@ -4,6 +4,7 @@ subtitle = "Estudo realizado por pesquisadores da UNIFAL-MG identifica acidentes
 date = "2024-09-25"
 author = "Rafael Martins da Silva Afeto"
 cover = "danna-em-campo.jpg"
+coverCaption = "Danna Ferreira coletando os dados. (Foto: Arquivo Pessoal)"
 tags = ["Atropelamentos", "Ciência", "FAPEMIG", "Iniciação Científica", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Meio Ambiente"]
 keywords = ["atropelamento de animais silvestres", "rodovia MG-491", "fauna silvestre Alfenas", "hotspots atropelamento", "ecologia de estradas"]

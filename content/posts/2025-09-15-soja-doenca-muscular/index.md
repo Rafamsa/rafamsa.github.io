@@ -4,6 +4,7 @@ subtitle = "Utilizando modelo experimental, grupo de pesquisa liderado por profe
 date = "2025-09-15"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_extrato-soja-distrofia.jpg"
+coverCaption = "Imagem ilustrativa. (Foto: Reprodução/Canva Education)"
 tags = ["Anatomia", "Bioestrutura Neuromuscular", "Distrofia Muscular de Duchenne", "Extrato de Soja", "Isoflavonas", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Saúde"]
 keywords = ["distrofia muscular de Duchenne", "isoflavonas soja", "tratamento DMD", "extrato de soja saúde muscular", "pesquisa neuromuscular UNIFAL"]

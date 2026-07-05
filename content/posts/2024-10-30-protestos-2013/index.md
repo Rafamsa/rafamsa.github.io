@@ -4,6 +4,7 @@ subtitle = "Pesquisadores da UNIFAL-MG mostram como o legado educacional e polí
 date = "2024-10-30"
 author = "Rafael Martins da Silva Afeto"
 cover = "jornadas-2013.jpg"
+coverCaption = "Jornadas de protestos de junho de 2013. (Foto: Fabio Rodrigues Pozzebom/Agência Brasil)"
 tags = ["Jornadas de 2013", "Jornadas de Junho", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Ciências Sociais"]
 keywords = ["jornadas de junho 2013", "protestos Brasil 2013", "legado político jornadas", "movimentos sociais Brasil", "pesquisa UNIFAL-MG"]

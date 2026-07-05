@@ -4,6 +4,7 @@ subtitle = "Pesquisa em desenvolvimento no Programa de Pós-Graduação em Assis
 date = "2025-04-08"
 author = "Rafael Martins da Silva Afeto"
 cover = "varfarina1.jpg"
+coverCaption = "Imagem ilustrativa. (Foto: Reprodução/Canva Education)"
 tags = ["Anticoagulante", "Pós-graduação em Assistência Farmacêutica", "Varfarina", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Saúde"]
 keywords = ["varfarina anticoagulante", "letramento em saúde", "assistência farmacêutica Alfenas", "uso seguro de varfarina", "pesquisa farmacêutica UNIFAL"]

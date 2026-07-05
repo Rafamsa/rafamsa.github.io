@@ -4,6 +4,7 @@ subtitle = "Levantamento feito em dissertação de mestrado em Administração P
 date = "2025-10-09"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_comissao_heteroidentificacao.jpg"
+coverCaption = "Imagem ilustrativa. (Foto gerada por IA/Plataforma DALL·E 3)"
 tags = ["CAVANE", "Cotas", "Mestrado em Administração Pública", "Políticas Afirmativas", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Ciências Sociais"]
 keywords = ["heteroidentificação universidade", "cotas raciais fraude", "comissão verificação autodeclaração", "políticas afirmativas universidade pública", "CAVANE UNIFAL"]
