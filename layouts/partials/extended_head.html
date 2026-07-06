@@ -39,10 +39,10 @@ $.Site.BaseURL) "sameAs" $sameAs }}
 <script type="application/ld+json">{{ $schema | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{ end }}
 
-
 <style>
     /* 1. Chama pelo nome certo e cria o botão! */
-    ul.navigation-menu__inner li a {
+    .menu__inner li a,
+    .navigation-menu__inner li a {
         box-shadow: none !important;
         text-decoration: none !important;
         border: none !important;
@@ -52,44 +52,71 @@ $.Site.BaseURL) "sameAs" $sameAs }}
     }
 
     /* 2. Remove elementos fantasmas que o tema usa para a linha amarela */
-    ul.navigation-menu__inner li a::before,
-    ul.navigation-menu__inner li a::after {
+    .menu__inner li a::before,
+    .menu__inner li a::after,
+    .navigation-menu__inner li a::before,
+    .navigation-menu__inner li a::after {
         display: none !important;
         content: none !important;
         box-shadow: none !important;
     }
 
     /* 3. Efeito ao passar o mouse */
-    ul.navigation-menu__inner li a:hover {
+    .menu__inner li a:hover,
+    .navigation-menu__inner li a:hover {
         background-color: rgba(245, 194, 17, 0.2) !important;
         color: #f5c211 !important;
     }
 
     /* 4. A Aba Selecionada (A caixa amarela) */
-    ul.navigation-menu__inner li.active a,
-    ul.navigation-menu__inner li a.active {
+    .menu__inner li.active a,
+    .menu__inner li a.active,
+    .navigation-menu__inner li.active a,
+    .navigation-menu__inner li a.active {
         background-color: var(--accent, #f5c211) !important;
         color: #111 !important;
         font-weight: 800 !important;
     }
 </style>
+
 <script>
     document.addEventListener("DOMContentLoaded", function () {
-        // Pega o endereço atual que o leitor está acessando (ex: /edu/)
-        var currentUrl = window.location.pathname;
-        // Seleciona todos os botões do nosso menu
-        var menuLinks = document.querySelectorAll("ul.navigation-menu__inner li a");
+        // 1. Lógica aprimorada da Caixa Amarela no Menu
+        var currentPath = window.location.pathname;
+        var menuLinks = document.querySelectorAll(".menu__inner li a, .navigation-menu__inner li a");
 
         menuLinks.forEach(function (link) {
-            var href = link.getAttribute("href");
+            // Remove a classe active de todos para evitar conflitos
+            link.classList.remove("active");
 
-            // Checa se o link do botão faz parte do endereço atual
-            // Isso garante que se você abrir um artigo, a aba "Artigos" continua amarela!
-            if (href !== "/" && currentUrl.startsWith(href)) {
-                link.classList.add("active");
-            } else if (href === "/" && currentUrl === "/") {
+            // Pega o caminho real do link ignorando o domínio
+            var linkPath = link.pathname;
+
+            // Adiciona uma barra no final para padronizar a comparação
+            var safeCurrent = currentPath.endsWith('/') ? currentPath : currentPath + '/';
+            var safeLink = linkPath.endsWith('/') ? linkPath : linkPath + '/';
+
+            // Regra A: Se a página atual for exatamente a do link
+            if (safeCurrent === safeLink) {
                 link.classList.add("active");
             }
+            // Regra B: Se estivermos lendo um artigo dentro de uma seção (Ex: /en/posts/artigo1)
+            // Não aplica essa regra para a página inicial (/ ou /en/ ou /es/)
+            else if (safeLink !== "/" && safeLink !== "/en/" && safeLink !== "/es/") {
+                if (safeCurrent.startsWith(safeLink)) {
+                    link.classList.add("active");
+                }
+            }
         });
+
+        // 2. Correção do Link do Logotipo para os idiomas
+        const pathParts = window.location.pathname.split('/');
+        if (pathParts[1] === 'en' || pathParts[1] === 'es') {
+            const langCode = pathParts[1];
+            const logo = document.querySelector('.header__logo a') || document.querySelector('.logo a');
+            if (logo) {
+                logo.href = '/' + langCode + '/';
+            }
+        }
     });
 </script>

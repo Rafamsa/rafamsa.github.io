@@ -1,10 +1,17 @@
-{{- $bio := hugo.Data.bio -}}
+{{ $lang := .Site.Language.Lang }}
+{{ $bio := index .Site.Data (printf "bio_%s" $lang) }}
+{{ if not $bio }}{{ $bio = .Site.Data.bio }}{{ end }}
+
 <div class="shortbio">
     <img src="{{ $bio.photo }}" alt="{{ $bio.name }}" class="shortbio__photo" />
     <div class="shortbio__content">
         <h3 class="shortbio__name">{{ $bio.name }}</h3>
         <p class="shortbio__title">{{ $bio.title }}</p>
         <p class="shortbio__description">{{ $bio.short_description }}</p>
-        <a href="/quem-sou/" class="shortbio__link">Ver biografia completa →</a>
+
+        <a href="/{{ if ne $lang " pt-br" }}{{ $lang }}/{{ end }}quem-sou/" class="shortbio__link">
+            {{ if eq $lang "en" }}Read full biography →{{ else if eq $lang "es" }}Ver biografía completa →{{ else }}Ver
+            biografia completa →{{ end }}
+        </a>
     </div>
 </div>

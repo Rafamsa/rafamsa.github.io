@@ -1,0 +1,11 @@
+<ul class="menu menu--desktop menu--language-selector">
+    <li class="menu__trigger">{{ .Language.LanguageName }}&nbsp;▾</li>
+    <li>
+        <ul class="menu__dropdown">
+            <!-- AQUI ESTÁ A MÁGICA: Trocamos o $.Site.Home pelo ponto (.) que significa "Página Atual" -->
+            {{ range .AllTranslations }}
+            <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+            {{ end }}
+        </ul>
+    </li>
+</ul>

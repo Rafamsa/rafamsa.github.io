@@ -1,5 +1,10 @@
 {{ define "main" }}
-{{- $bio := hugo.Data.bio -}}
+<!-- MÁGICA: O Hugo lê o idioma atual e puxa o arquivo YAML correspondente -->
+{{ $lang := .Site.Language.Lang }}
+{{ $bio := index .Site.Data (printf "bio_%s" $lang) }}
+{{ if not $bio }}
+{{ $bio = .Site.Data.bio }}
+{{ end }}
 
 <div class="fullbio">
     <header class="fullbio__header">
@@ -16,7 +21,10 @@
 
     {{ if $bio.social }}
     <div class="fullbio__social">
-        <h3>Contato</h3>
+        <!-- Título traduzido automaticamente -->
+        <h3>
+            {{ if eq $lang "en" }}Contact{{ else if eq $lang "es" }}Contacto{{ else }}Contato{{ end }}
+        </h3>
         <ul>
             {{ if $bio.email }}<li><strong>Email:</strong> <a href="mailto:{{ $bio.email }}">{{ $bio.email }}</a></li>{{
             end }}
@@ -28,7 +36,6 @@
             {{ if $bio.social.instagram }}<li><strong>Instagram:</strong> <a
                     href="https://instagram.com/{{ $bio.social.instagram }}">{{ $bio.social.instagram }}</a></li>{{ end
             }}
-
         </ul>
     </div>
     {{ end }}
@@ -37,15 +44,13 @@
     <div class="fullbio__cv">
         {{ range $section, $entries := $bio.cv }}
         <section class="cv-section">
-            <!--  <h3 class="cv-section__title">
-                {{ if eq $section "education" }}Formação
-                {{ else if eq $section "experience" }}Experiência
-                {{ else if eq $section "research" }}Pesquisa
-                {{ else }}{{ $section | title }}{{ end }}
-            </h3>-->
             <h3 class="cv-section__title">
-                {{if eq $section "projects" }} Projetos que participei
-                {{else}} {{ $section | title }} {{end}}
+                {{ if eq $section "projects" }}
+                {{ if eq $lang "en" }}Projects{{ else if eq $lang "es" }}Proyectos{{ else }}Projetos que participei{{
+                end }}
+                {{ else }}
+                {{ $section | title }}
+                {{ end }}
             </h3>
 
             {{ range $entries }}
@@ -53,7 +58,8 @@
                 <div class="cv-entry__header">
                     <h4 class="cv-entry__title">{{ .title }}</h4>
                     <span class="cv-entry__period">
-                        {{ .start }} - {{ if eq .end "current" }}presente{{ else }}{{ .end }}{{ end }}
+                        {{ .start }} - {{ if eq .end "current" }}{{ if eq $lang "en" }}present{{ else if eq $lang "es"
+                        }}actualidad{{ else }}presente{{ end }}{{ else }}{{ .end }}{{ end }}
                     </span>
                 </div>
 

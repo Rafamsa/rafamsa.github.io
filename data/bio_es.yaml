@@ -1,0 +1,63 @@
+name: "Rafael Martins da Silva Afeto"
+title: "Estudiante de Maestría en Ciencias Ambientales, Comunicador Científico, Ilustrador y Escritor"
+photo: "/img/myface.jpg"
+short_description: "Apasionado por la ciencia, el arte y la comunicación científica, comparto conocimientos sobre ciencia, investigación académica y arte."
+full_description: "Estudiante de maestría en Ciencias Ambientales con enfoque en comunicación científica, ilustración y escritura. Trabajo como comunicador científico, traduciendo investigaciones académicas complejas en contenido accesible para el público general."
+
+email: "rafael.afeto@gmail.com"
+social:
+  github: "rafamsa"
+  linkedin: "rafael-martins-274121227"
+  instagram: "rafa.yo_"
+
+# CV sections - each can have multiple entries
+cv:
+  projects:
+    - title: "Núcleo de Estudios y Divulgación Científica"
+      organization: "Núcleo de Estudios en Ciencias Ambientales y Exactas - NECAE"
+      start: "Ene-2026"
+      end: "Actualidad"
+      instagram: "necae_unifal"
+      description: "Participación en actividades de divulgación científica, incluyendo producción de contenido para redes sociales y organización de eventos."
+
+    - title: "Proyecto de Divulgación Científica"
+      organization: "+Ciência"
+      start: "Ago-2024"
+      end: "Abr-2026"
+      site:
+        url: "https://jornal.unifal-mg.edu.br/maisciencia/"
+        label: "Acceder al portal de +Ciência"
+      instagram: "maiscienciaunifalmg"
+      description: "Desarrollo de contenido periodístico para la divulgación de ciencia, innovación y tecnología de la UNIFAL-MG. Además, análisis de métricas y gestión del Instagram del proyecto, entrevistas con investigadores y organización de eventos de divulgación científica."
+
+    - title: "Ilustrador"
+      organization: "Freelance"
+      start: "Dic-2020"
+      end: "Actualidad"
+      instagram: "rafa.yo_"
+      description: "Creación de ilustraciones artísticas y logotipos, mantenimiento y creación de publicaciones y videos para Instagram, además de prospección de clientes."
+
+    - title: "Divulgación científica y extensión universitaria"
+      organization: "Fermentando Alimentos e Saberes"
+      start: "Feb-2024"
+      end: "Dic-2024"
+      instagram: "fermentandounifal"
+      description: "Participación en actividades de divulgación científica y extensión universitaria, incluyendo producción de contenido para redes sociales, organización de eventos y realización de talleres."
+
+    - title: "Podcast de Divulgación Científica"
+      organization: "Laboratorio EcoFrag"
+      start: "Oct-2021"
+      end: "Oct-2023"
+      site:
+        url: "https://www.unifal-mg.edu.br/ecofrag/category/podcast/"
+        label: "Acceder al sitio web del Podcast"
+      description: "Participación en actividades de divulgación científica, como la edición de los podcasts del laboratorio durante el período, además de participar como oyente beta, señalando errores en las ediciones y capacitando a los nuevos editores."
+
+    - title: "Ilustrador científico"
+      organization: "Atlas de Histología Interactiva"
+      start: "Ene-2022"
+      end: "Dic-2022"
+      site:
+        url: "https://www.unifal-mg.edu.br/histologiainterativa/"
+        label: "Acceder al Atlas de Histología Interactiva"
+      description: "Creación de ilustraciones científicas y didácticas para el Atlas Interactivo de Histología."

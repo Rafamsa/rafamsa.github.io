@@ -1,0 +1,63 @@
+name: "Rafael Martins da Silva Afeto"
+title: "Master's Student in Environmental Sciences, Science Communicator, Illustrator, and Writer"
+photo: "/img/myface.jpg"
+short_description: "Passionate about science, art, and science communication, I share knowledge about science, academic research, and art."
+full_description: "Master's student in Environmental Sciences focusing on science communication, illustration, and writing. I work as a science communicator, translating complex academic research into accessible content for the general public."
+
+email: "rafael.afeto@gmail.com"
+social:
+  github: "rafamsa"
+  linkedin: "rafael-martins-274121227"
+  instagram: "rafa.yo_"
+
+# CV sections - each can have multiple entries
+cv:
+  projects:
+    - title: "Study and Science Communication Group"
+      organization: "Center for Studies in Environmental and Exact Sciences - NECAE"
+      start: "Jan-2026"
+      end: "Present"
+      instagram: "necae_unifal"
+      description: "Participation in science communication activities, including content production for social media and event organization."
+
+    - title: "Science Communication Project"
+      organization: "+Ciência"
+      start: "Aug-2024"
+      end: "Apr-2026"
+      site:
+        url: "https://jornal.unifal-mg.edu.br/maisciencia/"
+        label: "Access the +Ciência portal"
+      instagram: "maiscienciaunifalmg"
+      description: "Development of journalistic content for the dissemination of science, innovation, and technology at UNIFAL-MG. Additionally, metrics analysis and management of the project's Instagram, interviews with researchers, and organization of science communication events."
+
+    - title: "Illustrator"
+      organization: "Freelance"
+      start: "Dec-2020"
+      end: "Present"
+      instagram: "rafa.yo_"
+      description: "Creation of artistic illustrations and logos, maintenance and creation of posts and videos for Instagram, as well as client prospecting."
+
+    - title: "Science communication and university extension"
+      organization: "Fermentando Alimentos e Saberes"
+      start: "Feb-2024"
+      end: "Dec-2024"
+      instagram: "fermentandounifal"
+      description: "Participation in science communication and university extension activities, including content production for social media, event organization, and conducting workshops."
+
+    - title: "Science Communication Podcast"
+      organization: "EcoFrag Laboratory"
+      start: "Oct-2021"
+      end: "Oct-2023"
+      site:
+        url: "https://www.unifal-mg.edu.br/ecofrag/category/podcast/"
+        label: "Access the Podcast website"
+      description: "Participation in science communication activities, such as editing the laboratory's podcasts during this period, as well as acting as a beta listener, pointing out editing errors, and training new editors."
+
+    - title: "Scientific Illustrator"
+      organization: "Interactive Histology Atlas"
+      start: "Jan-2022"
+      end: "Dec-2022"
+      site:
+        url: "https://www.unifal-mg.edu.br/histologiainterativa/"
+        label: "Access the Interactive Histology Atlas"
+      description: "Creation of scientific and educational illustrations for the Interactive Histology Atlas."
