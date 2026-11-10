@@ -23,7 +23,8 @@
     <div style="margin-top: 4rem; text-align: center;">
         <a href="{{ .Params.link_instagram }}" target="_blank" rel="noopener noreferrer"
             style="border: 1px solid var(--primary-color, #f5c211); padding: 10px 20px; text-decoration: none; color: var(--primary-color, #f5c211); font-family: monospace; font-size: 1.1rem; transition: all 0.3s ease;">
-            Ver post original no Instagram ↗
+            {{ if eq .Site.Language.Lang "en" }}See original post on Instagram{{ else if eq .Site.Language.Lang "es" }}Ver
+            publicación original en Instagram{{ else }}Ver post original no Instagram{{ end }} ↗
         </a>
     </div>
 </div>

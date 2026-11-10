@@ -1,21 +1,21 @@
 +++
 date = '2024-04-01'
 draft = false
-title = 'Infográfico: Produção cervejeira sustentável, um olhar para os insumos - série Desenvolvimento sustentável - Ciência da Cerveja - UNIFAL-MG'
+title = 'Infografía: Producción cervecera sostenible, una mirada a los insumos - serie Desarrollo sostenible - Ciencia de la Cerveza - UNIFAL-MG'
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Ciência da Cerveja", "Sustentabilidade", "Infográfico", "UNIFAL-MG"]
+tags = ["Ciencia de la Cerveza", "Sostenibilidad", "Infografía", "UNIFAL-MG"]
 categories = ["Material Educativo"]
-keywords = ["produção cervejeira sustentável", "infográfico cerveja", "insumos cerveja sustentabilidade", "ciência da cerveja UNIFAL", "cerveja sustentável"]
-description = "Infográfico sobre práticas sustentáveis na produção de cerveja com foco nos insumos. Série Desenvolvimento Sustentável da disciplina Ciência da Cerveja, UNIFAL-MG."
+keywords = ["producción cervecera sostenible", "infografía cerveza", "insumos cerveza sostenibilidad", "ciencia de la cerveza UNIFAL", "cerveza sostenible"]
+description = "Infografía sobre prácticas sostenibles en la producción de cerveza con enfoque en los insumos. Serie Desarrollo Sostenible de la asignatura Ciencia de la Cerveza, UNIFAL-MG."
 +++
 
-O infográfico "Produção cervejeira sustentável, um olhar para os insumos" é uma representação visual que destaca a importância de práticas sustentáveis na produção de cerveja, com foco nos insumos utilizados.
+La infografía "Producción cervecera sostenible, una mirada a los insumos" es una representación visual que destaca la importancia de las prácticas sostenibles en la producción de cerveza, con enfoque en los insumos utilizados.
 
-O infográfico é parte da série "Desenvolvimento sustentável" da disciplina "Ciência da Cerveja" da UNIFAL-MG, que visa promover a conscientização sobre a sustentabilidade na indústria cervejeira. Para acessar esse e outros infográficos completos, clique [aqui](https://www.unifal-mg.edu.br/lme/cervejacomciencia/materiais/infograficos/).
+La infografía forma parte de la serie "Desarrollo sostenible" de la asignatura "Ciencia de la Cerveza" de la UNIFAL-MG, que busca promover la concientización sobre la sostenibilidad en la industria cervecera. Para acceder a esta y otras infografías completas, haz clic [aquí](https://www.unifal-mg.edu.br/lme/cervejacomciencia/materiais/infograficos/).
 
-A disciplina é dada pelo docente Gabriel Hornink, do Instituto de Ciências Biológicas (ICB) da UNIFAL-MG.
+La asignatura es impartida por el docente Gabriel Hornink, del Instituto de Ciencias Biológicas (ICB) de la UNIFAL-MG.
 
-### Infográfico: Produção cervejeira sustentável, um olhar para os insumos
+### Infografía: Producción cervecera sostenible, una mirada a los insumos
 
 ![alt text](info_insumo_sustenta.pdf.png)

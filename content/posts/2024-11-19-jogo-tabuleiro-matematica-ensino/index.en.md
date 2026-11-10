@@ -1,63 +1,63 @@
 +++
-title = "Jogo de tabuleiro para o ensino da Matemática auxilia crianças do Ensino Fundamental a compreender números inteiros"
-subtitle = "Ferramenta proposta por pesquisa desenvolvida na UNIFAL-MG também promove interações sociais entre participantes"
+title = "Board game for teaching Mathematics helps middle school children understand integers"
+subtitle = "Tool proposed by research carried out at UNIFAL-MG also fosters social interaction among players"
 date = "2024-11-19"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_materia_jogo_matematica.jpg"
-tags = ["Educação Matemática", "Jogo de Tabuleiro", "Matemática", "PROFMAT", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Educação"]
-keywords = ["jogo de tabuleiro matemática", "ensino de números inteiros", "Corrida Zahl", "educação matemática ensino fundamental", "jogos educativos matemática"]
-description = "Pesquisa da UNIFAL-MG desenvolve o jogo 'Corrida Zahl' para ensinar números inteiros a crianças do 7º ano, promovendo aprendizado e interação social."
+tags = ["Mathematics Education", "Board Game", "Mathematics", "PROFMAT", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Education"]
+keywords = ["math board game", "teaching integers", "Corrida Zahl", "middle school math education", "educational math games"]
+description = "UNIFAL-MG research develops the game 'Corrida Zahl' to teach integers to 7th graders, promoting learning and social interaction."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-A Matemática é uma disciplina básica conhecida por ser difícil, sobretudo durante a infância. Pensando nisso, Luiz Gustavo Alves Silva, orientado, em seu [mestrado](https://www.unifal-mg.edu.br/profmat/), pela professora Cátia Regina de Oliveira Quilles Queiroz, do Departamento de Matemática do [Instituto de Ciências Exatas (ICEx)](https://www.unifal-mg.edu.br/icex/) da UNIFAL-MG, desenvolveu um jogo para o ensino de números inteiros para crianças a partir do 7º ano do Ensino Fundamental.
+Mathematics is a core subject known for being difficult, especially in childhood. With that in mind, Luiz Gustavo Alves Silva, supervised during his [master's degree](https://www.unifal-mg.edu.br/profmat/) by professor Cátia Regina de Oliveira Quilles Queiroz, of the Department of Mathematics at UNIFAL-MG's [Institute of Exact Sciences (ICEx)](https://www.unifal-mg.edu.br/icex/), developed a game for teaching integers to children from the 7th grade of Ensino Fundamental (Brazil's elementary and middle school) onward.
 
-Denominado “Corrida Zahl”, o jogo foi utilizado junto às crianças do 7º ano da Escola Municipal Benedita Braga Cobra (EMBBC) no município de Borda da Mata/MG em 2023, e se mostrou eficaz, principalmente, em gerar interações sociais entre os participantes. “O jogo cumpriu com as expectativas de ser divertido e interativo, as crianças se ajudavam mutuamente na execução de cálculos, revisão de jogadas e estratégias”, compartilha. “Alunos com maiores dificuldades em Matemática e raciocínio lógico, aos poucos, apresentavam uma maior desenvoltura diante da mediação de outros alunos com maiores habilidades”, completa.
+Called “Corrida Zahl” (“Zahl Race”), the game was used with 7th graders at the Benedita Braga Cobra Municipal School (EMBBC) in the town of Borda da Mata, Minas Gerais, in 2023, and proved effective, above all, at fostering social interaction among the participants. “The game lived up to the expectation of being fun and interactive; the children helped each other with calculations, reviewing moves and strategies,” he shares. “Students who had more difficulty with Mathematics and logical reasoning gradually became more confident with the help of other students with stronger skills,” he adds.
 
 ![alt text](jogo-tabuleiro-ensino-matematica.jpg)
-“Alunos com maiores dificuldades em Matemática e raciocínio lógico, aos poucos, apresentavam uma maior desenvoltura diante da mediação de outros alunos com maiores habilidades”, conta Luiz Gustavo Alves Silva, autor da pesquisa. (Foto: Arquivo/Luiz Gustavo Alves Silva)
+“Students who had more difficulty with Mathematics and logical reasoning gradually became more confident with the help of other students with stronger skills,” says Luiz Gustavo Alves Silva, author of the research. (Photo: Arquivo/Luiz Gustavo Alves Silva)
 
-Segundo o autor da pesquisa, o desenvolvimento do jogo de tabuleiro foi pensado em meio a pandemia de Covid-19, quando ele passava boa parte do tempo de quarentena jogando jogos de tabuleiro em casa com a família. Mas suas regras foram maturadas durante as viagens entre Pouso Alegre, MG e Alfenas, MG, já que ele fazia o trajeto para assistir, semanalmente, às aulas de mestrado. “Foi um ‘tempo vago’ que busquei preencher com ideias para o projeto”, afirma.
+According to the author of the research, the idea for the board game came about during the Covid-19 pandemic, when he spent much of the quarantine playing board games at home with his family. But its rules took shape during his trips between Pouso Alegre and Alfenas, both in Minas Gerais, as he made the journey every week to attend his master's classes. “It was ‘spare time’ that I tried to fill with ideas for the project,” he says.
 
 ![alt text](Luiz-Gustavo-Alves-Silva.png)
-Luiz Gustavo Alves Silva – autor da pesquisa desenvolvida junto ao Mestrado Profissional em Matemática em Rede Nacional (PROFMAT) da Universidade. (Foto: Arquivo Pessoal)
+Luiz Gustavo Alves Silva – author of the research carried out in the University's National Network Professional Master's in Mathematics (PROFMAT). (Photo: Personal Archive)
 
-O nome está relacionado com a palavra alemã ”Zahl”, o que segundo o autor da pesquisa, é uma referência ao fato do conjunto dos números inteiros ser representado pelo símbolo **ℤ**, que por sua vez, advém da palavra em alemão ‘zahl’, cujo significado é ‘número’.
+The name is related to the German word ”Zahl,” which, according to the author of the research, is a reference to the fact that the set of integers is represented by the symbol **ℤ**, which in turn comes from the German word ‘zahl,’ meaning ‘number.’
 
-A dinâmica do jogo apresenta duas modalidades: adição/subtração e multiplicação/divisão. Para ambas as modalidades, de dois a quatro jogadores competem para avançar em tabuleiros distintos. No jogo de adição e subtração, os participantes começam na casa 0 e se movem até a casa 100, usando dados de operações (D12 para avanço e D6 para retrocesso) para somar ou subtrair números positivos e negativos. Há fichas de fração recebidas ao parar em casas douradas, permitindo lançar um D20 para avançar mais rapidamente.
+The game has two modes: addition/subtraction and multiplication/division. In both modes, two to four players compete to advance on separate boards. In the addition and subtraction game, participants start on square 0 and move toward square 100, using operation dice (a D12 to move forward and a D6 to move back) to add or subtract positive and negative numbers. Players receive fraction tokens when they land on golden squares, which let them roll a D20 to move forward faster.
 
-No jogo de multiplicação e divisão, o objetivo é chegar à casa central de um tabuleiro com espiral de Fibonacci. Jogadores lançam dois D10 e escolhem multiplicar ou dividir os números sorteados, movendo-se conforme o resultado. Sinais iguais avançam o peão; sinais diferentes o fazem retroceder. A Carta Curinga, obtida em casas douradas, obriga o uso de um dado especial, que decide a operação de forma aleatória, exigindo adaptação estratégica.
+In the multiplication and division game, the goal is to reach the center square of a board shaped like a Fibonacci spiral. Players roll two D10s and choose whether to multiply or divide the numbers rolled, moving according to the result. Like signs move the pawn forward; unlike signs move it back. The Wild Card, obtained on golden squares, forces the use of a special die that randomly decides the operation, requiring players to adapt their strategy.
 
-Segundo Luiz Gustavo Silva, cada modalidade apresenta uma estratégia própria para ganhar o jogo. “Enquanto que no jogo da adição e subtração, a estratégia encontra-se quase que unicamente na maneira mais eficaz de utilizar as Fichas de Fração, no jogo da multiplicação e divisão, a maior estratégia está em qual operação escolher. Qual das duas operações irá gerar um maior deslocamento? Além disso, deve-se levar em conta se o movimento é de avanço ou de retrocesso”, explica.
+According to Luiz Gustavo Silva, each mode has its own strategy for winning. “While in the addition and subtraction game the strategy lies almost entirely in the most effective way to use the Fraction Tokens, in the multiplication and division game the main strategy is choosing which operation to use. Which of the two operations will produce a larger move? Besides that, you have to consider whether the move is forward or backward,” he explains.
 
-Para testar a ferramenta, alguns alunos do 7º ano da EMBBC foram selecionados, por meio de manifestação de interesse e, na sequência, participaram de encontros avaliativos. “O primeiro encontro foi destinado à aplicação de uma avaliação diagnóstica relacionada aos conteúdos abordados no jogo, no segundo foi feita a aplicação do jogo da adição e subtração, no terceiro foi aplicado o jogo da multiplicação e divisão, no quarto encontro foi aplicada uma segunda avaliação sobre resolução de problemas abrangendo os conteúdos trabalhados durante os jogos, já no quinto e último encontro, aplicou-se uma oficina de construção de dados por meio de materiais manipulativos”, detalha.
+To test the tool, some 7th graders at EMBBC were selected based on their expressed interest and then took part in assessment sessions. “The first session was dedicated to a diagnostic assessment related to the content covered in the game; in the second, we played the addition and subtraction game; in the third, the multiplication and division game; in the fourth session, a second assessment on problem solving covering the content worked on during the games was given; and in the fifth and final session, we held a workshop on building dice using hands-on materials,” he details.
 
-Embora à primeira vista as regras pareçam complexas, Luiz Gustavo Silva afirma: “As crianças amostradas nesta pesquisa, em geral, compreenderam com grande facilidade as regras e dinâmicas do jogo.”
+Although at first glance the rules may seem complex, Luiz Gustavo Silva says: “The children sampled in this research, in general, understood the game's rules and dynamics very easily.”
 
-## Jogos educativos como meio do ensino de matemática
+## Educational games as a way of teaching mathematics
 
 ![alt text](jogo-tabuleiro-ensino-matematica1.jpg)
-“Corrida Zahl” é uma referência ao fato do conjunto dos números inteiros ser representado pelo símbolo ℤ, que por sua vez, advém da palavra em alemão ‘zahl’, cujo significado é ‘número’. (Foto: Arquivo/Luiz Gustavo Alves Silva)
+“Corrida Zahl” refers to the fact that the set of integers is represented by the symbol ℤ, which in turn comes from the German word ‘zahl,’ meaning ‘number.’ (Photo: Arquivo/Luiz Gustavo Alves Silva)
 
-Para Luiz Gustavo Silva e sua orientadora, a concepção de “Corrida Zahl” e seu uso em escolas para o ensino de números inteiros em Matemática se configura como importante ferramenta, já que a Matemática possui a fama de ser uma matéria difícil. Para eles, as causas dessa dificuldade são multifatoriais e constituem um amplo espaço de investigação em diversas pesquisas acadêmicas. “Os jogos educativos são apontados por estudos e documentos oficiais como a Base Nacional Comum Curricular (BNCC) como alternativas para tornar a Matemática mais atrativa e acessível para as crianças”, enfatiza Luiz Gustavo Silva.
+For Luiz Gustavo Silva and his advisor, the design of “Corrida Zahl” and its use in schools for teaching integers in Mathematics is an important tool, since Mathematics has a reputation for being a difficult subject. In their view, the causes of this difficulty are multifactorial and form a broad field of inquiry in many academic studies. “Educational games are pointed out by studies and official documents such as the Base Nacional Comum Curricular (BNCC, Brazil's national curriculum framework) as alternatives for making Mathematics more appealing and accessible to children,” emphasizes Luiz Gustavo Silva.
 
-O autor reforça que os jogos educativos no ensino e aprendizagem de Matemática são ferramentas utilizadas há muitos anos, visto que a Matemática formal é baseada em axiomas, definições e proposições rigorosas, conceitos que podem ser demasiadamente abstratos para crianças do Ensino Fundamental. “Os jogos serviriam como ‘pontes’ nesse processo de trazer um conhecimento formal para uma linguagem mais lúdica e acessível a alunos da educação básica”, conta.
+The author stresses that educational games have been used as tools in teaching and learning Mathematics for many years, since formal Mathematics is based on rigorous axioms, definitions and propositions, concepts that can be far too abstract for elementary and middle school children. “Games would serve as ‘bridges’ in this process of bringing formal knowledge into a more playful language that is accessible to students in basic education,” he says.
 
-Nesse cenário, também se enquadra o jogo produzido durante a pesquisa, uma vez que, como reforçado por Luiz Gustavo Silva, houve o interesse de elaborar estruturas e materiais de fácil confecção para que qualquer professor de educação básica possa reproduzir o tabuleiro artesanalmente e utilizar com seus alunos, permitindo o uso facilitado da ferramenta.
+The game produced during the research also fits into this picture, since, as Luiz Gustavo Silva points out, there was an interest in designing structures and materials that are easy to make so that any basic education teacher can reproduce the board by hand and use it with their students, making the tool easy to use.
 
-## Perspectivas futuras da pesquisa
+## Future prospects for the research
 
-Outras análises, testes e melhoramentos da ferramenta são previstas para a pesquisa, que tem também a perspectiva de ser utilizada com outros públicos, conforme aponta Luiz Gustavo Silva: “Além do estudo de Números Inteiros, o jogo possui suas regras baseadas em conceitos de Análise Combinatória e Probabilidades, ou seja, o jogo também poderia ser trabalhado com alunos do Ensino Médio e gerar resultados igualmente interessantes.”
+Further analyses, tests and improvements to the tool are planned for the research, which may also be used with other audiences, as Luiz Gustavo Silva notes: “Besides the study of Integers, the game's rules are based on concepts from Combinatorics and Probability, which means the game could also be used with high school students and produce equally interesting results.”
 
-A pesquisa foi financiada pela [Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)](https://www.gov.br/capes/pt-br) com a [defesa de dissertação](https://jornal.unifal-mg.edu.br/mestrado-profissional-em-matematica-realiza-primeira-defesa-tema-do-trabalho-apresentado-envolve-jogos-de-tabuleiro-no-ensino-de-numeros-inteiro/) realizada no Mestrado Profissional em Matemática em Rede Nacional (PROFMAT) no final de 2023.
+The research was funded by the [Coordination for the Improvement of Higher Education Personnel (CAPES)](https://www.gov.br/capes/pt-br), with the [thesis defense](https://jornal.unifal-mg.edu.br/mestrado-profissional-em-matematica-realiza-primeira-defesa-tema-do-trabalho-apresentado-envolve-jogos-de-tabuleiro-no-ensino-de-numeros-inteiro/) held in the National Network Professional Master's in Mathematics (PROFMAT) at the end of 2023.
 
-Para mais informações, [acesse a dissertação neste link](https://profmat-sbm.org.br/dissertacoes/?aluno=Luiz+Gustavo+Alves+Silva&titulo=&polo=)
+For more information, [access the thesis at this link](https://profmat-sbm.org.br/dissertacoes/?aluno=Luiz+Gustavo+Alves+Silva&titulo=&polo=)
 
-Conheça também o [Mestrado Profissional em Matemática em Rede Nacional (PROFMAT)](https://www.unifal-mg.edu.br/profmat/) da UNIFAL-MG
+Also check out UNIFAL-MG's [National Network Professional Master's in Mathematics (PROFMAT)](https://www.unifal-mg.edu.br/profmat/)
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Text written under the supervision and guidance of Ana Carolina Araújo, journalist at the Federal University of Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/jogo-de-tabuleiro-para-o-ensino-da-matematica/) para acessar o texto na íntegra.
+Visit the [UNIFAL-MG page](https://jornal.unifal-mg.edu.br/jogo-de-tabuleiro-para-o-ensino-da-matematica/) to read the full text.

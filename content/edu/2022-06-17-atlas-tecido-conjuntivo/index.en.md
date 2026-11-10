@@ -1,19 +1,19 @@
 +++
-title = "Tecido Conjuntivo"
+title = "Connective Tissue"
 date = "2022-06-17"
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Histologia", "Atlas Histológico","Tecido Conjuntivo", "Desenho Científico", "UNIFAL-MG"]
-categories = ["Material Educativo"]
-keywords = ["tecido conjuntivo histologia", "tecido conjuntivo frouxo denso", "tendão colágeno", "o que é tecido conjuntivo", "atlas tecido conjuntivo"]
-description = "Tecido conjuntivo frouxo e denso: estrutura, função e ilustração do tendão. Material do Atlas Interativo de Histologia da UNIFAL-MG."
+tags = ["Histology", "Histology Atlas","Connective Tissue", "Scientific Illustration", "UNIFAL-MG"]
+categories = ["Educational Material"]
+keywords = ["connective tissue histology", "loose dense connective tissue", "tendon collagen", "what is connective tissue", "connective tissue atlas"]
+description = "Loose and dense connective tissue: structure, function and an illustration of the tendon. Material from UNIFAL-MG's Interactive Histology Atlas."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
-O tecido conjuntivo caracteriza-se pela predominância da matriz extracelular, composta por fibras e uma 'substância fundamental' viscosa e hidrofílica. Essa matriz, rica em proteoglicanos e glicoproteínas, preenche os espaços intercelulares e atua na adesão, lubrificação e defesa contra patógenos. Diferente de outros tecidos, possui células dispersas, além de vasos sanguíneos e nervos. Ele é divido em tecido conjuntivo frouxo e denso, mas há apenas a ilustração do tecido conjuntivo denso ([acesse o Atlas para mais informações](https://www.unifal-mg.edu.br/histologiainterativa/tecido-conjuntivo/)).
+Connective tissue is characterized by a predominance of extracellular matrix, made up of fibers and a viscous, hydrophilic 'ground substance'. This matrix, rich in proteoglycans and glycoproteins, fills the spaces between cells and plays a role in adhesion, lubrication and defense against pathogens. Unlike other tissues, it has scattered cells, as well as blood vessels and nerves. It is divided into loose and dense connective tissue, but only dense connective tissue is illustrated here ([visit the Atlas for more information](https://www.unifal-mg.edu.br/histologiainterativa/tecido-conjuntivo/)).
 
-### Tendão
+### Tendon
 
-O tendão é composto por tecido conjuntivo denso que conecta os músculos aos ossos. Ele é organizado principalmente por fibras de colágeno alocados em feixes paralelos, o que confere ao tendão uma grande resistência à tração. As células predominantes no tendão são os fibroblastos, que produzem as fibras de colágeno e a substância fundamental amorfa.
+The tendon is made of dense connective tissue that connects muscles to bones. It is organized mainly by collagen fibers arranged in parallel bundles, which gives the tendon great tensile strength. The predominant cells in the tendon are fibroblasts, which produce the collagen fibers and the amorphous ground substance.
 ![alt text](tendao.png)

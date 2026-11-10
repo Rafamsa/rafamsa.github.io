@@ -30,15 +30,17 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 3rem; font-family: monospace;">
     {{ if $paginator.HasPrev }}
-    <a href="{{ $paginator.Prev.URL }}" style="color: var(--primary-color, #f5c211); text-decoration: none;">← Mais
-        recentes</a>
+    <a href="{{ $paginator.Prev.URL }}" style="color: var(--primary-color, #f5c211); text-decoration: none;">←
+        {{ if eq .Site.Language.Lang "en" }}Newer{{ else if eq .Site.Language.Lang "es" }}Más recientes{{ else }}Mais
+        recentes{{ end }}</a>
     {{ else }}
     <span></span>
     {{ end }}
 
     {{ if $paginator.HasNext }}
-    <a href="{{ $paginator.Next.URL }}" style="color: var(--primary-color, #f5c211); text-decoration: none;">Mais
-        antigas →</a>
+    <a href="{{ $paginator.Next.URL }}" style="color: var(--primary-color, #f5c211); text-decoration: none;">
+        {{ if eq .Site.Language.Lang "en" }}Older{{ else if eq .Site.Language.Lang "es" }}Más antiguas{{ else }}Mais
+        antigas{{ end }} →</a>
     {{ end }}
 </div>
 

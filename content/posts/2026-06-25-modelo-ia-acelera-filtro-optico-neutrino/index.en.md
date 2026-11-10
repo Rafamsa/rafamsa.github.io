@@ -1,45 +1,46 @@
 +++
-title = "Modelo de IA acelera em 700 vezes a simulação de filtros ópticos para detectores de neutrinos que ajudam a estudar o universo"
-subtitle = "Desenvolvida na UNIFAL-MG, a ferramenta combina leis da física e aprendizado de máquina para apoiar o DUNE - experimento internacional de detecção de neutrinos "
+title = "AI model speeds up by 700 times the simulation of optical filters for neutrino detectors that help study the universe"
+subtitle = "Developed at UNIFAL-MG, the tool combines the laws of physics and machine learning to support DUNE - an international neutrino detection experiment "
 date = "2026-06-25"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
+author = "Rafael Martins da Silva Afeto"
 authorTwitter = "" #do not include @
 cover = "modelo-IA-para-filtro-optico-detector-neutrinos-1.jpg"
-coverCaption = "Ambiente de desenvolvimento do projeto, com códigos em Python e gráficos de treinamento da rede neural aplicada à óptica de filtros multicamadas. (Imagem: Arquivo/Mateus Rodrigues)"
-tags = ["Aprendizado de Máquina", "Filtro", "Inteligência Artificial", "Neutrinos", "Programa de Pós-Graduação em Física", "Projeto +Ciência", "Projeto Dune", "UNIFAL-MG"]
-keywords = ["", ""]
-description = "Pesquisadores da UNIFAL-MG desenvolveram um modelo de aprendizado de máquina que, com poucos dados reais, foi capaz de gerar simulações ópticas de filtros usados na captura do sinal de neutrinos. A solução se mostrou mais precisa e até 700 vezes mais rápida que o método tradicional de simulação."
+coverCaption = "The project's development environment, with Python code and training plots of the neural network applied to the optics of multilayer filters. (Image: Archive/Mateus Rodrigues)"
+tags = ["Machine Learning", "Filter", "Artificial Intelligence", "Neutrinos", "Graduate Program in Physics", "Projeto +Ciência", "DUNE Project", "UNIFAL-MG"]
+categories = ["Physics", "Technology"]
+keywords = ["optical filter simulation", "physics machine learning", "neutrino detector", "DUNE experiment", "artificial intelligence UNIFAL"]
+description = "UNIFAL-MG researchers developed a machine learning model that, with little real data, was able to generate optical simulations of filters used to capture the neutrino signal. The solution proved more accurate and up to 700 times faster than the traditional simulation method."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-Pesquisadores da UNIFAL-MG desenvolveram um modelo de aprendizado de máquina que, com poucos dados reais, foi capaz de gerar simulações ópticas de filtros usados na captura do sinal de neutrinos. A solução se mostrou mais precisa e até 700 vezes mais rápida que o método tradicional de simulação.
+UNIFAL-MG researchers developed a machine learning model that, with little real data, was able to generate optical simulations of filters used to capture the neutrino signal. The solution proved more accurate and up to 700 times faster than the traditional simulation method.
 
-O estudo fez parte do mestrado de Mateus Jesus de Oliveira Rodrigues, orientado pelo professor Anibal Thiago Bezerra, junto ao [Programa de Pós-Graduação em Física (PPGF)](https://www.unifal-mg.edu.br/ppgf/), e colabora com o experimento internacional [DUNE (Deep Underground Neutrino Experiment)](https://www.dunescience.org/), do qual a UNIFAL-MG é uma das instituições brasileiras participantes.
+The study was part of the master's degree of Mateus Jesus de Oliveira Rodrigues, supervised by professor Anibal Thiago Bezerra in the [Graduate Program in Physics (PPGF)](https://www.unifal-mg.edu.br/ppgf/), and contributes to the international experiment [DUNE (Deep Underground Neutrino Experiment)](https://www.dunescience.org/), in which UNIFAL-MG is one of the participating Brazilian institutions.
 
 {{< grid-gallery >}}
-  {{< grid-item src="Mateus-Jesus-de-Oliveira-Rodrigues-1.jpg" alt="Mateus Jesus de Oliveira Rodrigues – pesquisador/autor do estudo. (Foto: Arquivo Pessoal)" >}}
-  {{< grid-item src="Anibal-Bezerra.jpg" alt="Anibal Thiago Bezerra – professor/orientador do estudo. (Foto: Arquivo Pessoal)" >}}
+  {{< grid-item src="Mateus-Jesus-de-Oliveira-Rodrigues-1.jpg" alt="Mateus Jesus de Oliveira Rodrigues – researcher/author of the study. (Photo: Personal Archive)" >}}
+  {{< grid-item src="Anibal-Bezerra.jpg" alt="Anibal Thiago Bezerra – professor/supervisor of the study. (Photo: Personal Archive)" >}}
 {{< /grid-gallery >}}
 
-Um desafio inicial no desenvolvimento da pesquisa intitulada Aprendizado de máquina na detecção de neutrinos em supernovas foi a escassez de dados. Os pesquisadores tinham poucas curvas reais para treinar o modelo. Como explica Anibal Bezerra, os sistemas de aprendizado de máquina costumam exigir grande volume de dados e o material disponível seria insuficiente.
+An early challenge in developing the research, titled Machine learning in the detection of neutrinos from supernovae, was the scarcity of data. The researchers had few real curves to train the model. As Anibal Bezerra explains, machine learning systems usually require a large volume of data, and the available material would not have been enough.
 
-Para contornar essa limitação, a saída foi treinar o modelo em duas etapas. Primeiro, a equipe utilizou 500 curvas geradas pelo método convencional, o TMM (Transfer Matrix Method), que usa equações da física para descrever como a luz atravessa os filtros. Essas curvas não reproduzem com fidelidade a resposta óptica do filtro real, mas dão ao modelo uma base ampla para aprender. Em seguida, as medições reais entraram em cena para calibrar essa base e mostrar à inteligência artificial os detalhes que o modelo matemático (TMM) não possuía.
+To get around this limitation, the solution was to train the model in two stages. First, the team used 500 curves generated by the conventional method, the TMM (Transfer Matrix Method), which uses physics equations to describe how light passes through the filters. These curves do not faithfully reproduce the optical response of the real filter, but they give the model a broad base to learn from. Then the real measurements came into play to calibrate this base and show the artificial intelligence the details that the mathematical model (TMM) lacked.
 
-A equipe também incorporou física ao próprio modelo, nomeado de CPIGAN (Conditional Physics Informed Generative Adversarial Networks). “A parte ‘physics informed’ salienta o fato de ensinarmos a física por trás da resposta óptica aos modelos generativos adversariais condicionais, as CGANs”, explica Anibal Bezerra.
+The team also built physics into the model itself, named CPIGAN (Conditional Physics Informed Generative Adversarial Networks). “The ‘physics informed’ part highlights the fact that we teach the physics behind the optical response to the conditional generative adversarial models, the CGANs,” explains Anibal Bezerra.
 
-Conforme destaca o pesquisador, os filtros ópticos são camadas de materiais diferentes que, empilhados, filtram a luz que os atinge, podendo, deixar apenas alguns comprimentos de onda específicos passarem. É por meio dessa filtragem rigorosa que eles atuam como a “porta de entrada” para as ARAPUCAS – armadilhas gigantes projetadas para capturar o brilho dos neutrinos.
+As the researcher points out, optical filters are stacked layers of different materials that filter the light hitting them and can let only a few specific wavelengths through. It is through this rigorous filtering that they act as the “gateway” to the ARAPUCAS – giant traps designed to capture the glow of neutrinos.
 
-Convencionalmente, a simulação para estes componentes é feita pelo TMM, mas como o professor explica, esse método é uma aproximação. “O método trata as interfaces entre os materiais como sendo perfeitas, seria o análogo ótico para o ‘ignore o atrito’ nos problemas de mecânica”, argumenta.
+Conventionally, simulation of these components is done with TMM, but, as the professor explains, this method is an approximation. “The method treats the interfaces between materials as perfect; it would be the optical analog of ‘ignore friction’ in mechanics problems,” he argues.
 
-O CPIGAN se torna um modelo de rede neural capaz de reproduzir os resultados de transmissão óptica de filtros reais. “Adicionalmente, são modelos muito mais rápidos computacionalmente que os TMM. Mostramos um aumento na velocidade de obtenção das curvas de transmissão de mais de 700 vezes ao compararmos as CPIGAN com o TMM”, enfatiza Anibal Bezerra.
+CPIGAN thus becomes a neural network model capable of reproducing the optical transmission results of real filters. “In addition, these models are computationally much faster than TMM. We showed an increase of more than 700 times in the speed of obtaining transmission curves when comparing CPIGAN with TMM,” emphasizes Anibal Bezerra.
 
-Segundo o pesquisador, trata-se de um trabalho de física básica, voltado a desenvolver técnicas que possam ser aplicadas na criação de dispositivos. “Acreditamos que seja um trabalho bastante relevante para a engenharia de dispositivos óticos, com diversas aplicações na sociedade. Desenhamos um procedimento de aprendizado de máquina que pode ser estendido para outros tipos de dispositivos e propriedades com aplicações diretas na indústria óptica, por exemplo”, ressalta.
+According to the researcher, this is basic physics work, aimed at developing techniques that can be applied to building devices. “We believe it is a very relevant work for optical device engineering, with many applications in society. We designed a machine learning procedure that can be extended to other types of devices and properties with direct applications in the optics industry, for example,” he notes.
 
-Os próximos passos da pesquisa já estão em andamento. A equipe busca desenvolver um modelo ainda mais geral, capaz de aprender as propriedades de dispositivos com diversos números de camadas de materiais. “É um trabalho desafiador, para o qual já estamos obtendo alguns resultados bastante interessantes”, compartilha o pesquisador.
+The next steps of the research are already underway. The team seeks to develop an even more general model, capable of learning the properties of devices with varying numbers of material layers. “It is a challenging work, for which we are already getting some very interesting results,” the researcher shares.
 
-A pesquisa contou com o apoio da [Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)](https://www.gov.br/capes/pt-br) na concessão de bolsa de mestrado ao discente Mateus Rodrigues.
+The research was supported by the [Coordination for the Improvement of Higher Education Personnel (CAPES)](https://www.gov.br/capes/pt-br), which granted a master's scholarship to student Mateus Rodrigues.
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/modelo-de-ia-acelera-em-700-vezes-a-simulacao-de-filtros-opticos-para-detectores-de-neutrinos-que-ajudam-a-estudar-o-universo/) para acessar o texto na íntegra.
+Visit the [UNIFAL-MG page](https://jornal.unifal-mg.edu.br/modelo-de-ia-acelera-em-700-vezes-a-simulacao-de-filtros-opticos-para-detectores-de-neutrinos-que-ajudam-a-estudar-o-universo/) to read the full original text.

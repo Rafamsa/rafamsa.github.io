@@ -1,40 +1,40 @@
 +++
-title = "Pesquisa traz novos achados sobre a relação entre a perda de apetite e um ‘biomarcador’ do envelhecimento"
-subtitle = "Realizado por pesquisadores da UNIFAL-MG, o estudo mostra uma relação entre a anorexia do envelhecimento e o comprimento do telômero de pessoas idosas"
+title = "Study yields new findings on the link between loss of appetite and a ‘biomarker’ of aging"
+subtitle = "Carried out by researchers at UNIFAL-MG, the study shows a relationship between the anorexia of aging and telomere length in older adults"
 date = "2025-10-30"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa-pesquisa-anorexia-do-envelhecimento.jpg"
-coverCaption = "Imagem ilustrativa. (Foto: Reprodução/Canva Education)"
-tags = ["Enfermagem", "Envelhecimento", "Nutrição", "PPGENF", "PPGNL", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Saúde"]
-keywords = ["anorexia do envelhecimento", "telômero idosos", "biomarcador envelhecimento", "perda de apetite idosos", "pesquisa enfermagem nutrição UNIFAL"]
-description = "Estudo da UNIFAL-MG descobre relação entre a anorexia do envelhecimento e o encurtamento do telômero em pessoas idosas, um biomarcador do envelhecimento."
+coverCaption = "Illustrative image. (Photo: Reproduction/Canva Education)"
+tags = ["Nursing", "Aging", "Nutrition", "PPGENF", "PPGNL", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Health"]
+keywords = ["anorexia of aging", "telomeres older adults", "aging biomarker", "loss of appetite older adults", "nursing nutrition research UNIFAL"]
+description = "A UNIFAL-MG study finds a link between the anorexia of aging and telomere shortening in older adults, a biomarker of aging."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-Pesquisa realizada pelo então discente de mestrado em Enfermagem, Ricardo Antônio Vieira, e orientada pela professora Tábatta Renata Pereira de Brito, docente dos programas de pós-graduação em [Enfermagem (PPGENF)](https://www.unifal-mg.edu.br/ppgenf/programa/) e em [Nutrição e Longevidade (PPGNL)](https://www.unifal-mg.edu.br/ppgnl/) da UNIFAL-MG, trouxe novos achados sobre um biomarcador do envelhecimento, o telômero.
+A study carried out by Ricardo Antônio Vieira, then a master's student in Nursing, and supervised by Professor Tábatta Renata Pereira de Brito, a faculty member in UNIFAL-MG's graduate programs in [Nursing (PPGENF)](https://www.unifal-mg.edu.br/ppgenf/programa/) and [Nutrition and Longevity (PPGNL)](https://www.unifal-mg.edu.br/ppgnl/), has yielded new findings on a biomarker of aging: the telomere.
 
-![alt text](equipe-pesquisa-anorexia-do-envelhecimento-600x800.jpeg)
-Equipe envolvida na pesquisa: Ricardo Antônio Vieira (à esquerda) e outros pesquisadores com a professora Tábatta Renata Pereira de Brito (de blusa verde). (Foto: Arquivo/Tábatta Renata Pereira de Brito)
+![Research team](equipe-pesquisa-anorexia-do-envelhecimento-600x800.jpeg)
+The research team: Ricardo Antônio Vieira (left) and other researchers with Professor Tábatta Renata Pereira de Brito (in the green top). (Photo: Archive/Tábatta Renata Pereira de Brito)
 
-Segundo Ricardo Vieira, nas pessoas idosas avaliadas foi encontrada uma ligação entre a anorexia do envelhecimento – condição natural caracterizada pela perda de apetite em pessoas mais velhas, e o encurtamento do telômero, estrutura que atua como uma espécie de “capinha protetora” do DNA, servindo como marcadores de tempo biológico.
+According to Ricardo Vieira, the older adults evaluated showed a link between the anorexia of aging – a natural condition characterized by loss of appetite in older people – and the shortening of telomeres, structures that act as a kind of “protective cap” for DNA and serve as markers of biological time.
 
-Para identificar essa relação, a equipe conversou com 448 pessoas com 60 anos ou mais. Usaram um questionário conhecido como “Questionário Nutricional Simplificado de Apetite (QNSA)” para entender o apetite dos participantes, separando quem apresentava a anorexia do envelhecimento ou não. Na sequência, cruzaram essa informação com os resultados das análises realizadas com amostras de sangue, onde foi possível analisar o comprimento do telômero das pessoas idosas.
+To identify this relationship, the team talked to 448 people aged 60 or older. They used a questionnaire known as the “Simplified Nutritional Appetite Questionnaire (SNAQ)” to understand the participants' appetite, separating those who had the anorexia of aging from those who did not. They then cross-referenced this information with the results of blood sample analyses, which made it possible to measure the telomere length of the older participants.
 
-Ricardo Vieira acredita que, ao fortalecer a hipótese de que o telômero pode ser um biomarcador, os resultados podem direcionar ensaios clínicos e novos estudos em terapias direcionadas ao envelhecimento. Ele também enxerga um potencial de avanço na prática de enfermagem de precisão. “Ao utilizar biomarcadores do envelhecimento, o cuidado de enfermagem passa a considerar as características biológicas de cada pessoa, tornando as decisões mais personalizadas e baseadas em evidências”, pontua.
+Ricardo Vieira believes that, by strengthening the hypothesis that the telomere can be a biomarker, the results may guide clinical trials and new studies on therapies targeting aging. He also sees potential for advances in precision nursing practice. “By using biomarkers of aging, nursing care starts to take into account each person's biological characteristics, making decisions more personalized and evidence-based,” he notes.
 
-Conforme os pesquisadores, por estarem em contato direto com pessoas idosas nos serviços de saúde, os enfermeiros exercem um papel estratégico no rastreamento da perda de apetite. O uso do QNSA por esses profissionais permite uma avaliação rápida, o que favorece a identificação precoce da anorexia e a articulação com a equipe multiprofissional, especialmente com os nutricionistas. Para o autor do estudo, essa ação conjunta favorece a adoção de hábitos alimentares saudáveis, o acompanhamento contínuo por diferentes profissionais e a educação em saúde voltada às pessoas idosas.
+According to the researchers, because they are in direct contact with older adults in health services, nurses play a strategic role in screening for loss of appetite. The use of the SNAQ by these professionals allows a quick assessment, which favors early identification of anorexia and coordination with the multidisciplinary team, especially nutritionists. For the study's author, this joint effort encourages the adoption of healthy eating habits, ongoing follow-up by different professionals, and health education aimed at older adults.
 
-Os resultados da pesquisa também apresentam benefícios diretos para a população idosa. “O estudo contribui para que as pessoas idosas recebam cuidados mais individualizados e baseados em evidências, fortalecendo a promoção da saúde e a prevenção de agravos”, destaca.
+The study's results also bring direct benefits to the older population. “The study helps older people receive more individualized, evidence-based care, strengthening health promotion and the prevention of health problems,” he highlights.
 
-O estudo faz parte da pesquisa intitulada Associação entre baixo nível de apoio social e o comprimento dos telômeros em idosos, financiada pela [Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)](https://www.gov.br/capes/pt-br), pelo [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br) e pela [Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/). Tais estudos estão vinculados aos programas de pós-graduação em Enfermagem e em Nutrição e Longevidade, ambos da UNIFAL-MG, e contaram também com a colaboração da Profa. Daniela Braga Lima, docente da Faculdade de Nutrição, além de pesquisadores da Unicamp, UFSCar e UFAC.
+The study is part of the research project titled Association between low levels of social support and telomere length in older adults, funded by the [Coordination for the Improvement of Higher Education Personnel (CAPES)](https://www.gov.br/capes/pt-br), the [National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br), and the [Minas Gerais State Research Foundation (FAPEMIG)](https://fapemig.br/). These studies are linked to UNIFAL-MG's graduate programs in Nursing and in Nutrition and Longevity, and also had the collaboration of Professor Daniela Braga Lima, from the School of Nutrition, as well as researchers from Unicamp, UFSCar, and UFAC.
 
-A expectativa para o projeto é a continuidade por meio de um estudo longitudinal, que acompanhe os participantes do estudo que foram avaliados, inicialmente, em 2019.
+The plan is to continue the project with a longitudinal study following the participants who were first evaluated in 2019.
 
-Para mais informações, a dissertação de mestrado em Enfermagem de Ricardo Antônio Vieira pode ser consultada na Biblioteca de Teses e Dissertações da UNIFAL-MG, [neste link](https://repositorio.unifal-mg.edu.br/items/2733e5f5-6f9e-4b89-810a-08330deec9ca). O artigo correspondente também estará disponível no link da publicação [aqui](https://onlinelibrary.wiley.com/doi/10.1111/jhn.13338).
+For more information, Ricardo Antônio Vieira's master's thesis in Nursing is available in the UNIFAL-MG Library of Theses and Dissertations [at this link](https://repositorio.unifal-mg.edu.br/items/2733e5f5-6f9e-4b89-810a-08330deec9ca). The corresponding article will also be available at the publication link [here](https://onlinelibrary.wiley.com/doi/10.1111/jhn.13338).
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Text written under the supervision and guidance of Ana Carolina Araújo, journalist at the Federal University of Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/pesquisa-traz-novos-achados-sobre-a-relacao-entre-a-perda-de-apetite-e-um-biomarcador-do-envelhecimento/) para acessar o texto na íntegra.
+Visit the [UNIFAL-MG page](https://jornal.unifal-mg.edu.br/pesquisa-traz-novos-achados-sobre-a-relacao-entre-a-perda-de-apetite-e-um-biomarcador-do-envelhecimento/) to read the full text (in Portuguese).

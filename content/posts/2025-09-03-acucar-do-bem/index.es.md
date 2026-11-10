@@ -1,65 +1,65 @@
 +++
-title = "Grupo de pesquisa desenvolve tecnologia nacional inédita que promete popularizar o ‘açúcar do bem’"
-subtitle = "Pesquisadores da UNIFAL-MG e de instituições parceiras criam método inovador para produzir fruto-oligossacarídeos (FOS) a partir da sacarose da cana-de-açúcar, o que reduz custos e diminui a dependência de importações"
+title = "Grupo de investigación desarrolla una tecnología brasileña inédita que promete popularizar el 'azúcar del bien'"
+subtitle = "Investigadores de la UNIFAL-MG y de instituciones asociadas crean un método innovador para producir fructooligosacáridos (FOS) a partir de la sacarosa de la caña de azúcar, lo que reduce costos y disminuye la dependencia de las importaciones"
 date = "2025-09-03"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_acucar-do-bem.jpg"
-coverCaption = "PLA [Poliácido Láctico - tipo plástico biodegradável] impresso em 3d para imobilização das células fúngicas. (Foto: Arquivo/Grupo de pesquisa)"
-tags = ["FAPEMIG", "Açúcar do bem", "PPGEQ", "Biotecnologia", "CNPq", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Biotecnologia"]
-keywords = ["fruto-oligossacarídeos FOS", "açúcar do bem", "produção nacional FOS", "prebióticos cana de açúcar", "biotecnologia engenharia química UNIFAL"]
-description = "Pesquisadores da UNIFAL-MG desenvolvem tecnologia inédita para produzir fruto-oligossacarídeos (FOS) no Brasil, usando cana-de-açúcar como matéria-prima."
+coverCaption = "PLA [ácido poliláctico, un tipo de plástico biodegradable] impreso en 3D para la inmovilización de las células fúngicas. (Foto: Archivo/Grupo de investigación)"
+tags = ["FAPEMIG", "Azúcar del bien", "PPGEQ", "Biotecnología", "CNPq", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Biotecnología"]
+keywords = ["fructooligosacáridos FOS", "azúcar del bien", "producción nacional de FOS", "prebióticos de caña de azúcar", "biotecnología ingeniería química UNIFAL"]
+description = "Investigadores de la UNIFAL-MG desarrollan una tecnología inédita para producir fructooligosacáridos (FOS) en Brasil, usando la caña de azúcar como materia prima."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-Um grupo de pesquisa UNIFAL-MG, vinculado ao [Programa de Pós-Graduação em Engenharia Química](https://www.unifal-mg.edu.br/ppgeq/) e com a colaboração de instituições parceiras, está perto de mudar o cenário da produção de fruto-oligossacarídeos (FOS), conhecidos como o ‘açúcar do bem’. Hoje 100% importado, esse tipo especial de açúcar pode, em breve, ser produzido no Brasil a preços mais acessíveis a toda população.
+Un grupo de investigación de la UNIFAL-MG, vinculado al [Programa de Posgrado en Ingeniería Química](https://www.unifal-mg.edu.br/ppgeq/) y con la colaboración de instituciones asociadas, está cerca de cambiar el panorama de la producción de fructooligosacáridos (FOS), conocidos como el 'azúcar del bien'. Hoy 100% importado, este tipo especial de azúcar podría producirse pronto en Brasil a precios más accesibles para toda la población.
 
-Segundo os pesquisadores, os FOS são açúcares com propriedades funcionais: têm baixo valor calórico, são indicados para diabéticos, não causam cáries e atuam como prebióticos, servindo de alimento para as bactérias benéficas do intestino humano. Além disso, estudos apontam efeitos positivos na prevenção do câncer de cólon e no tratamento de doenças como anemia e hipertensão.
+Según los investigadores, los FOS son azúcares con propiedades funcionales: tienen bajo valor calórico, son aptos para diabéticos, no causan caries y actúan como prebióticos, sirviendo de alimento para las bacterias beneficiosas del intestino humano. Además, diversos estudios señalan efectos positivos en la prevención del cáncer de colon y en el tratamiento de enfermedades como la anemia y la hipertensión.
 
-“Queremos colocar no mercado um açúcar de baixo custo, competitivo e que possa atender principalmente pessoas com doenças metabólicas, como o diabetes”, explica o professor Rafael Firmani Perna, líder do grupo de pesquisa e coordenador do [Laboratório de Tecnologia Enzimática e Bioprocessos](https://www.unifal-mg.edu.br/ppgbiotec/lab-de-tecnologia-enzimatica/) da UNIFAL-MG.
+"Queremos poner en el mercado un azúcar de bajo costo, competitivo y que pueda atender principalmente a personas con enfermedades metabólicas, como la diabetes", explica el profesor Rafael Firmani Perna, líder del grupo de investigación y coordinador del [Laboratorio de Tecnología Enzimática y Bioprocesos](https://www.unifal-mg.edu.br/ppgbiotec/lab-de-tecnologia-enzimatica/) de la UNIFAL-MG.
 
 ![alt text](Rafael-Firmani-Perna.jpg)
-Rafael Firmani Perna – professor da UNIFAL-MG e líder do grupo de pesquisa. (Foto: Arquivo Pessoal)
+Rafael Firmani Perna – profesor de la UNIFAL-MG y líder del grupo de investigación. (Foto: Archivo Personal)
 
-Para os autores, apesar dos benefícios, o Brasil não produz FOS. Todo o consumo nacional depende de importações, o que encarece o produto e restringe sua presença no mercado. O preço atual é de cerca de US$ 165 por quilo, inacessível para a maioria da população. O cenário global, no entanto, mostra um mercado em expansão: em 2024, o setor movimentou US$ 3,85 bilhões e deve chegar a US$ 6,25 bilhões até 2029, com taxa de crescimento anual de 10,19%.
+Para los autores, a pesar de sus beneficios, Brasil no produce FOS. Todo el consumo nacional depende de importaciones, lo que encarece el producto y restringe su presencia en el mercado. El precio actual es de cerca de US$ 165 por kilo, inaccesible para la mayoría de la población. El panorama global, sin embargo, muestra un mercado en expansión: en 2024, el sector movió US$ 3.850 millones y se espera que alcance los US$ 6.250 millones para 2029, con una tasa de crecimiento anual del 10,19%.
 
-## A inovação brasileira
+## La innovación brasileña
 
-O grupo apostou em duas frentes para viabilizar a produção nacional: usar a sacarose, oriunda da cana-de-açúcar, como matéria-prima – abundante e barata no país – e adotar um processo contínuo com reatores de leito fixo (PBR).
+El grupo apostó por dos frentes para hacer viable la producción nacional: usar la sacarosa proveniente de la caña de azúcar como materia prima –abundante y barata en el país– y adoptar un proceso continuo con reactores de lecho fijo (PBR).
 
-Para converter a sacarose em FOS, foi necessário um biocatalisador específico: uma enzima produzida pelo fungo Aspergillus oryzae IPT-301. “Esse fungo é o único capaz de produzir a enzima adequada para transformar, potencialmente, a sacarose em FOS”, detalha o professor Rafael Perna.
+Para convertir la sacarosa en FOS, fue necesario un biocatalizador específico: una enzima producida por el hongo Aspergillus oryzae IPT-301. "Este hongo es el único capaz de producir la enzima adecuada para transformar, potencialmente, la sacarosa en FOS", detalla el profesor Rafael Perna.
 
 ![alt text](pesquisadora-cultivando-o-fungo.jpg)
-Pesquisadora cultivando o fungo. (Foto: Arquivo/Grupo de pesquisa)
+Investigadora cultivando el hongo. (Foto: Archivo/Grupo de investigación)
 
-O desafio seguinte foi tornar as células mais resistentes no processo produtivo. A solução veio com a engenharia de bioprocessos: os cientistas usaram poliácido lático (PLA), um plástico biodegradável e reciclável, para criar estruturas 3D que imobilizam os micro-organismos. Isso aumentou a estabilidade operacional das células e garantiu uma produção mais eficiente e sustentável do açúcar prebiótico. Segundo o professor, o grupo já alcançou uma produção de aproximadamente 160 g/L.h de FOS em escala laboratorial, um resultado promissor que foi validado por estudos de viabilidade técnico-econômica realizados pelo grupo de pesquisa.
+El siguiente desafío fue hacer que las células fueran más resistentes en el proceso productivo. La solución vino de la ingeniería de bioprocesos: los científicos usaron ácido poliláctico (PLA), un plástico biodegradable y reciclable, para crear estructuras 3D que inmovilizan a los microorganismos. Esto aumentó la estabilidad operativa de las células y garantizó una producción más eficiente y sostenible del azúcar prebiótico. Según el profesor, el grupo ya alcanzó una producción de aproximadamente 160 g/L.h de FOS a escala de laboratorio, un resultado prometedor que fue validado por estudios de viabilidad técnico-económica realizados por el grupo de investigación.
 
 {{< grid-gallery >}}
-  {{< grid-item src="inicio-da-reacao-utilizando-o-impresso-3d-de-pla-em-reator-de-leito-fixo.jpg" alt="Início da reação utilizando o impresso 3d de PLA em reator de leito fixo. (Arquivo/Grupo de pesquisa)" >}}
-  {{< grid-item src="Reator-de-leito-fixo.jpg" alt="Reator de leito fixo. (Arquivo/Grupo de pesquisa)" >}}
+  {{< grid-item src="inicio-da-reacao-utilizando-o-impresso-3d-de-pla-em-reator-de-leito-fixo.jpg" alt="Inicio de la reacción utilizando el impreso 3D de PLA en un reactor de lecho fijo. (Archivo/Grupo de investigación)" >}}
+  {{< grid-item src="Reator-de-leito-fixo.jpg" alt="Reactor de lecho fijo. (Archivo/Grupo de investigación)" >}}
 {{< /grid-gallery >}}
 
-## Próximos passos
+## Próximos pasos
 
-O grupo já alcançou a produção de FOS em solução e agora avança nas etapas de recuperação e purificação do bioproduto, visando atender tanto à indústria alimentícia quanto à farmacêutica. A expectativa é que o ‘açúcar do bem’ nacional esteja disponível no mercado em até oito anos. “A equipe está totalmente focada no desenvolvimento das etapas de recuperação e purificação do FOS, que são fundamentais para o processo, representando até 70% dos custos de produção do açúcar prebiótico”, afirma o pesquisador.
+El grupo ya logró producir FOS en solución y ahora avanza en las etapas de recuperación y purificación del bioproducto, con el objetivo de atender tanto a la industria alimentaria como a la farmacéutica. Se espera que el 'azúcar del bien' nacional esté disponible en el mercado en un plazo de hasta ocho años. "El equipo está totalmente enfocado en el desarrollo de las etapas de recuperación y purificación del FOS, que son fundamentales para el proceso y representan hasta el 70% de los costos de producción del azúcar prebiótico", afirma el investigador.
 
-E a pesquisa não deve parar por aí. Segundo Rafael Perna, a mesma tecnologia poderá ser aplicada na produção de outros compostos de alto valor agregado, como ésteres de açúcares, usados em cosméticos para tratamentos dermatológicos.
+Y la investigación no se detendrá ahí. Según Rafael Perna, la misma tecnología podrá aplicarse en la producción de otros compuestos de alto valor agregado, como los ésteres de azúcar, usados en cosméticos para tratamientos dermatológicos.
 
-## Colaborações nacionais e internacionais e apoio financeiro
+## Colaboraciones nacionales e internacionales y apoyo financiero
 
-A rede de pesquisa conta com parcerias nacionais e internacionais, incluindo laboratórios da Universidade Federal do Tocantis (UFT, Campus Palmas-TO), da Universidade Estadual Paulista (UNESP, Campus São Vicente-SP), do Instituto de Pesquisas Tecnológicas de São Paulo (IPT, São Paulo-SP) e do Centro de Engenharia Biológica da Universidade do Minho, em Portugal.
+La red de investigación cuenta con alianzas nacionales e internacionales, que incluyen laboratorios de la Universidad Federal de Tocantins (UFT, Campus Palmas-TO), de la Universidad Estatal Paulista (UNESP, Campus São Vicente-SP), del Instituto de Investigaciones Tecnológicas de São Paulo (IPT, São Paulo-SP) y del Centro de Ingeniería Biológica de la Universidad do Minho, en Portugal.
 
 ![alt text](Parte-do-grupo-de-pesquisa-Rafael-Perna.jpg)
-Parte dos pesquisadores que fazem parte da rede de colaboração. (Foto: Arquivo/Grupo de pesquisa)
+Parte de los investigadores que integran la red de colaboración. (Foto: Archivo/Grupo de investigación)
 
-Nos últimos anos, o trabalho foi apoiado por oito projetos financiados pela [Fundação de Amparo à Pesquisa do Estado de Minas Gerais – FAPEMIG](https://fapemig.br/) (Processos APQ-00793-24, BPD-00030-22, APQ-00085-21 e APQ-02131-14) e pelo [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br) do Governo Federal (Processos 305029/2024-0, 408302/2023-2, 404912/2021-4 e 421540/2018-4).
+En los últimos años, el trabajo recibió el apoyo de ocho proyectos financiados por la [Fundación de Apoyo a la Investigación del Estado de Minas Gerais – FAPEMIG](https://fapemig.br/) (Procesos APQ-00793-24, BPD-00030-22, APQ-00085-21 y APQ-02131-14) y por el [Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br) del Gobierno Federal (Procesos 305029/2024-0, 408302/2023-2, 404912/2021-4 y 421540/2018-4).
 
-Para mais informações sobre o projeto, acesse o Instagram do Laboratório de Tecnologia Enzimática e Bioprocessos da UNIFAL-MG [neste link](https://www.instagram.com/labtech.teb/?igsh=MWt3cGwzcWJtOG5pbw%3D%3D).
+Para más información sobre el proyecto, visita el Instagram del Laboratorio de Tecnología Enzimática y Bioprocesos de la UNIFAL-MG [en este enlace](https://www.instagram.com/labtech.teb/?igsh=MWt3cGwzcWJtOG5pbw%3D%3D).
 
-Confira também informações sobre os laboratórios parceiros: [Laboratório Micobio-Nanotec – UNESP/Campus São Vicente-SP](https://www.instagram.com/micobionanotec/?igsh=aGtkaTk5cjI4eDVp) e [Laboratório de Instrumentação Científica – UFT/Campus Palmas-TO](https://www.instagram.com/labic.uft/?igsh=YXk5ZjMwejJqOWtz)
+Consulta también información sobre los laboratorios asociados: [Laboratorio Micobio-Nanotec – UNESP/Campus São Vicente-SP](https://www.instagram.com/micobionanotec/?igsh=aGtkaTk5cjI4eDVp) y [Laboratorio de Instrumentación Científica – UFT/Campus Palmas-TO](https://www.instagram.com/labic.uft/?igsh=YXk5ZjMwejJqOWtz)
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Texto elaborado bajo la supervisión y orientación de Ana Carolina Araújo, periodista de la Universidad Federal de Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/grupo-de-pesquisa-desenvolve-tecnologia-nacional-inedita-que-promete-popularizar-o-acucar-do-bem/) para acessar o texto na íntegra.
+Visita la [página de la UNIFAL-MG](https://jornal.unifal-mg.edu.br/grupo-de-pesquisa-desenvolve-tecnologia-nacional-inedita-que-promete-popularizar-o-acucar-do-bem/) para leer el texto completo (en portugués).

@@ -1,40 +1,40 @@
 +++
-title = "Células do Sangue"
+title = "Blood Cells"
 date = "2022-06-17"
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Histologia", "Atlas Histológico","Células do Sangue", "Desenho Científico", "UNIFAL-MG"]
-categories = ["Material Educativo"]
-keywords = ["células do sangue histologia", "leucócitos eritrócitos plaquetas", "atlas células sanguíneas", "hematopoiese", "tecido sanguíneo"]
-description = "Conheça as células do sangue: leucócitos, eritrócitos e plaquetas. Material do Atlas Interativo de Histologia da UNIFAL-MG com ilustrações."
+tags = ["Histology", "Histology Atlas","Blood Cells", "Scientific Illustration", "UNIFAL-MG"]
+categories = ["Educational Material"]
+keywords = ["blood cells histology", "leukocytes erythrocytes platelets", "blood cell atlas", "hematopoiesis", "blood tissue"]
+description = "Get to know the blood cells: leukocytes, erythrocytes and platelets. Illustrated material from UNIFAL-MG's Interactive Histology Atlas."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
-O sangue é um tecido conjuntivo líquido que circula pelo sistema cardiovascular, transportando nutrientes, gases e resíduos metabólicos para todo o organismo. Ele é composto pelo plasma, uma matriz extracelular rica em água e proteínas, e pelos elementos figurados, que desempenham funções vitais de defesa e oxigenação ([acesse o Atlas para mais informações](https://www.unifal-mg.edu.br/histologiainterativa/celulas-do-sangue-e-hematopoiese/)).
+Blood is a fluid connective tissue that circulates through the cardiovascular system, carrying nutrients, gases and metabolic waste throughout the body. It is made up of plasma, an extracellular matrix rich in water and proteins, and the formed elements, which carry out vital defense and oxygenation functions ([visit the Atlas for more information](https://www.unifal-mg.edu.br/histologiainterativa/celulas-do-sangue-e-hematopoiese/)).
 
-As células sanguíneas podem ser divididas da seguinte maneira:
+Blood cells can be divided as follows:
 
-#### Leucócitos (Glóbulos Brancos)
+#### Leukocytes (White Blood Cells)
 
-##### Granulócitos (possuem grânulos específicos no citoplasma)
+##### Granulocytes (have specific granules in the cytoplasm)
 
-*Neutrófilo*: Identificável pelo núcleo multilobado; é a primeira linha de defesa fagocitária contra bactérias.
-*Eosinófilo*: Possui núcleo tipicamente bilobado e grânulos que atuam em reações alérgicas e combate a parasitas.
-*Basófilo*: O mais raro; possui grânulos densos (histamina/heparina) que muitas vezes encobrem o núcleo, atuando em processos inflamatórios.
+*Neutrophil*: Recognizable by its multilobed nucleus; it is the first line of phagocytic defense against bacteria.
+*Eosinophil*: Has a typically bilobed nucleus and granules that act in allergic reactions and in fighting parasites.
+*Basophil*: The rarest; has dense granules (histamine/heparin) that often obscure the nucleus, and acts in inflammatory processes.
 
-##### Agranulócitos (citoplasma com grânulos não específicos)
+##### Agranulocytes (cytoplasm with nonspecific granules)
 
-*Monócito*: A maior célula do sangue, com núcleo em formato de rim; ao migrar para tecidos, torna-se macrófago.
-*Linfócito*: Possui núcleo grande e esférico que ocupa quase toda a célula; é central na resposta imune adaptativa (produção de anticorpos e memória).
+*Monocyte*: The largest blood cell, with a kidney-shaped nucleus; when it migrates into tissues, it becomes a macrophage.
+*Lymphocyte*: Has a large, spherical nucleus that fills almost the entire cell; it is central to the adaptive immune response (antibody production and memory).
 
-#### Eritrócitos (Hemácias)
+#### Erythrocytes (Red Blood Cells)
 
-São as células rosadas e anucleadas em abundância na imagem. Sua forma de disco bicôncavo otimiza o transporte de oxigênio pelos vasos sanguíneos.
+These are the abundant pink, anucleate cells in the image. Their biconcave disc shape optimizes oxygen transport through the blood vessels.
 
-#### Plaquetas (Trombócitos)
+#### Platelets (Thrombocytes)
 
-Pequenos fragmentos celulares (pontos escuros menores) derivados de megacariócitos, fundamentais para a formação do coágulo e estancamento de hemorragias.
+Small cell fragments (the smaller dark dots) derived from megakaryocytes, essential for clot formation and for stopping bleeding.
 <!-- achar uma imagem melhor -->
 
 ![alt text](sangue.png)

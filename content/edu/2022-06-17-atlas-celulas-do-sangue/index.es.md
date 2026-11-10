@@ -1,40 +1,40 @@
 +++
-title = "Células do Sangue"
+title = "Células de la Sangre"
 date = "2022-06-17"
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Histologia", "Atlas Histológico","Células do Sangue", "Desenho Científico", "UNIFAL-MG"]
+tags = ["Histología", "Atlas Histológico","Células de la Sangre", "Ilustración Científica", "UNIFAL-MG"]
 categories = ["Material Educativo"]
-keywords = ["células do sangue histologia", "leucócitos eritrócitos plaquetas", "atlas células sanguíneas", "hematopoiese", "tecido sanguíneo"]
-description = "Conheça as células do sangue: leucócitos, eritrócitos e plaquetas. Material do Atlas Interativo de Histologia da UNIFAL-MG com ilustrações."
+keywords = ["células de la sangre histología", "leucocitos eritrocitos plaquetas", "atlas células sanguíneas", "hematopoyesis", "tejido sanguíneo"]
+description = "Conoce las células de la sangre: leucocitos, eritrocitos y plaquetas. Material ilustrado del Atlas Interactivo de Histología de la UNIFAL-MG."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
-O sangue é um tecido conjuntivo líquido que circula pelo sistema cardiovascular, transportando nutrientes, gases e resíduos metabólicos para todo o organismo. Ele é composto pelo plasma, uma matriz extracelular rica em água e proteínas, e pelos elementos figurados, que desempenham funções vitais de defesa e oxigenação ([acesse o Atlas para mais informações](https://www.unifal-mg.edu.br/histologiainterativa/celulas-do-sangue-e-hematopoiese/)).
+La sangre es un tejido conectivo líquido que circula por el sistema cardiovascular y transporta nutrientes, gases y desechos metabólicos a todo el organismo. Está compuesta por el plasma, una matriz extracelular rica en agua y proteínas, y por los elementos figurados, que desempeñan funciones vitales de defensa y oxigenación ([visita el Atlas para más información](https://www.unifal-mg.edu.br/histologiainterativa/celulas-do-sangue-e-hematopoiese/)).
 
-As células sanguíneas podem ser divididas da seguinte maneira:
+Las células sanguíneas pueden dividirse de la siguiente manera:
 
-#### Leucócitos (Glóbulos Brancos)
+#### Leucocitos (Glóbulos Blancos)
 
-##### Granulócitos (possuem grânulos específicos no citoplasma)
+##### Granulocitos (tienen gránulos específicos en el citoplasma)
 
-*Neutrófilo*: Identificável pelo núcleo multilobado; é a primeira linha de defesa fagocitária contra bactérias.
-*Eosinófilo*: Possui núcleo tipicamente bilobado e grânulos que atuam em reações alérgicas e combate a parasitas.
-*Basófilo*: O mais raro; possui grânulos densos (histamina/heparina) que muitas vezes encobrem o núcleo, atuando em processos inflamatórios.
+*Neutrófilo*: Se identifica por su núcleo multilobulado; es la primera línea de defensa fagocítica contra las bacterias.
+*Eosinófilo*: Tiene un núcleo típicamente bilobulado y gránulos que actúan en las reacciones alérgicas y en el combate a los parásitos.
+*Basófilo*: El más raro; tiene gránulos densos (histamina/heparina) que muchas veces ocultan el núcleo, y actúa en procesos inflamatorios.
 
-##### Agranulócitos (citoplasma com grânulos não específicos)
+##### Agranulocitos (citoplasma con gránulos inespecíficos)
 
-*Monócito*: A maior célula do sangue, com núcleo em formato de rim; ao migrar para tecidos, torna-se macrófago.
-*Linfócito*: Possui núcleo grande e esférico que ocupa quase toda a célula; é central na resposta imune adaptativa (produção de anticorpos e memória).
+*Monocito*: La célula más grande de la sangre, con núcleo en forma de riñón; al migrar a los tejidos, se convierte en macrófago.
+*Linfocito*: Tiene un núcleo grande y esférico que ocupa casi toda la célula; es central en la respuesta inmunitaria adaptativa (producción de anticuerpos y memoria).
 
-#### Eritrócitos (Hemácias)
+#### Eritrocitos (Glóbulos Rojos)
 
-São as células rosadas e anucleadas em abundância na imagem. Sua forma de disco bicôncavo otimiza o transporte de oxigênio pelos vasos sanguíneos.
+Son las células rosadas y anucleadas que abundan en la imagen. Su forma de disco bicóncavo optimiza el transporte de oxígeno por los vasos sanguíneos.
 
-#### Plaquetas (Trombócitos)
+#### Plaquetas (Trombocitos)
 
-Pequenos fragmentos celulares (pontos escuros menores) derivados de megacariócitos, fundamentais para a formação do coágulo e estancamento de hemorragias.
+Pequeños fragmentos celulares (los puntos oscuros más pequeños) derivados de los megacariocitos, fundamentales para la formación del coágulo y para detener las hemorragias.
 <!-- achar uma imagem melhor -->
 
 ![alt text](sangue.png)

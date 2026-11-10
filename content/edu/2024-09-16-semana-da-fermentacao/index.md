@@ -1,7 +1,7 @@
 +++
 date = '2024-09-16'
 draft = false
-title = '1ª Semana Da Fermentacao - UNIFAL-MG'
+title = '1ª Semana da Fermentação - UNIFAL-MG'
 author = "Rafael Martins da Silva Afeto"
 cover = ""
 tags = ["Fermentação", "Cerveja", "Ciência da Cerveja", "Microrganismos", "UNIFAL-MG"]

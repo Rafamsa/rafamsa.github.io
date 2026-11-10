@@ -1,49 +1,49 @@
 +++
-title = "Pesquisadores confirmam potencial antioxidante na produção de cerveja com marolo e sabor é aprovado por avaliadores"
-subtitle = "Resultados de estudo de iniciação científica da UNIFAL-MG reforçam o valor agregado das cervejas com frutas"
+title = "Researchers confirm antioxidant potential in beer brewed with marolo, and its flavor wins over tasters"
+subtitle = "Results of an undergraduate research study at UNIFAL-MG reinforce the added value of fruit beers"
 date = "2025-01-30"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa-cerveja-com-marolo.jpg"
-coverCaption = "Tallis Vinicius Araujo da Silva, discente do curso de Biotecnologia, durante a primeira fase da pesquisa. (Foto: Arquivo Pessoal)"
-tags = ["Cerveja com Ciência", "Cerveja com Marolo", "Ciência da Cerveja", "Marolo", "Pesquisa", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Biotecnologia"]
-keywords = ["cerveja com marolo", "potencial antioxidante cerveja", "cerveja artesanal frutas", "marolo cerrado", "pesquisa cervejeira UNIFAL"]
-description = "Pesquisa da UNIFAL-MG comprova que a cerveja produzida com marolo possui maior potencial antioxidante, e o sabor foi aprovado em avaliação sensorial."
+coverCaption = "Tallis Vinicius Araujo da Silva, a Biotechnology student, during the first phase of the research. (Photo: Personal Archive)"
+tags = ["Cerveja com Ciência", "Marolo Beer", "Beer Science", "Marolo", "Research", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Biotechnology"]
+keywords = ["marolo beer", "beer antioxidant potential", "craft fruit beer", "marolo cerrado", "beer research UNIFAL"]
+description = "UNIFAL-MG research shows that beer brewed with marolo has greater antioxidant potential, and its flavor was approved in sensory evaluation."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
-Pesquisadores da UNIFAL-MG, vinculados ao projeto [Cerveja com Ciência](https://www.unifal-mg.edu.br/lme/cervejacomciencia/), produziram cerveja com marolo e testaram o seu potencial antioxidante utilizando diferentes concentrações da fruta. O resultado mostrou que a cerveja com marolo tem maior potencial oxidante e o sabor foi aprovado pelos avaliadores.
+Researchers at UNIFAL-MG, linked to the [Cerveja com Ciência](https://www.unifal-mg.edu.br/lme/cervejacomciencia/) (Beer with Science) project, brewed beer with marolo (a native fruit of the Brazilian Cerrado savanna) and tested its antioxidant potential using different concentrations of the fruit. The results showed that the marolo beer has greater antioxidant potential and its flavor was approved by the tasters.
 
-A pesquisa integra o projeto de iniciação científica realizado por Tallis Vinicius Araujo da Silva, discente do curso de Biotecnologia, sob orientação dos professores Gabriel Gerber Hornink, do Instituto de Ciências Biomédicas (ICB), e Bruno Martins Dala Paula, da Faculdade de Nutrição (FANUT), com auxílio de colegas graduandos dos cursos de Biotecnologia e de Ciências Biológicas.
+The research is part of an undergraduate research project carried out by Tallis Vinicius Araujo da Silva, a Biotechnology student, supervised by professors Gabriel Gerber Hornink, from the Institute of Biomedical Sciences (ICB), and Bruno Martins Dala Paula, from the School of Nutrition (FANUT), with help from fellow undergraduates in Biotechnology and Biological Sciences.
 
 ![alt text](PA-768x432.jpg)
-O marolo foi inserido em diferentes concentrações e em dois momentos durante a produção da cerveja: na fermentação e na maturação. (Foto: Arquivo/Tallis Silva)
+Marolo was added at different concentrations and at two points during brewing: during fermentation and during maturation. (Photo: Archive/Tallis Silva)
 
-Segundo explica o acadêmico, a fruta foi inserida em diferentes concentrações e em dois momentos: na fermentação e na maturação. “Produziu-se cerveja com marolo na maturação que apresentou maior potencial antioxidante e maior preferência com relação aos outros tratamentos – sem marolo e marolo na fermentação”, relata Tallis Silva. “Além disso, os avaliadores não souberam diferenciar as variações na concentração de marolo dos tratamentos, habilitando o uso dos tratamentos que tem maior concentração da fruta para o painel treinado, visto que possuem maior potencial antioxidante e são estatisticamente iguais aos outros, no parâmetro sensorial”, acrescenta.
+As the student explains, the fruit was added at different concentrations and at two points: during fermentation and during maturation. “The beer with marolo added during maturation showed the highest antioxidant potential and the highest preference compared with the other treatments – no marolo and marolo during fermentation,” reports Tallis Silva. “In addition, the tasters could not tell apart the variations in marolo concentration between the treatments, which allows the treatments with the highest concentration of the fruit to be used for the trained panel, since they have greater antioxidant potential and are statistically equal to the others in the sensory parameter,” he adds.
 
 ![alt text](AS-1.jpg)
-Registro feito durante a análise sensorial. (Foto: Arquivo/Tallis Silva)
+Photo taken during the sensory analysis. (Photo: Archive/Tallis Silva)
 
-A avaliação foi realizada em dois momentos: no primeiro, um grupo de 17 avaliadores treinados fez uma análise sensorial das cervejas, classificando-as conforme a intensidade do sabor do marolo. Esses avaliadores, que foram testados quanto à sensibilidade para identificar diferentes sabores, também indicaram as cervejas que mais gostaram. As amostras mais promissoras seguiram para a próxima fase. Já o segundo momento foi o teste de preferência (painel não treinado), em que 84 avaliadores indicaram qual tratamento foi o seu preferido e o quanto gostou de cada amostra.
+The evaluation took place in two stages: in the first, a group of 17 trained tasters carried out a sensory analysis of the beers, ranking them by the intensity of the marolo flavor. These tasters, who had been tested for their sensitivity in identifying different flavors, also indicated which beers they liked best. The most promising samples moved on to the next phase. The second stage was the preference test (untrained panel), in which 84 tasters indicated which treatment was their favorite and how much they liked each sample.
 
-Mas a ingestão de cervejas ainda apresenta riscos, conforme destaca o autor. “A cerveja com marolo, mesmo com maior potencial antioxidante comparada com a sem marolo, sendo uma bebida alcoólica, apresenta etanol e a ingestão deste, principalmente de forma não moderada, pode contribuir para o aparecimento de várias doenças”, alerta.
+But drinking beer still carries risks, as the author points out. “Marolo beer, even with greater antioxidant potential compared with beer without marolo, is an alcoholic beverage; it contains ethanol, and consuming it, especially in excess, can contribute to the onset of several diseases,” he warns.
 
-Para testar o marolo, Tallis Silva utilizou uma inovação tecnológica chamada pico-fermentadores. “Os pico-fermentadores são adaptações com tubos falcons para fermentação em escala laboratorial, que poderão ser aplicados em diversas áreas e contribuir com as cervejarias em seus testes de qualidade ou de novos produtos”, explica.  e: “Uma vez que validamos esse sistema de fermentadores para escala laboratorial, estamos com novos experimentos avaliando outros parâmetros da fermentação utilizando-se desse sistema”, ressalta o pesquisador sobre a contribuição da tecnologia.
+To test the marolo, Tallis Silva used a technological innovation called pico-fermenters. “Pico-fermenters are adaptations using Falcon tubes for laboratory-scale fermentation, which can be applied in many areas and help breweries with their quality testing or new product testing,” he explains. “Now that we have validated this laboratory-scale fermenter system, we are running new experiments evaluating other fermentation parameters using it,” the researcher stresses about the technology's contribution.
 
-O estudo cervejeiro na Universidade já era presente com a atuação do professor Gabriel Hornink, que coordena o projeto “Ciência da cerveja: estudo da influência de variáveis na fermentação no desempenho fermentativo e potencial antioxidante de cervejas”, enquanto que as propriedades do marolo já vem sendo estudadas pelo professor Bruno Dala Paula.
+Beer research at the University was already underway through the work of professor Gabriel Hornink, who coordinates the project “Beer science: a study of the influence of fermentation variables on the fermentative performance and antioxidant potential of beers,” while the properties of marolo have been studied by professor Bruno Dala Paula.
 
 ![alt text](equipe-as1-768x576.jpg)
-À esquerda o professor Gabriel Hornink, acompanhado por Tallis Silva e colegas da equipe do projeto. (Foto: Arquivo/Tallis Silva)
+On the left, professor Gabriel Hornink, together with Tallis Silva and colleagues from the project team. (Photo: Archive/Tallis Silva)
 
-De acordo com Tallis Silva, a parceria entre os professores provou a ideia de testar a inserção do marolo na cerveja, devido à escassez de pesquisas na área e ao potencial econômico da fruta regional, visto que é uma fruta endêmica do sul-mineiro e com produção cultural de cerveja com o insumo, que pode agregar valor às cervejas com frutas.
+According to Tallis Silva, the partnership between the professors prompted the idea of testing the addition of marolo to beer, given the scarcity of research in the area and the economic potential of this regional fruit, since it is endemic to southern Minas Gerais and there is a cultural tradition of brewing beer with it, which can add value to fruit beers.
 
-A pesquisa recebeu apoio por meio do Programa Institucional de Bolsas de Iniciação Científica e Tecnológica – PIBICT/FAPEMIG.
+The research was supported by the Institutional Program for Scientific and Technological Initiation Scholarships – PIBICT/FAPEMIG.
 
-O resumo do trabalho, apresentado durante o 10º Simpósio Integrado da UNIFAL-MG, pode ser [acessado neste no jornal da UNIFAL](https://jornal.unifal-mg.edu.br/wp-content/uploads/2025/01/Aumento-de-valor-agregado-da-cerveja-uso-de-insumos-inovadores-e-aumento-do-potencial-antioxidante.pdf).
+The abstract of the work, presented at the 10th Integrated Symposium of UNIFAL-MG, can be [accessed in the UNIFAL newspaper](https://jornal.unifal-mg.edu.br/wp-content/uploads/2025/01/Aumento-de-valor-agregado-da-cerveja-uso-de-insumos-inovadores-e-aumento-do-potencial-antioxidante.pdf).
 
-Acesse também informações sobre o projeto [“Ciência com Cerveja”](https://www.unifal-mg.edu.br/lme/cervejacomciencia/)
+You can also find information about the [“Ciência com Cerveja”](https://www.unifal-mg.edu.br/lme/cervejacomciencia/) project
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Text written under the supervision and guidance of Ana Carolina Araújo, journalist at the Federal University of Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/pesquisadores-confirmam-potencial-antioxidante-na-producao-de-cerveja-com-marolo-e-sabor-e-aprovado-por-avaliadores/) para acessar o texto na íntegra.
+Visit the [UNIFAL-MG page](https://jornal.unifal-mg.edu.br/pesquisadores-confirmam-potencial-antioxidante-na-producao-de-cerveja-com-marolo-e-sabor-e-aprovado-por-avaliadores/) to read the full original text.

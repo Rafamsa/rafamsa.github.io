@@ -1,44 +1,44 @@
 +++
-title = "Ferramenta computacional otimiza o desenvolvimento de novos fármacos em estudos de doenças como o câncer com a ajuda de IA"
-subtitle = "Com o uso da plataforma SAnDReS, equipe de pesquisadores da UNIFAL-MG identifica compostos com potencial terapêutico de forma mais rápida e precisa"
+title = "Herramienta computacional optimiza el desarrollo de nuevos fármacos en estudios de enfermedades como el cáncer con ayuda de la IA"
+subtitle = "Con la plataforma SAnDReS, un equipo de investigadores de la UNIFAL-MG identifica compuestos con potencial terapéutico de forma más rápida y precisa"
 date = "2025-08-07"
 author = "Rafael Martins da Silva Afeto"
 cover = "docking-farmaco.jpg"
-coverCaption = "Docking (chave–fechadura): fármaco (molécula dourada) interagindo com o sítio de ligação de uma proteína (esferas). (Imagem: Reprodução/SAnDRes)"
-tags = ["Física", "Inteligência Artificial", "PPGF", "SAnDReS", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Saúde", "Tecnologia"]
-keywords = ["inteligência artificial fármacos", "SAnDReS docking molecular", "desenvolvimento de medicamentos IA", "proteína CDK2 câncer", "aprendizado de máquina fármacos"]
-description = "Equipe da UNIFAL-MG usa a ferramenta de IA SAnDReS para modelar interações moleculares e acelerar a identificação de potenciais fármacos contra o câncer."
+coverCaption = "Docking (llave–cerradura): fármaco (molécula dorada) interactuando con el sitio de unión de una proteína (esferas). (Imagen: Reproducción/SAnDRes)"
+tags = ["Física", "Inteligencia Artificial", "PPGF", "SAnDReS", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Salud", "Tecnología"]
+keywords = ["inteligencia artificial fármacos", "SAnDReS docking molecular", "desarrollo de medicamentos IA", "proteína CDK2 cáncer", "aprendizaje automático fármacos"]
+description = "Un equipo de la UNIFAL-MG usa la herramienta de IA SAnDReS para modelar interacciones moleculares y acelerar la identificación de posibles fármacos contra el cáncer."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
-Uma equipe de pesquisadores vinculada aos programas de pós-graduação em [Biotecnologia](https://www.unifal-mg.edu.br/ppgbiotec/) e em [Física](https://www.unifal-mg.edu.br/ppgf/) da UNIFAL-MG utilizou uma ferramenta de IA, chamada SAnDRes, para modelar interações entre a proteína CDK2 (alvo terapêutico no combate ao câncer) e os inibidores, a fim de identificar fármacos em potencial de forma mais rápida e precisa. A pesquisa foi conduzida pelo pesquisador Walter Filgueira de Azevedo Júnior, professor visitante do Programa de Pós-Graduação em Física (PPGF).
+Un equipo de investigadores vinculado a los programas de posgrado en [Biotecnología](https://www.unifal-mg.edu.br/ppgbiotec/) y en [Física](https://www.unifal-mg.edu.br/ppgf/) de la UNIFAL-MG utilizó una herramienta de IA llamada SAnDRes para modelar las interacciones entre la proteína CDK2 (diana terapéutica en la lucha contra el cáncer) y sus inhibidores, con el fin de identificar posibles fármacos de forma más rápida y precisa. La investigación fue dirigida por el investigador Walter Filgueira de Azevedo Júnior, profesor visitante del Programa de Posgrado en Física (PPGF).
 
-![alt text](Prof_Walter-Azevedo-Jr.jpg)
-Walter Azevedo Júnior – professor visitante do Programa de Pós-Graduação em Física foi quem conduziu a pesquisa. (Foto: Arquivo/Dicom)
+![Walter Azevedo Júnior](Prof_Walter-Azevedo-Jr.jpg)
+Walter Azevedo Júnior, profesor visitante del Programa de Posgrado en Física, fue quien dirigió la investigación. (Foto: Archivo/Dicom)
 
-Segundo o pesquisador, por meio do SAnDReS foi possível simular o encaixe de inibidores na proteína CDK2 e prever quais moléculas têm chance real de funcionar como fármacos. “Eu resolvi a estrutura dessa proteína com inibidores encaixados nela”, conta Walter Azevedo Júnior. O pesquisador afirma que a informação traz um instante “congelado” com a proteína e o fármaco, tal como fechadura e chave. “Esses dados são tabelados e usados como entrada para criarmos um modelo de aprendizado de máquina”, acrescenta.
+Según el investigador, mediante SAnDReS fue posible simular el acoplamiento de inhibidores en la proteína CDK2 y predecir qué moléculas tienen una posibilidad real de funcionar como fármacos. “Resolví la estructura de esta proteína con inhibidores acoplados a ella”, cuenta Walter Azevedo Júnior. El investigador afirma que esta información captura un instante “congelado” de la proteína y el fármaco, como una cerradura y su llave. “Estos datos se tabulan y se usan como entrada para crear un modelo de aprendizaje automático”, añade.
 
-A metodologia combina duas tecnologias. Primeiro, a simulação de docking, que é um sistema capaz de testar moléculas que se ligam a essa proteína-alvo. Segundo, o aprendizado de máquina, o qual melhora a previsão ao identificar padrões nos dados. Juntas, essas tecnologias geram uma espécie de pontuação – função escore, que calcula de que forma a molécula se encaixa.
+La metodología combina dos tecnologías. Primero, la simulación de docking, un sistema capaz de probar moléculas que se unen a esa proteína diana. Segundo, el aprendizaje automático, que mejora la predicción al identificar patrones en los datos. Juntas, estas tecnologías generan una especie de puntuación –la función de puntuación–, que calcula de qué forma encaja la molécula.
 
-O pesquisador pontua que o uso da abordagem computacional com inteligência artificial permite filtrar as moléculas com maior chance de sucesso. A técnica também contribui para que os pesquisadores concentrem os testes experimentais e clínicos apenas naquelas que já demonstraram bom desempenho nas simulações virtuais. “Todas as fases experimentais e clínicas são otimizadas com o uso da abordagem computacional. Ao invés de testarmos clinicamente milhares de moléculas, testamos somente aquelas que passaram no teste computacional”, argumenta.
+El investigador señala que el uso del enfoque computacional con inteligencia artificial permite filtrar las moléculas con mayor probabilidad de éxito. La técnica también ayuda a que los investigadores concentren las pruebas experimentales y clínicas solo en aquellas que ya mostraron un buen desempeño en las simulaciones virtuales. “Todas las fases experimentales y clínicas se optimizan con el uso del enfoque computacional. En lugar de probar clínicamente miles de moléculas, probamos solo las que pasaron la prueba computacional”, argumenta.
 
-Para obter melhores resultados, o pesquisador reforça que os modelos de IA precisam ser treinados especificamente para cada proteína-alvo. “Na nossa experiência e de outros grupos de pesquisa desenvolvendo funções escores ficou claro que aquelas funções ‘treinadas’ para uma proteína específica funcionam melhor que as funções escores universais, que tentam determinar o encaixe para todas as proteínas”, compartilha.
+Para obtener mejores resultados, el investigador subraya que los modelos de IA deben entrenarse específicamente para cada proteína diana. “En nuestra experiencia y en la de otros grupos de investigación que desarrollan funciones de puntuación, quedó claro que las funciones ‘entrenadas’ para una proteína específica funcionan mejor que las funciones de puntuación universales, que intentan determinar el acoplamiento para todas las proteínas”, comparte.
 
-![alt text](fluxograma-modelagem-768x433.png)
-O fluxograma esquemático indica os passos seguidos no uso de big data para a construção de modelos para previsão de inibição de proteínas. (Imagem: Reprodução/SAnDRes)
+![Diagrama de flujo del modelado](fluxograma-modelagem-768x433.png)
+El diagrama de flujo esquemático indica los pasos seguidos en el uso de big data para la construcción de modelos de predicción de inhibición de proteínas. (Imagen: Reproducción/SAnDRes)
 
-Conforme Walter Azevedo Júnior, o objetivo da pesquisa e do SAnDReS é possibilitar que a comunidade científica tenha acesso a ferramentas como essas, em especial, os grupos voltados a testes de fármacos. O programa SAnDReS é disponibilizado como software livre (open source), o que permite seu uso gratuito em outras pesquisas. Atualmente, seu grupo está ampliando os métodos e as variáveis utilizadas para acrescentar no modelo.
+Según Walter Azevedo Júnior, el objetivo de la investigación y de SAnDReS es que la comunidad científica tenga acceso a herramientas como estas, en especial los grupos dedicados a pruebas de fármacos. El programa SAnDReS se ofrece como software libre (open source), lo que permite su uso gratuito en otras investigaciones. Actualmente, su grupo está ampliando los métodos y las variables utilizadas para incorporarlos al modelo.
 
-O projeto de pesquisa é financiado pelo [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br).
+El proyecto de investigación está financiado por el [Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br).
 
-A ferramenta SAnDReS pode ser acessada [neste link](https://github.com/azevedolab/sandres). Na página Wiki também pode ser encontrada a [descrição resumida](https://github.com/azevedolab/sandres/wiki/SAnDReS) do programa (em inglês).
+La herramienta SAnDReS puede consultarse [en este enlace](https://github.com/azevedolab/sandres). En la página Wiki también se encuentra una [descripción resumida](https://github.com/azevedolab/sandres/wiki/SAnDReS) del programa (en inglés).
 
-Para mais informações sobre as pesquisas e projetos do professor Walter Azevedo Júnior, acesse aqui.
+Para más información sobre las investigaciones y proyectos del profesor Walter Azevedo Júnior, haga clic aquí.
 
-Leia também: [Grupo internacional de pesquisadores liderados pela UNIFAL-MG desenvolve programa de Inteligência Artificial para previsão de ação de fármacos](https://jornal.unifal-mg.edu.br/grupo-internacional-de-pesquisadores-liderados-pela-unifal-mg-desenvolve-programa-de-inteligencia-artificial-para-previsao-de-acao-de-farmacos/)
+Lea también: [Grupo internacional de investigadores liderado por la UNIFAL-MG desarrolla programa de Inteligencia Artificial para predecir la acción de fármacos](https://jornal.unifal-mg.edu.br/grupo-internacional-de-pesquisadores-liderados-pela-unifal-mg-desenvolve-programa-de-inteligencia-artificial-para-previsao-de-acao-de-farmacos/) (en portugués)
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Texto elaborado bajo la supervisión y orientación de Ana Carolina Araújo, periodista de la Universidad Federal de Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/plataforma-sandres-otimiza-a-identificacao-de-compostos-novos-farmacos/) para acessar o texto na íntegra.
+Visite la [página de la UNIFAL-MG](https://jornal.unifal-mg.edu.br/plataforma-sandres-otimiza-a-identificacao-de-compostos-novos-farmacos/) para acceder al texto completo (en portugués).

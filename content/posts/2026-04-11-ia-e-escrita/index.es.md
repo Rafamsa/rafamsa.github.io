@@ -1,11 +1,11 @@
 +++
-title = "Você escreve? Pois é, a IA também!"
+title = "¿Tú escribes? ¡Pues la IA también!"
 date = "2026-04-11"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["Inteligência Artificial", "Escrita", "Tech", "IA Generativa", "LMMs"]
+tags = ["Inteligencia Artificial", "Escritura", "Tech", "IA Generativa", "LLMs"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
@@ -13,45 +13,45 @@ readingTime = false
 hideComments = false
 +++
 
-Se você usa o Gemini de forma paga, já deve ter se deparado com a seguinte mensagem: “*Me ajude a escrever [alt + W]*” com um emoji de lápis à sua esquerda. Com certeza também já jogou informações no Chat GPT, o qual gerou um texto digno de um universitário bem aplicado e ‘nota dez’.
+Si usas Gemini en su versión de pago, seguramente ya te topaste con el siguiente mensaje: “*Ayúdame a escribir [alt + W]*” con un emoji de lápiz a su izquierda. Seguro que también ya le has lanzado información a ChatGPT, que generó un texto digno de un universitario aplicado y de ‘diez’.
 
-A IA escreve e faz isso muito bem, eu mesmo já me peguei pensando:
+La IA escribe y lo hace muy bien; yo mismo me he sorprendido pensando:
 
-“É, talvez eu a deixe para escrever todos os meus artigos”. Mas fiquem tranquilos, eu voltei atrás e esse artigo é 100% escrito por mãos humanas.
+“Sí, tal vez la deje escribir todos mis artículos”. Pero tranquilos, me retracté y este artículo está 100% escrito por manos humanas.
 
 
-### O uso de IA para escrever textos
+### El uso de la IA para escribir textos
 
-Você pode me perguntar “Se ela escreve tão bem, posso usar ela para escrever meus textos e respostas da faculdade?”. Como biólogo de formação, jornalista de experiência e iniciante na carreira tech, acho que posso dizer, com propriedade, a palavra “depende”. 
+Puedes preguntarme: “Si escribe tan bien, ¿puedo usarla para escribir mis textos y mis tareas de la universidad?”. Como biólogo de formación, periodista por experiencia y principiante en la carrera tech, creo que puedo decir, con propiedad, la palabra “depende”.
 
-Quando usamos uma IA para escrever, integralmente, nossos textos, não estamos escrevendo nada. É como delegar um serviço chato simplesmente porque é mais fácil. A diferença é que você leva créditos por algo que nem escreveu. A resposta, além de ética, é técnica — visto que as IA podem alucinar.
+Cuando usamos una IA para escribir nuestros textos de forma íntegra, no estamos escribiendo nada. Es como delegar una tarea aburrida simplemente porque es más fácil. La diferencia es que te llevas el crédito por algo que ni siquiera escribiste. La respuesta, además de ética, es técnica, ya que las IA pueden alucinar.
 
-“Então eu não **posso** usar IA? A tecnologia surgiu pra nada?” 
+“Entonces, ¿no **puedo** usar IA? ¿La tecnología surgió para nada?”
 
-Meu pequeno gafanhoto, é claro que pode! Sigamos para o próximo tópico:
+Mi pequeño saltamontes, ¡claro que puedes! Pasemos al siguiente tema:
 
-### IA como ferramenta e não como protagonista
+### La IA como herramienta y no como protagonista
 
-Vou contar uma história e prometo ser curta:
+Voy a contar una historia y prometo que será corta:
 
-Eu atuei em um projeto de divulgação científica ([+Ciência](https://jornal.unifal-mg.edu.br/maisciencia/), ótimas lembranças), onde traduzi pesquisas da Universidade para uma linguagem acessível ao público leigo.
+Trabajé en un proyecto de divulgación científica ([+Ciência](https://jornal.unifal-mg.edu.br/maisciencia/), excelentes recuerdos), donde traducía investigaciones de la Universidad a un lenguaje accesible para el público general.
 
-No começo, ler pesquisas que fugiam de minha área era algo desafiador e talvez, assustador (um segredo sobre novidades: elas assustam menos a cada dia). Mas a jornalista do projeto nos incentivou a usar IA — não para escrever. Foi uma sacada genial, ela criou um *prompt* (que ajeitei para a minha linguagem) que é mais ou menos assim:
+Al principio, leer investigaciones fuera de mi área era desafiante y tal vez aterrador (un secreto sobre las novedades: asustan menos cada día). Pero la periodista del proyecto nos animó a usar la IA, no para escribir. Fue una idea genial: creó un *prompt* (que ajusté a mi propio lenguaje) que es más o menos así:
 
 {{< box >}}
-Explique, de forma acessível, como a pesquisa foi feita, como se contasse uma história para pessoas de 10 e 90 anos. Use metáforas do cotidiano (como cozinhar, jardinagem, esporte), sem usar palavras difíceis.
+Explica, de forma accesible, cómo se hizo la investigación, como si contaras una historia a personas de 10 y de 90 años. Usa metáforas de la vida cotidiana (como cocinar, la jardinería, el deporte), sin usar palabras difíciles.
 {{< /box >}} 
 
-Isso agilizou nossa leitura e desenvolvimento dos textos. Consequência: Conseguimos produzir mais e melhor.
+Esto agilizó nuestra lectura y la elaboración de los textos. Consecuencia: logramos producir más y mejor.
 
-Nesse mesmo projeto, também aprendi a usar a IA para avaliar meu texto, dando notas e comentando qualidades e fatores de melhoria, bem como a revisão gramatical e estrutural do conteúdo (Sim, eu fiz isso com esse texto. Inclusive, olá, Gemini, sei que está lendo isso).
+En ese mismo proyecto, también aprendí a usar la IA para evaluar mi texto, poniéndole notas y comentando sus cualidades y aspectos a mejorar, además de hacer la revisión gramatical y estructural del contenido (Sí, lo hice con este texto. Por cierto, hola, Gemini, sé que estás leyendo esto).
 
-E *voilà!* A IA deixou de ser protagonista e se tornou uma ferramenta — extremamente — relevante para meus textos.
+¡Y *voilà!* La IA dejó de ser protagonista y se convirtió en una herramienta —extremadamente— relevante para mis textos.
 
-### Resumo da prosa
+### En resumen
 
-O uso da IA para entender ideias complexas e revisar/avaliar sua escrita é a forma mais inteligente de usá-la e não perder a autoridade, autonomia e personalidade em seus textos.
+Usar la IA para entender ideas complejas y revisar/evaluar tu escritura es la forma más inteligente de aprovecharla sin perder autoridad, autonomía ni personalidad en tus textos.
 
-Então me diga nos comentários: você sabia dessas estratégias? Bora usar a IA como ferramenta!
+Entonces, dime en los comentarios: ¿conocías estas estrategias? ¡Usemos la IA como herramienta!
 
-Para acessar o texto na íntegra, visite a [página da DIO](https://www.dio.me/articles/voce-escreve-pois-e-a-ia-tambem-dfa79c5131c6?utm_source=linkedin&utm_campaign=mgm-voce-escreve-pois-e-a-ia-tambem-dfa79c5131c6&utm_medium=article).
+Para acceder al texto completo, visita la [página de DIO](https://www.dio.me/articles/voce-escreve-pois-e-a-ia-tambem-dfa79c5131c6?utm_source=linkedin&utm_campaign=mgm-voce-escreve-pois-e-a-ia-tambem-dfa79c5131c6&utm_medium=article) (en portugués).

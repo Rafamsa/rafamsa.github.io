@@ -1,58 +1,59 @@
 +++
-title = "Nanotecnologia com vírus encapsulados amplia eficácia no combate à superbactéria associada a infecções hospitalares"
-subtitle = "Desenvolvida por pesquisadores da UNIFAL-MG e da Universidade do Ártico da Noruega, a técnica se mostrou eficaz na resposta antibacteriana"
+title = "Nanotecnología con virus encapsulados amplía la eficacia en el combate a una superbacteria asociada a infecciones hospitalarias"
+subtitle = "Desarrollada por investigadores de la UNIFAL-MG y de la Universidad Ártica de Noruega, la técnica demostró ser eficaz en la respuesta antibacteriana"
 
 date = "2026-04-23"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
+author = "Rafael Martins da Silva Afeto"
 authorTwitter = "" #do not include @
 cover = "capa_pesquisa_nanoparticulas_superbacterias.jpg"
-coverCaption = "Nanopartículas em interação com a bactéria Pseudomonas aeruginosa. As nanopartículas contendo o fago em processo de degradação e liberação dos bacteriófagos (estruturas menores e mais esbranquiçadas). (Foto: Arquivo/Grupo de pesquisa)"
-tags = ["Infecção Hospitalar", "Nanotecnologia", "PPGCF", "Programa de Pós-Graduação em Ciências Farmacêuticas", "superbactéria", "Projeto +Ciência", "UNIFAL-MG", "Universidade do Ártico da Noruega"]
-keywords = ["", ""]
-description = "Pesquisadores da UNIFAL-MG desenvolveram uma estratégia que pode auxiliar no combate a Pseudomonas aeruginosa, uma superbactéria responsável por infecções hospitalares graves e de difícil tratamento, utilizando vírus, que infectam bactérias, encapsulados em nanopartículas para aumentar sua eficácia e estabilidade no organismo."
+coverCaption = "Nanopartículas en interacción con la bacteria Pseudomonas aeruginosa. Las nanopartículas que contienen el fago se encuentran en proceso de degradación y liberación de los bacteriófagos (estructuras más pequeñas y blanquecinas). (Foto: Archivo/Grupo de investigación)"
+tags = ["Infección Hospitalaria", "Nanotecnología", "PPGCF", "Programa de Posgrado en Ciencias Farmacéuticas", "superbacteria", "Projeto +Ciência", "UNIFAL-MG", "Universidad Ártica de Noruega"]
+categories = ["Salud", "Biotecnología"]
+keywords = ["bacteriófagos nanopartículas", "Pseudomonas aeruginosa", "superbacteria infección hospitalaria", "terapia con fagos", "nanotecnología UNIFAL"]
+description = "Investigadores de la UNIFAL-MG desarrollaron una estrategia que puede ayudar a combatir Pseudomonas aeruginosa, una superbacteria responsable de infecciones hospitalarias graves y de difícil tratamiento, utilizando virus que infectan bacterias, encapsulados en nanopartículas para aumentar su eficacia y estabilidad en el organismo."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-Pesquisadores da UNIFAL-MG desenvolveram uma estratégia capaz de combater a Pseudomonas aeruginosa – uma superbactéria responsável por infecções hospitalares graves e de difícil tratamento. Criada em parceria com a[ Universidade do Ártico da Noruega](https://en.uit.no/startsida) (Arctic University of Norway – UiT), a técnica utiliza vírus que infectam bactérias encapsulados em nanopartículas para aumentar sua eficácia e estabilidade no organismo.
+Investigadores de la UNIFAL-MG desarrollaron una estrategia capaz de combatir Pseudomonas aeruginosa, una superbacteria responsable de infecciones hospitalarias graves y de difícil tratamiento. Creada en colaboración con la [Universidad Ártica de Noruega](https://en.uit.no/startsida) (Arctic University of Norway – UiT), la técnica utiliza virus que infectan bacterias, encapsulados en nanopartículas, para aumentar su eficacia y estabilidad en el organismo.
 
-O estudo foi desenvolvido como parte do doutorado de Gustavo Aparecido da Cunha no [Programa de Pós-Graduação em Ciências Farmacêuticas (PPGCF)](https://www.unifal-mg.edu.br/ppgcf/), sob orientação dos professores Luiz Felipe Leomil Coelho, do Instituto de Ciências Biomédicas da UNIFAL-MG, e Gabriel Magno de Freitas Almeida, da Universidade do Ártico da Noruega.
+El estudio se desarrolló como parte del doctorado de Gustavo Aparecido da Cunha en el [Programa de Posgrado en Ciencias Farmacéuticas (PPGCF)](https://www.unifal-mg.edu.br/ppgcf/), bajo la dirección de los profesores Luiz Felipe Leomil Coelho, del Instituto de Ciencias Biomédicas de la UNIFAL-MG, y Gabriel Magno de Freitas Almeida, de la Universidad Ártica de Noruega.
 
-Ao aplicar a técnica de encapsulamento que envolve os fagos (VAC1) – vírus capazes de infectar e destruir bactérias – em nanopartículas de albumina bovina (BSA), os pesquisadores identificaram aumento da ação antibacteriana contra a superbactéria. A encapsulação também melhorou a estabilidade dos fagos, o tempo que permanecem ativos no organismo e sua capacidade de ação no organismo.
+Al aplicar la técnica de encapsulamiento que envuelve a los fagos (VAC1) –virus capaces de infectar y destruir bacterias– en nanopartículas de albúmina bovina (BSA), los investigadores identificaron un aumento de la acción antibacteriana contra la superbacteria. La encapsulación también mejoró la estabilidad de los fagos, el tiempo que permanecen activos en el organismo y su capacidad de acción en él.
 
 {{< grid-gallery >}}
     {{< grid-item src="nanoparticulas-contendo-o-bacteriofago-1.jpg" >}}
     {{< grid-item src="nanoparticulas-contendo-o-bacteriofago.jpg" >}}
 {{< /grid-gallery >}}
-Nanopartículas contendo o bacteriófago encapsulado. (Imagens: Reprodução/Grupo de pesquisa)
+Nanopartículas que contienen el bacteriófago encapsulado. (Imágenes: Reproducción/Grupo de investigación)
 
-Segundo Luiz Felipe Coelho, as nanopartículas, que medem cerca de 220 nm, foram capazes de proteger os fagos da degradação em altas temperaturas, o que permitiu a liberação gradual das partículas virais por 5 dias. “Essa estabilidade contrasta fortemente com o fago livre, cuja infectividade se perdeu após 48 horas”, explica.
+Según Luiz Felipe Coelho, las nanopartículas, que miden cerca de 220 nm, fueron capaces de proteger a los fagos de la degradación a altas temperaturas, lo que permitió la liberación gradual de las partículas virales durante 5 días. "Esta estabilidad contrasta fuertemente con el fago libre, cuya infectividad se perdió después de 48 horas", explica.
 
-A eficácia do método foi testada em ensaios in vitro, com comparação entre fagos encapsulados e não encapsulados em culturas bacterianas e testes de segurança em células humanas, e também in vivo, em modelo animal de infecção pulmonar aguda pela bactéria Pseudomonas aeruginosa. “Os resultados foram promissores tanto nos ensaios laboratoriais quanto nos experimentos com animais”, destaca o pesquisador.
+La eficacia del método se probó en ensayos in vitro, comparando fagos encapsulados y no encapsulados en cultivos bacterianos y con pruebas de seguridad en células humanas, y también in vivo, en un modelo animal de infección pulmonar aguda por la bacteria Pseudomonas aeruginosa. "Los resultados fueron prometedores tanto en los ensayos de laboratorio como en los experimentos con animales", destaca el investigador.
 
 ![alt text](nanoparticulas-interagindo-com-bacterias-2.png)
-Nanopartículas em interação com a bactéria Pseudomonas aeruginosa. Essas bacteriófagos que são liberados infectam a bactéria e levam ela à morte (asterisco demonstra restos de célula morta pela ação do fago). (Imagem: Arquivo/Grupo de pesquisa)
+Nanopartículas en interacción con la bacteria Pseudomonas aeruginosa. Los bacteriófagos liberados infectan a la bacteria y la llevan a la muerte (el asterisco señala restos de una célula muerta por la acción del fago). (Imagen: Archivo/Grupo de investigación)
 
-Luiz Felipe Coelho detalha que nos testes in vitro o encapsulamento potencializou o efeito antimicrobiano, o que reduziu significativamente o crescimento da bactéria e aumentou a replicação dos vírus. Já nos ensaios in vivo, embora a taxa de sobrevivência dos animais não tenha apresentado alteração, foi observada uma redução expressiva da carga bacteriana nos pulmões, além de maior recuperação de fagos viáveis e menor grau de inflamação e dano aos tecidos nas amostras tratadas.
+Luiz Felipe Coelho detalla que, en las pruebas in vitro, el encapsulamiento potenció el efecto antimicrobiano, lo que redujo significativamente el crecimiento de la bacteria y aumentó la replicación de los virus. En los ensayos in vivo, aunque la tasa de supervivencia de los animales no mostró cambios, se observó una reducción expresiva de la carga bacteriana en los pulmones, además de una mayor recuperación de fagos viables y un menor grado de inflamación y daño a los tejidos en las muestras tratadas.
 
-Para o professor, o desenvolvimento de sistemas inteligentes de liberação de fagos é uma alternativa segura, biocompatível e de baixo custo para novas terapias antimicrobianas, ainda mais em um momento em que bactérias resistentes, como a Pseudomonas aeruginosa, são uma ameaça à eficácia de antibióticos convencionais.
+Para el profesor, el desarrollo de sistemas inteligentes de liberación de fagos es una alternativa segura, biocompatible y de bajo costo para nuevas terapias antimicrobianas, más aún en un momento en que las bacterias resistentes, como Pseudomonas aeruginosa, son una amenaza para la eficacia de los antibióticos convencionales.
 
-As nanopartículas de albumina bovina, conforme relatou, podem ser produzidas facilmente e têm potencial para uso clínico em infecções respiratórias crônicas, principalmente em pacientes com fibrose cística ou doenças pulmonares resistentes a antibióticos. A abordagem também abre caminho para a criação de terapias nacionais baseadas em nanotecnologia, o que fortalece a inovação científica e tecnológica no país e reduz a dependência de insumos importados na área biomédica.
+Las nanopartículas de albúmina bovina, según relató, pueden producirse fácilmente y tienen potencial de uso clínico en infecciones respiratorias crónicas, principalmente en pacientes con fibrosis quística o enfermedades pulmonares resistentes a los antibióticos. El enfoque también abre el camino a la creación de terapias brasileñas basadas en nanotecnología, lo que fortalece la innovación científica y tecnológica en el país y reduce la dependencia de insumos importados en el área biomédica.
 
-Futuramente, o grupo espera incluir o avanço dos testes em modelos de formação de biofilme em superfícies de dispositivos médicos (como cateteres e próteses) e modelos de  infecção crônica pulmonar (mais próximos das condições em pacientes humanos), além da avaliação das respostas imunológicas desencadeadas pelo uso prolongado das nanopartículas.
+En el futuro, el grupo espera avanzar en las pruebas con modelos de formación de biopelículas en superficies de dispositivos médicos (como catéteres y prótesis) y modelos de  infección pulmonar crónica (más cercanos a las condiciones de pacientes humanos), además de evaluar las respuestas inmunológicas desencadenadas por el uso prolongado de las nanopartículas.
 
-Os pesquisadores planejam ainda otimizar as formulações e investigar outras vias de administração (uso intranasal contínuo ou por nebulização) e encapsular outros fagos voltados a diferentes bactérias multirresistentes. “Essas etapas visam consolidar o sistema de nanopartículas de albumina como uma plataforma versátil para entrega controlada de agentes bioterapêuticos”, conclui Luiz Felipe Coelho.
+Los investigadores también planean optimizar las formulaciones, investigar otras vías de administración (uso intranasal continuo o por nebulización) y encapsular otros fagos dirigidos a diferentes bacterias multirresistentes. "Estas etapas buscan consolidar el sistema de nanopartículas de albúmina como una plataforma versátil para la liberación controlada de agentes bioterapéuticos", concluye Luiz Felipe Coelho.
 
 {{< grid-gallery >}}
-  {{< grid-item src="Gustavo-Aparecido-da-Cunha-PPGCF.jpg" alt="Gustavo Aparecido da Cunha – pesquisador em Ciências Farmacêuticas e autor da pesquisa. (Foto: Arquivo Pessoal)" >}}
-  {{< grid-item src="Luiz-Felipe-Leomil.jpg" alt="Luiz Felipe Leomil Coelho – professor/orientador da pesquisa. (Foto: Arquivo Pessoal)" >}}
-  {{< grid-item src="Gabriel-Magno-de-Freitas-Almeida-Noruega.jpg" alt="Gabriel Magno de Freitas Almeida – coorientador/pesquisador da Universidade do Ártico da Noruega. (Foto: Arquivo Pessoal)" >}}
+  {{< grid-item src="Gustavo-Aparecido-da-Cunha-PPGCF.jpg" alt="Gustavo Aparecido da Cunha – investigador en Ciencias Farmacéuticas y autor de la investigación. (Foto: Archivo Personal)" >}}
+  {{< grid-item src="Luiz-Felipe-Leomil.jpg" alt="Luiz Felipe Leomil Coelho – profesor/director de la investigación. (Foto: Archivo Personal)" >}}
+  {{< grid-item src="Gabriel-Magno-de-Freitas-Almeida-Noruega.jpg" alt="Gabriel Magno de Freitas Almeida – codirector/investigador de la Universidad Ártica de Noruega. (Foto: Archivo Personal)" >}}
 {{< /grid-gallery >}}
 
-O estudo contou com financiamento da [Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/), [Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)](https://www.gov.br/capes/pt-br) e [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br).
+El estudio contó con financiamiento de la [Fundación de Apoyo a la Investigación del Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/), la [Coordinación de Perfeccionamiento de Personal de Nivel Superior (CAPES)](https://www.gov.br/capes/pt-br) y el [Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br).
 
-Para conhecer mais detalhes da pesquisa, acesse o artigo publicado pelos autores [neste link](https://www.nature.com/articles/s41598-026-38106-5).
+Para conocer más detalles de la investigación, consulta el artículo publicado por los autores [en este enlace](https://www.nature.com/articles/s41598-026-38106-5).
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/nanotecnologia-com-virus-encapsulados-amplia-eficacia-no-combate-a-superbacteria-associada-a-infeccoes-hospitalares/) para acessar o texto na íntegra.
+Visita la [página de la UNIFAL-MG](https://jornal.unifal-mg.edu.br/nanotecnologia-com-virus-encapsulados-amplia-eficacia-no-combate-a-superbacteria-associada-a-infeccoes-hospitalares/) para leer el texto completo (en portugués).

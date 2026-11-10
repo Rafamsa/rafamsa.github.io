@@ -1,11 +1,11 @@
 +++
-title = "Você escreve? Pois é, a IA também!"
+title = "You write? Well, so does AI!"
 date = "2026-04-11"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["Inteligência Artificial", "Escrita", "Tech", "IA Generativa", "LMMs"]
+tags = ["Artificial Intelligence", "Writing", "Tech", "Generative AI", "LLMs"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
@@ -13,45 +13,45 @@ readingTime = false
 hideComments = false
 +++
 
-Se você usa o Gemini de forma paga, já deve ter se deparado com a seguinte mensagem: “*Me ajude a escrever [alt + W]*” com um emoji de lápis à sua esquerda. Com certeza também já jogou informações no Chat GPT, o qual gerou um texto digno de um universitário bem aplicado e ‘nota dez’.
+If you pay for Gemini, you've probably come across this message: “*Help me write [alt + W]*” with a pencil emoji to its left. You've surely also thrown some information at ChatGPT and gotten back a text worthy of a diligent, straight-A college student.
 
-A IA escreve e faz isso muito bem, eu mesmo já me peguei pensando:
+AI writes, and it does it very well. I've even caught myself thinking:
 
-“É, talvez eu a deixe para escrever todos os meus artigos”. Mas fiquem tranquilos, eu voltei atrás e esse artigo é 100% escrito por mãos humanas.
+“Yeah, maybe I'll just let it write all my articles.” But don't worry, I changed my mind, and this article is 100% written by human hands.
 
 
-### O uso de IA para escrever textos
+### Using AI to write texts
 
-Você pode me perguntar “Se ela escreve tão bem, posso usar ela para escrever meus textos e respostas da faculdade?”. Como biólogo de formação, jornalista de experiência e iniciante na carreira tech, acho que posso dizer, com propriedade, a palavra “depende”. 
+You might ask me: “If it writes so well, can I use it to write my texts and my college assignments?” As a biologist by training, a journalist by experience, and a beginner in a tech career, I think I can say, with authority, the word “depends.”
 
-Quando usamos uma IA para escrever, integralmente, nossos textos, não estamos escrevendo nada. É como delegar um serviço chato simplesmente porque é mais fácil. A diferença é que você leva créditos por algo que nem escreveu. A resposta, além de ética, é técnica — visto que as IA podem alucinar.
+When we use AI to write our texts entirely, we aren't writing anything. It's like handing off a boring chore simply because it's easier. The difference is that you take credit for something you didn't even write. The answer, besides being ethical, is technical — since AIs can hallucinate.
 
-“Então eu não **posso** usar IA? A tecnologia surgiu pra nada?” 
+“So I **can't** use AI? Was the technology invented for nothing?”
 
-Meu pequeno gafanhoto, é claro que pode! Sigamos para o próximo tópico:
+My young grasshopper, of course you can! On to the next topic:
 
-### IA como ferramenta e não como protagonista
+### AI as a tool, not the protagonist
 
-Vou contar uma história e prometo ser curta:
+Let me tell you a story, and I promise to keep it short:
 
-Eu atuei em um projeto de divulgação científica ([+Ciência](https://jornal.unifal-mg.edu.br/maisciencia/), ótimas lembranças), onde traduzi pesquisas da Universidade para uma linguagem acessível ao público leigo.
+I worked on a science communication project ([+Ciência](https://jornal.unifal-mg.edu.br/maisciencia/), great memories), where I translated the University's research into language accessible to a lay audience.
 
-No começo, ler pesquisas que fugiam de minha área era algo desafiador e talvez, assustador (um segredo sobre novidades: elas assustam menos a cada dia). Mas a jornalista do projeto nos incentivou a usar IA — não para escrever. Foi uma sacada genial, ela criou um *prompt* (que ajeitei para a minha linguagem) que é mais ou menos assim:
+At first, reading research outside my field was challenging and maybe even scary (a secret about new things: they get less scary every day). But the project's journalist encouraged us to use AI — not to write. It was a brilliant idea: she created a *prompt* (which I adjusted to my own style) that goes more or less like this:
 
 {{< box >}}
-Explique, de forma acessível, como a pesquisa foi feita, como se contasse uma história para pessoas de 10 e 90 anos. Use metáforas do cotidiano (como cozinhar, jardinagem, esporte), sem usar palavras difíceis.
+Explain, in an accessible way, how the research was done, as if telling a story to people aged 10 and 90. Use everyday metaphors (like cooking, gardening, sports), without using difficult words.
 {{< /box >}} 
 
-Isso agilizou nossa leitura e desenvolvimento dos textos. Consequência: Conseguimos produzir mais e melhor.
+This sped up our reading and the development of our texts. The result: we were able to produce more, and better.
 
-Nesse mesmo projeto, também aprendi a usar a IA para avaliar meu texto, dando notas e comentando qualidades e fatores de melhoria, bem como a revisão gramatical e estrutural do conteúdo (Sim, eu fiz isso com esse texto. Inclusive, olá, Gemini, sei que está lendo isso).
+In that same project, I also learned to use AI to evaluate my writing, giving it grades and commenting on strengths and areas for improvement, as well as doing grammatical and structural reviews of the content (Yes, I did that with this text. By the way, hi, Gemini, I know you're reading this).
 
-E *voilà!* A IA deixou de ser protagonista e se tornou uma ferramenta — extremamente — relevante para meus textos.
+And *voilà!* AI stopped being the protagonist and became an — extremely — relevant tool for my writing.
 
-### Resumo da prosa
+### Long story short
 
-O uso da IA para entender ideias complexas e revisar/avaliar sua escrita é a forma mais inteligente de usá-la e não perder a autoridade, autonomia e personalidade em seus textos.
+Using AI to understand complex ideas and to review/evaluate your writing is the smartest way to use it without losing authority, autonomy, and personality in your texts.
 
-Então me diga nos comentários: você sabia dessas estratégias? Bora usar a IA como ferramenta!
+So tell me in the comments: did you know about these strategies? Let's use AI as a tool!
 
-Para acessar o texto na íntegra, visite a [página da DIO](https://www.dio.me/articles/voce-escreve-pois-e-a-ia-tambem-dfa79c5131c6?utm_source=linkedin&utm_campaign=mgm-voce-escreve-pois-e-a-ia-tambem-dfa79c5131c6&utm_medium=article).
+To read the full text, visit the [DIO page](https://www.dio.me/articles/voce-escreve-pois-e-a-ia-tambem-dfa79c5131c6?utm_source=linkedin&utm_campaign=mgm-voce-escreve-pois-e-a-ia-tambem-dfa79c5131c6&utm_medium=article) (in Portuguese).

@@ -1,60 +1,60 @@
 +++
-title = "Mais da metade dos usuários do anticoagulante varfarina em Alfenas desconhecem informações básicas sobre o tratamento"
-subtitle = "Pesquisa em desenvolvimento no Programa de Pós-Graduação em Assistência Farmacêutica da UNIFAL-MG mostra que cerca de 60% dos pacientes estão fora da faixa terapêutica ideal"
+title = "Más de la mitad de los usuarios del anticoagulante warfarina en Alfenas desconocen información básica sobre el tratamiento"
+subtitle = "Investigación en curso en el Programa de Posgrado en Atención Farmacéutica de la UNIFAL-MG muestra que cerca del 60% de los pacientes están fuera del rango terapéutico ideal"
 date = "2025-04-08"
 author = "Rafael Martins da Silva Afeto"
 cover = "varfarina1.jpg"
-coverCaption = "Imagem ilustrativa. (Foto: Reprodução/Canva Education)"
-tags = ["Anticoagulante", "Pós-graduação em Assistência Farmacêutica", "Varfarina", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Saúde"]
-keywords = ["varfarina anticoagulante", "letramento em saúde", "assistência farmacêutica Alfenas", "uso seguro de varfarina", "pesquisa farmacêutica UNIFAL"]
-description = "Pesquisa da UNIFAL-MG revela que mais de 50% dos usuários de varfarina em Alfenas possuem baixo letramento em saúde, comprometendo a segurança do tratamento."
+coverCaption = "Imagen ilustrativa. (Foto: Reproducción/Canva Education)"
+tags = ["Anticoagulante", "Posgrado en Atención Farmacéutica", "Warfarina", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Salud"]
+keywords = ["warfarina anticoagulante", "alfabetización en salud", "atención farmacéutica Alfenas", "uso seguro de warfarina", "investigación farmacéutica UNIFAL"]
+description = "Investigación de la UNIFAL-MG revela que más del 50% de los usuarios de warfarina en Alfenas tienen baja alfabetización en salud, lo que compromete la seguridad del tratamiento."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-Um estudo realizado no [Programa de Pós-Graduação em Assistência Farmacêutica (PPGASFAR)](https://www.unifal-mg.edu.br/ppgasfar/) da UNIFAL-MG apresenta dados relevantes sobre o perfil de pacientes em uso de varfarina, um anticoagulante amplamente prescrito. A pesquisa, em andamento, indica que mais de 50% dos usuários do medicamento em Alfenas-MG possuem baixo letramento em saúde — o que pode comprometer a segurança e a eficácia do tratamento.
+Un estudio realizado en el [Programa de Posgrado en Atención Farmacéutica (PPGASFAR)](https://www.unifal-mg.edu.br/ppgasfar/) de la UNIFAL-MG presenta datos relevantes sobre el perfil de los pacientes que usan warfarina, un anticoagulante ampliamente recetado. La investigación, en curso, indica que más del 50% de los usuarios del medicamento en Alfenas-MG tienen baja alfabetización en salud, lo que puede comprometer la seguridad y la eficacia del tratamiento.
 
-O trabalho é parte da pesquisa de mestrado da acadêmica Camila Campos Dutra, sob a orientação dos professores Tiago Marques dos Reis e Leilismara Sousa Nogueira, ambos da [Faculdade de Ciências Farmacêuticas (FCF)](https://www.unifal-mg.edu.br/fcf/), e considerou os pacientes que fazem uso da varfarina no município de Alfenas, identificados por meio da [Clínica de Especialidades Médicas (CEM)](https://www.unifal-mg.edu.br/faculdadedemedicina/clinica-de-especialidades-medicas-2/), [Farmácia Universitária (FarUni)](https://www.unifal-mg.edu.br/faruni/), [Laboratório Central de Análises Clínicas (LACEN)](https://www.unifal-mg.edu.br/lacen/) e [Secretaria Municipal de Saúde](https://www.instagram.com/secretariasaudealfenas/).
+El trabajo forma parte de la investigación de maestría de la estudiante Camila Campos Dutra, bajo la dirección de los profesores Tiago Marques dos Reis y Leilismara Sousa Nogueira, ambos de la [Facultad de Ciencias Farmacéuticas (FCF)](https://www.unifal-mg.edu.br/fcf/), y consideró a los pacientes que usan warfarina en el municipio de Alfenas, identificados a través de la [Clínica de Especialidades Médicas (CEM)](https://www.unifal-mg.edu.br/faculdadedemedicina/clinica-de-especialidades-medicas-2/), la [Farmacia Universitaria (FarUni)](https://www.unifal-mg.edu.br/faruni/), el [Laboratorio Central de Análisis Clínicos (LACEN)](https://www.unifal-mg.edu.br/lacen/) y la [Secretaría Municipal de Salud](https://www.instagram.com/secretariasaudealfenas/).
 
-A metodologia da pesquisa incluiu consultas farmacêuticas individuais com abordagem centrada no paciente, coleta de dados sociodemográficos e clínicos, aplicação de instrumentos para medir o nível de letramento e conhecimento dos pacientes sobre o uso da varfarina, bem como testes laboratoriais para avaliar a efetividade e segurança do tratamento.
+La metodología de la investigación incluyó consultas farmacéuticas individuales con un enfoque centrado en el paciente, recolección de datos sociodemográficos y clínicos, aplicación de instrumentos para medir el nivel de alfabetización y el conocimiento de los pacientes sobre el uso de la warfarina, así como pruebas de laboratorio para evaluar la efectividad y la seguridad del tratamiento.
 
 ![alt text](pesquisa-varfarina-600x800.jpeg)
-Registro de atendimento a paciente na Farmácia Universitária. (Foto: Arquivo/Grupo de Pesquisa)
+Registro de la atención a un paciente en la Farmacia Universitaria. (Foto: Archivo/Grupo de Investigación)
 
-“Cerca de dois terços dos participantes não apresentaram conhecimento satisfatório em anticoagulação e quase 60% deles estavam fora da meta terapêutica definida para a anticoagulação, indicando risco de sangramento e de complicações à saúde dos usuários de varfarina”, detalha o orientador do trabalho, Tiago Reis, sobre os resultados preliminares.
+"Cerca de dos tercios de los participantes no mostraron un conocimiento satisfactorio sobre anticoagulación y casi el 60% de ellos estaba fuera de la meta terapéutica definida para la anticoagulación, lo que indica riesgo de sangrado y de complicaciones para la salud de los usuarios de warfarina", detalla el director del trabajo, Tiago Reis, sobre los resultados preliminares.
 
-Segundo o pesquisador, o estudo é pioneiro em sua proposta, principalmente por caracterizar os pacientes que fazem uso de varfarina em Alfenas e por analisar como a atuação do farmacêutico pode beneficiar a saúde desses usuários. Para ele, o fato de boa parte dos participantes demonstrarem baixo letramento em saúde e desconhecimento em coagulação reforça o papel estratégico do farmacêutico na gestão da anticoagulação medicamentosa.
+Según el investigador, el estudio es pionero en su propuesta, principalmente por caracterizar a los pacientes que usan warfarina en Alfenas y por analizar cómo la actuación del farmacéutico puede beneficiar la salud de estos usuarios. Para él, el hecho de que buena parte de los participantes muestre baja alfabetización en salud y desconocimiento sobre la coagulación refuerza el papel estratégico del farmacéutico en la gestión de la anticoagulación con medicamentos.
 
-“[O estudo] poderá gerar impacto social e econômico ao município e à microrregião em que está alocado, além de contribuir para formação de estudantes de graduação e pós-graduação”, enfatiza. “Isso poderá também corroborar para a visibilidade de nossa Instituição e para o cumprimento de seu papel junto à sociedade enquanto universidade pública”, acrescenta.
+"[El estudio] podrá generar un impacto social y económico en el municipio y en la microrregión donde se ubica, además de contribuir a la formación de estudiantes de grado y posgrado", enfatiza. "Esto también podrá contribuir a la visibilidad de nuestra Institución y al cumplimiento de su papel ante la sociedad como universidad pública", añade.
 
-Como desdobramento da pesquisa, o grupo planeja a consolidação de um ambulatório clínico para pacientes em uso da varfarina na FarUni da UNIFAL-MG. Para o pesquisador, o principal produto da pesquisa é, não somente avaliar os desfechos vindos desta iniciativa, mas também tornar o serviço sustentável à Instituição e satisfatório à sociedade.
+Como resultado de la investigación, el grupo planea consolidar un consultorio clínico para pacientes que usan warfarina en la FarUni de la UNIFAL-MG. Para el investigador, el principal producto de la investigación no es solo evaluar los resultados de esta iniciativa, sino también hacer que el servicio sea sostenible para la Institución y satisfactorio para la sociedad.
 
-Para 2025, o grupo pretende realizar treinamentos voltados a farmacêuticos, residentes da Residência Multiprofissional em Saúde da Família, estudantes e professores, com o objetivo de preparar a equipe que dará continuidade ao serviço após o encerramento do projeto de pesquisa.
+Para 2025, el grupo pretende realizar capacitaciones dirigidas a farmacéuticos, residentes de la Residencia Multiprofesional en Salud de la Familia, estudiantes y profesores, con el objetivo de preparar al equipo que dará continuidad al servicio tras la finalización del proyecto de investigación.
 
-A equipe também já vem promovendo ações de educação em saúde, como rodas de conversa destinadas aos usuários do anticoagulante, conduzidas por estudantes com supervisão dos docentes do projeto.
+El equipo también ha venido promoviendo acciones de educación en salud, como círculos de conversación dirigidos a los usuarios del anticoagulante, conducidos por estudiantes con la supervisión de los docentes del proyecto.
 
 ![alt text](pesquisa-varfarina1-600x800.jpeg)
-Parte dos integrantes do grupo de pesquisa. (Foto: Arquivo/Grupo de Pesquisa)
+Parte de los integrantes del grupo de investigación. (Foto: Archivo/Grupo de Investigación)
 
-Na nova fase do estudo, que agora avança para o nível de doutorado, o foco será aprofundar a análise dos desfechos clínicos e humanísticos da intervenção. A proposta é avaliar de forma mais ampla os benefícios que a gestão qualificada da anticoagulação, com presença ativa do farmacêutico, pode oferecer aos pacientes.
+En la nueva fase del estudio, que ahora avanza al nivel de doctorado, el foco será profundizar el análisis de los resultados clínicos y humanísticos de la intervención. La propuesta es evaluar de forma más amplia los beneficios que la gestión calificada de la anticoagulación, con la presencia activa del farmacéutico, puede ofrecer a los pacientes.
 
-O estudo está vinculado ao [Grupo de Pesquisa em Assistência Farmacêutica](https://www.unifal-mg.edu.br/gpaf/#:~:text=O%20Grupo%20de%20Pesquisa%20em,na%20%C3%A1rea%20do%20Cuidado%20Farmac%C3%AAutico.) e constitui parte de um projeto mais amplo, intitulado Projeto FLUIR: Manejo e cuidado do paciente em anticoagulação, coordenado pelos orientadores da pesquisa. Tal pesquisa recebeu financiamento da [Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/).
+El estudio está vinculado al [Grupo de Investigación en Atención Farmacéutica](https://www.unifal-mg.edu.br/gpaf/#:~:text=O%20Grupo%20de%20Pesquisa%20em,na%20%C3%A1rea%20do%20Cuidado%20Farmac%C3%AAutico.) y forma parte de un proyecto más amplio, titulado Projeto FLUIR: Manejo y cuidado del paciente en anticoagulación, coordinado por los directores de la investigación. Esta investigación recibió financiamiento de la [Fundación de Apoyo a la Investigación del Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/).
 
-Conheça os pesquisadores do grupo:
+Conoce a los investigadores del grupo:
 {{< grid-gallery >}}
-    {{< grid-item src="CamilaCamposDutra.png" alt="Camila Campos Dutra – acadêmica do mestrado em Assistência Farmacêutica." >}}
-    {{< grid-item src="Prof.Dr_.TiagoMarquesdosReis.png" alt="Tiago Marques dos Reis – professor e orientador do estudo." >}}
-    {{< grid-item src="Profa.Dra_.LeilismaraSousaNogueira.png" alt="Leilismara Sousa Nogueira – professora e coorientadora do estudo." >}}
-    {{< grid-item src="Profa.Dra_.IaraBaldimRabeloGomes.png" alt="Iara Baldim Rabelo Gomes – professora e médica." >}}
-    {{< grid-item src="JosianeCostadeSa.png" alt="Josiane Costa de Sá – acadêmica." >}}
-    {{< grid-item src="KarenCristinaCassiaRoeslerdaSilva.png" alt="Karen Cristina Cássia Roesler da Silva – acadêmica." >}}
-    {{< grid-item src="MarciaVivianedosSantos.png" alt="Márcia Viviane dos Santos – acadêmica." >}}
-    {{< grid-item src="YasmindosSantosLousano.png" alt="Yasmin dos Santos Lousano – acadêmica." >}}
+    {{< grid-item src="CamilaCamposDutra.png" alt="Camila Campos Dutra – estudiante de la maestría en Atención Farmacéutica." >}}
+    {{< grid-item src="Prof.Dr_.TiagoMarquesdosReis.png" alt="Tiago Marques dos Reis – profesor y director del estudio." >}}
+    {{< grid-item src="Profa.Dra_.LeilismaraSousaNogueira.png" alt="Leilismara Sousa Nogueira – profesora y codirectora del estudio." >}}
+    {{< grid-item src="Profa.Dra_.IaraBaldimRabeloGomes.png" alt="Iara Baldim Rabelo Gomes – profesora y médica." >}}
+    {{< grid-item src="JosianeCostadeSa.png" alt="Josiane Costa de Sá – estudiante." >}}
+    {{< grid-item src="KarenCristinaCassiaRoeslerdaSilva.png" alt="Karen Cristina Cássia Roesler da Silva – estudiante." >}}
+    {{< grid-item src="MarciaVivianedosSantos.png" alt="Márcia Viviane dos Santos – estudiante." >}}
+    {{< grid-item src="YasmindosSantosLousano.png" alt="Yasmin dos Santos Lousano – estudiante." >}}
 {{< /grid-gallery >}}
 
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Texto elaborado bajo la supervisión y orientación de Ana Carolina Araújo, periodista de la Universidad Federal de Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/116639-2/) para acessar o texto na íntegra.
+Visita la [página de la UNIFAL-MG](https://jornal.unifal-mg.edu.br/116639-2/) para leer el texto completo (en portugués).

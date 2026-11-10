@@ -1,44 +1,43 @@
 +++
-title = "Compostos naturais da soja apresentam efeitos benéficos para doença muscular genética, aponta estudo"
-subtitle = "Utilizando modelo experimental, grupo de pesquisa liderado por professor da UNIFAL-MG demonstra potencial ação antioxidante e anti-inflamatória de compostos naturais derivados da soja para distrofia muscular de Duchenne"
+title = "Compuestos naturales de la soya presentan efectos beneficiosos para una enfermedad muscular genética, señala estudio"
+subtitle = "Con un modelo experimental, un grupo de investigación dirigido por un profesor de la UNIFAL-MG demuestra la posible acción antioxidante y antiinflamatoria de compuestos naturales derivados de la soya en la distrofia muscular de Duchenne"
 date = "2025-09-15"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_extrato-soja-distrofia.jpg"
-coverCaption = "Imagem ilustrativa. (Foto: Reprodução/Canva Education)"
-tags = ["Anatomia", "Bioestrutura Neuromuscular", "Distrofia Muscular de Duchenne", "Extrato de Soja", "Isoflavonas", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Saúde"]
-keywords = ["distrofia muscular de Duchenne", "isoflavonas soja", "tratamento DMD", "extrato de soja saúde muscular", "pesquisa neuromuscular UNIFAL"]
-description = "Estudo da UNIFAL-MG mostra que isoflavonas da soja melhoram a função muscular e reduzem inflamação em modelo experimental de distrofia muscular de Duchenne."
+coverCaption = "Imagen ilustrativa. (Foto: Reproducción/Canva Education)"
+tags = ["Anatomía", "Bioestructura Neuromuscular", "Distrofia Muscular de Duchenne", "Extracto de Soya", "Isoflavonas", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Salud"]
+keywords = ["distrofia muscular de Duchenne", "isoflavonas de soya", "tratamiento DMD", "extracto de soya salud muscular", "investigación neuromuscular UNIFAL"]
+description = "Un estudio de la UNIFAL-MG muestra que las isoflavonas de la soya mejoran la función muscular y reducen la inflamación en un modelo experimental de distrofia muscular de Duchenne."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-A distrofia muscular de Duchenne (DMD) é uma doença genética grave que causa perda muscular progressiva e fraqueza que afeta principalmente os meninos, mas pesquisadores da UNIFAL-MG podem ter dado um passo na identificação de possíveis compostos que auxiliam no tratamento dessa doença. Trata-se das isoflavonas: substâncias presentes no extrato de soja, consideradas estrogênios naturais.
+La distrofia muscular de Duchenne (DMD) es una enfermedad genética grave que causa pérdida muscular progresiva y debilidad, y que afecta principalmente a los niños varones, pero investigadores de la UNIFAL-MG podrían haber dado un paso en la identificación de posibles compuestos que ayuden en su tratamiento. Se trata de las isoflavonas: sustancias presentes en el extracto de soya, consideradas estrógenos naturales.
 
-Ao investigar a ação protetora das isoflavonas no tecido muscular em modelo experimental com camundongos mdx, o Grupo de Pesquisa em Bioestrutura Neuromuscular (GPBioNM), liderado por Túlio de Almeida Hermes, professor e pesquisador do Departamento de Anatomia do [Instituto de Ciências Biomédicas](https://www.unifal-mg.edu.br/icb/) da UNIFAL-MG, observou melhora na função muscular, redução da necrose e dos marcadores inflamatórios e oxidativos.
+Al investigar la acción protectora de las isoflavonas en el tejido muscular en un modelo experimental con ratones mdx, el Grupo de Investigación en Bioestructura Neuromuscular (GPBioNM), dirigido por Túlio de Almeida Hermes, profesor e investigador del Departamento de Anatomía del [Instituto de Ciencias Biomédicas](https://www.unifal-mg.edu.br/icb/) de la UNIFAL-MG, observó una mejora en la función muscular y una reducción de la necrosis y de los marcadores inflamatorios y oxidativos.
 
-![alt text](Tulio-Hermes.jpg)
-Túlio de Almeida Hermes professor e pesquisador do Departamento de Anatomia, líder do Grupo de Pesquisa em Bioestrutura Neuromuscular. (Foto: Arquivo Pessoal)
+![Túlio Hermes](Tulio-Hermes.jpg)
+Túlio de Almeida Hermes, profesor e investigador del Departamento de Anatomía, líder del Grupo de Investigación en Bioestructura Neuromuscular. (Foto: Archivo personal)
 
-“Com os resultados da pesquisa, podemos determinar isoflavonas potencialmente mais ativas e investigar seu efeito na DMD de modo isolado”, aponta o pesquisador.
+“Con los resultados de la investigación, podemos determinar qué isoflavonas son potencialmente más activas e investigar su efecto en la DMD de forma aislada”, señala el investigador.
 
-De acordo com ele, a distrofia muscular de Duchenne é causada por uma mutação no gene DMD, que leva à falta da proteína distrofina, responsável pela estabilidade na célula muscular. “Sem essa proteína, o músculo pode sofrer algumas lesões, que são verdadeiras rupturas na membrana, levando assim, a entrada exa
-gerada de cálcio que em altas concentrações é tóxico”, explica.
+Según él, la distrofia muscular de Duchenne es causada por una mutación en el gen DMD, que provoca la falta de la proteína distrofina, responsable de la estabilidad de la célula muscular. “Sin esta proteína, el músculo puede sufrir lesiones, que son verdaderas rupturas en la membrana, lo que provoca la entrada excesiva de calcio, que en altas concentraciones es tóxico”, explica.
 
-Atualmente, a doença não possui uma cura e o tratamento é pelo uso de glicocorticóides, que melhoram a condição geral do paciente, mas causam muitos efeitos colaterais.
+Actualmente, la enfermedad no tiene cura y el tratamiento se basa en el uso de glucocorticoides, que mejoran el estado general del paciente, pero causan muchos efectos secundarios.
 
-A pesquisa realizada pelo grupo, segundo o professor Túlio Hermes, ainda não gerou um tratamento. “Por hora é objeto de investigação e a possibilidade de encontrar potenciais isoflavonas com grande potencial terapêutico no extrato é bastante estimulante”, observa.
+Según el profesor Túlio Hermes, la investigación del grupo aún no ha generado un tratamiento. “Por ahora es objeto de investigación, y la posibilidad de encontrar en el extracto isoflavonas con gran potencial terapéutico es muy estimulante”, observa.
 
-![alt text](grupo-de-pesquisa-extrato-soja-distrofia-768x576.jpeg)
-Integrantes do Grupo de Pesquisa em Bioestrutura Neuromuscular com o professor Túlio Hermes. (Foto: Arquivo/Túlio Hermes)
+![Grupo de investigación](grupo-de-pesquisa-extrato-soja-distrofia-768x576.jpeg)
+Integrantes del Grupo de Investigación en Bioestructura Neuromuscular con el profesor Túlio Hermes. (Foto: Archivo/Túlio Hermes)
 
-Mas os pesquisadores identificaram que o extrato da soja, além de ser uma alternativa vantajosa para um potencial tratamento, devido ao custo baixo e maior acessibilidade da soja, também foi seguro para os camundongos, não gerando toxicidade para os rins e fígado do animal.
+Los investigadores también identificaron que el extracto de soya, además de ser una alternativa ventajosa para un posible tratamiento debido al bajo costo y la mayor accesibilidad de la soya, también fue seguro para los ratones, sin generar toxicidad en los riñones ni en el hígado de los animales.
 
-Para Túlio Hermes, isso é só o começo. “Este trabalho possibilitou propor um novo estudo, que se encontra em fase inicial, sobre a investigação dos mecanismos moleculares e celulares do uso de uma das classes das isoflavonas determinadas no estudo anterior”, conta.
+Para Túlio Hermes, esto es solo el comienzo. “Este trabajo permitió proponer un nuevo estudio, que se encuentra en fase inicial, sobre la investigación de los mecanismos moleculares y celulares del uso de una de las clases de isoflavonas identificadas en el estudio anterior”, cuenta.
 
-A pesquisa, vinculada ao projeto CNPq 402493/2021-4, foi financiada pelo [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br) e logo estará publicada com acesso aberto à comunidade.
+La investigación, vinculada al proyecto CNPq 402493/2021-4, fue financiada por el [Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br) y pronto será publicada en acceso abierto para la comunidad.
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Texto elaborado bajo la supervisión y orientación de Ana Carolina Araújo, periodista de la Universidad Federal de Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/compostos-naturais-da-soja-apresentam-efeitos-beneficos-para-doenca-muscular-genetica-aponta-estudo/) para acessar o texto na íntegra.
+Visite la [página de la UNIFAL-MG](https://jornal.unifal-mg.edu.br/compostos-naturais-da-soja-apresentam-efeitos-beneficos-para-doenca-muscular-genetica-aponta-estudo/) para acceder al texto completo (en portugués).

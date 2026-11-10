@@ -1,30 +1,30 @@
 +++
-title = "Tecido Muscular"
+title = "Muscle Tissue"
 date = "2022-06-17"
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Histologia", "Atlas Histológico","Tecido Muscular", "Desenho Científico", "UNIFAL-MG"]
-categories = ["Material Educativo"]
-keywords = ["tecido muscular histologia", "músculo esquelético liso cardíaco", "o que é tecido muscular", "sarcômero contração muscular", "atlas tecido muscular"]
-description = "Tecido muscular esquelético, liso e cardíaco: estrutura, função e ilustrações da língua e intestino. Atlas de Histologia da UNIFAL-MG."
+tags = ["Histology", "Histology Atlas","Muscle Tissue", "Scientific Illustration", "UNIFAL-MG"]
+categories = ["Educational Material"]
+keywords = ["muscle tissue histology", "skeletal smooth cardiac muscle", "what is muscle tissue", "sarcomere muscle contraction", "muscle tissue atlas"]
+description = "Skeletal, smooth and cardiac muscle tissue: structure, function and illustrations of the tongue and intestine. UNIFAL-MG Histology Atlas."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-O tecido muscular é composto por fibras alongadas e excitáveis que utilizam ATP para realizar a contração através do deslizamento de miofilamentos de actina e miosina. Estruturalmente, organiza-se em sarcômeros e é envolvido por membranas de tecido conjuntivo (epi, peri e endomísio), dependendo da liberação de cálcio para ativar o processo contrátil. Quanto à regeneração, o músculo liso é o mais eficiente, o esquelético possui capacidade limitada via células satélites e o cardíaco apenas forma cicatriz fibrosa ([acesse o Atlas para mais informações](https://www.unifal-mg.edu.br/histologiainterativa/tecido-muscular/)).
+Muscle tissue is made up of elongated, excitable fibers that use ATP to contract through the sliding of actin and myosin myofilaments. Structurally, it is organized into sarcomeres and wrapped in connective tissue sheaths (epimysium, perimysium and endomysium), and it depends on the release of calcium to trigger the contractile process. As for regeneration, smooth muscle is the most efficient, skeletal muscle has limited capacity through satellite cells, and cardiac muscle only forms fibrous scar tissue ([visit the Atlas for more information](https://www.unifal-mg.edu.br/histologiainterativa/tecido-muscular/)).
 
-### Língua
+### Tongue
 
-A língua é possui fibras, ou seja, células musculares esqueléticas, organizadas em mais de uma direção, o que lhe confere grande mobilidade e flexibilidade. Em torno destas fibras musculares, há tecido conjuntivo, permitindo enervação, vascularização e células de defesa.
+The tongue has fibers, that is, skeletal muscle cells, arranged in more than one direction, which gives it great mobility and flexibility. Around these muscle fibers there is connective tissue, which allows for innervation, vascularization and the presence of defense cells.
 ![alt text](lingua.png)
 
-### Intestino delgado
+### Small intestine
 
-O intestino delgado é composto por camadas de tecido muscular liso, organizadas em duas camadas: a camada circular interna e a camada longitudinal externa. Essa organização permite a movimentação coordenada do conteúdo intestinal através de contrações peristálticas, facilitando a digestão e absorção de nutrientes. Entre essas camadas musculares, há tecido conjuntivo.
+The small intestine contains smooth muscle tissue organized into two layers: an inner circular layer and an outer longitudinal layer. This arrangement allows the coordinated movement of the intestinal contents through peristaltic contractions, aiding digestion and nutrient absorption. Between these muscle layers there is connective tissue.
 ![alt text](intestino-delgado-tecido-muscular-liso.png)
 
-### Coração
+### Heart
 
-O coração é composto por tecido muscular cardíaco, caracterizado por fibras musculares estriadas e ramificadas, conectadas por discos intercalares. O tecido muscular cardíaco é altamente resistente à fadiga, devido à presença de mitocôndrias abundantes e uma rica vascularização, garantindo o fornecimento constante de oxigênio e nutrientes para sustentar a atividade contrátil contínua do coração. Entre as fibras musculares, há tecido conjuntivo.
+The heart is made up of cardiac muscle tissue, characterized by striated, branched muscle fibers connected by intercalated discs. Cardiac muscle tissue is highly resistant to fatigue thanks to its abundant mitochondria and rich vascularization, which ensure a constant supply of oxygen and nutrients to sustain the heart's continuous contractile activity. Between the muscle fibers there is connective tissue.
 ![alt text](coracao-tecido-muscular-estriado-cardiaco.png)

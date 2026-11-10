@@ -1,40 +1,40 @@
 +++
-title = "Tecido Epitelial de Revestimento"
+title = "Covering Epithelial Tissue"
 date = "2022-06-17"
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Histologia", "Atlas Histológico","Tecido Epitelial", "Desenho Científico", "UNIFAL-MG"]
-categories = ["Material Educativo"]
-keywords = ["tecido epitelial de revestimento", "epitélio estratificado pavimentoso", "o que é tecido epitelial", "esôfago intestino histologia", "atlas tecido epitelial"]
-description = "Tecido epitelial de revestimento: tipos, estrutura e exemplos do esôfago e intestino delgado. Atlas Interativo de Histologia da UNIFAL-MG."
+tags = ["Histology", "Histology Atlas","Epithelial Tissue", "Scientific Illustration", "UNIFAL-MG"]
+categories = ["Educational Material"]
+keywords = ["covering epithelial tissue", "stratified squamous epithelium", "what is epithelial tissue", "esophagus intestine histology", "epithelial tissue atlas"]
+description = "Covering epithelial tissue: types, structure and examples from the esophagus and small intestine. UNIFAL-MG Interactive Histology Atlas."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-O tecido epitelial é um dos 4 tecido animais básicos. Ele é composto por células justapostas com pouca matriz extracelular e sem vasos sanguíneos, dependendo, então, do tecido conjuntivo para nutrição. A lâmina basal (ou membrana basal) serve como interface entre esses tecidos, fornecendo suporte estrutural e adesão ([acesse o Atlas para mais informações](https://www.unifal-mg.edu.br/histologiainterativa/tecido-epitelial-de-revestimento-2/)).
+Epithelial tissue is one of the 4 basic animal tissues. It is made up of tightly packed cells with little extracellular matrix and no blood vessels, so it depends on connective tissue for nourishment. The basal lamina (or basement membrane) serves as the interface between these tissues, providing structural support and adhesion ([visit the Atlas for more information](https://www.unifal-mg.edu.br/histologiainterativa/tecido-epitelial-de-revestimento-2/)).
 
-### Esôfago
+### Esophagus
 
-O esôfago conta com um tecido epitelial de revestimento estratificado pavimentoso não queratinizado, que é adaptado para resistir ao atrito causado pela passagem dos alimentos. Ele é composto por várias camadas de células, onde as células mais superficiais são achatadas e as camadas mais profundas são mais cúbicas ou cilindricas. A ausência de queratina permite que o tecido permaneça úmido, facilitando a passagem dos alimentos.
+The esophagus has a nonkeratinized stratified squamous covering epithelium, which is adapted to withstand the friction caused by the passage of food. It is made up of several layers of cells, in which the most superficial cells are flattened and the deeper layers are more cuboidal or columnar. The absence of keratin keeps the tissue moist, making it easier for food to pass.
 ![alt text](esofago.png)
 
-### Intestino delgado
+### Small intestine
 
-O intestino delgado é revestido por um tecido epitelial de revestimento simples cilindrico, especializado para absorção de nutrientes. Ele é composto por uma única camada de células colunares, que possuem microvilosidades na superfície apical para aumentar a área de absorção. Esse tecido também contêm células calciformes (glândulas secretoras) que produzem muco para proteger o epitélio e facilitar a passagem do conteúdo intestinal.
+The small intestine is lined by a simple columnar covering epithelium, specialized for nutrient absorption. It is made up of a single layer of columnar cells, which have microvilli on their apical surface to increase the absorptive area. This tissue also contains goblet cells (secretory glands) that produce mucus to protect the epithelium and ease the passage of the intestinal contents.
 ![alt text](intestino-delgado-tecido-epitelial.png)
 
-### Pele espessa
+### Thick skin
 
-A pele espessa, encontrada em áreas como as palmas das mãos e as plantas dos pés, é revestida por um tecido epitelial de revestimento estratificado pavimentoso queratinizado. Ele é composto por várias camadas de células, onde as células mais superficiais são achatadas e ricas em queratina, uma proteína que confere resistência e impermeabilidade. A queratina ajuda a proteger a pele contra danos mecânicos, perda de água e infecções.
+Thick skin, found in areas such as the palms of the hands and the soles of the feet, is covered by a keratinized stratified squamous covering epithelium. It is made up of several layers of cells, in which the most superficial cells are flattened and rich in keratin, a protein that provides strength and waterproofing. Keratin helps protect the skin against mechanical damage, water loss and infections.
 ![alt text](pele-espessa.png)
 
 ### Ureter
 
-O ureter é revestido por um tecido epitelial de revestimento de transição. Ele é composto por várias camadas de células que podem se esticar e se acomodar ao volume variável do ureter. As células mais superficiais são grandes e arredondadas, enquanto as camadas mais profundas são mais cúbicas. Esse tipo de epitélio é especializado para permitir a distensão do ureter durante o transporte da urina.
+The ureter is lined by a transitional covering epithelium. It is made up of several layers of cells that can stretch and adapt to the changing volume of the ureter. The most superficial cells are large and rounded, while the deeper layers are more cuboidal. This type of epithelium is specialized to allow the ureter to distend while transporting urine.
 ![alt text](ureter.png)
 
-### Tireóide
+### Thyroid
 
-A tireóide é composta por um tecido epitelial de revestimento simples cúbico, que forma os folículos tireoidianos. Esses folículos são estruturas esféricas que armazenam o hormônio tireoidiano em uma substância chamada coloide. As células epiteliais cúbicas são responsáveis pela produção e liberação dos hormônios tireoidianos, que regulam o metabolismo do corpo.
+The thyroid is made up of a simple cuboidal covering epithelium, which forms the thyroid follicles. These follicles are spherical structures that store thyroid hormone in a substance called colloid. The cuboidal epithelial cells are responsible for producing and releasing the thyroid hormones, which regulate the body's metabolism.
 ![alt text](tireoide.png)

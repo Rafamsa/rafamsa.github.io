@@ -3,7 +3,8 @@ import requests
 import urllib.request
 
 # Substitua pelas suas credenciais
-TOKEN = "IGAAbA314t9zRBZAFp2M2ktQURKQWRsNDktT1p4UHEtanhobVRZARi1fcW1jTVMwb3EtYjZAuQXVRR0J3MDB4SW9uY2NOdnVGRjFVcUQ2Q1B4ckJzcGJlc0JOUlJUYTd4cEhvSWVoZA0JOVVljT2Q3ai0xWkU1VWhxWkNETTlXazUwUQZDZD"
+TOKEN = os.environ.get("IG_TOKEN")
+if not TOKEN: raise SystemExit("Faltou o token! Rode: export IG_TOKEN='seu_token'")
 
 # Pastas de destino
 PASTA_DESTINO = "content/ilustracoes" 
@@ -21,7 +22,11 @@ print("Buscando postagens no Instagram...")
 while url:
     resposta = requests.get(url)
     dados_instagram = resposta.json()
-    
+
+    # Se o Instagram recusar (ex.: token expirado), para e mostra o motivo
+    if 'error' in dados_instagram:
+        raise SystemExit(f"Erro do Instagram: {dados_instagram['error'].get('message')}")
+
     lote_atual = dados_instagram.get('data', [])
     todas_postagens.extend(lote_atual)
     

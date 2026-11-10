@@ -9,7 +9,7 @@
         <p class="shortbio__title">{{ $bio.title }}</p>
         <p class="shortbio__description">{{ $bio.short_description }}</p>
 
-        <a href="/{{ if ne $lang " pt-br" }}{{ $lang }}/{{ end }}quem-sou/" class="shortbio__link">
+        <a href="/{{ if ne $lang "pt-br" }}{{ $lang }}/{{ end }}quem-sou/" class="shortbio__link">
             {{ if eq $lang "en" }}Read full biography →{{ else if eq $lang "es" }}Ver biografía completa →{{ else }}Ver
             biografia completa →{{ end }}
         </a>

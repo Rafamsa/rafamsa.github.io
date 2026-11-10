@@ -1,58 +1,58 @@
 +++
-title = "Estudo usa conceitos de física básica para explicar buracos negros e ondas gravitacionais"
-subtitle = "Pesquisa da UNIFAL-MG transforma conceitos avançados em aprendizado acessível para estudantes da área de Ciências Exatas"
+title = "Estudio utiliza conceptos de física básica para explicar los agujeros negros y las ondas gravitacionales"
+subtitle = "Investigación de la UNIFAL-MG transforma conceptos avanzados en aprendizaje accesible para estudiantes del área de Ciencias Exactas"
 date = "2025-07-08"
 author = "Rafael Martins da Silva Afeto"
 cover = "buraco-negro.jpg"
-coverCaption = "Imagem ilustrativa. (Foto: Reprodução/Canva Education)"
-tags = ["Astrofísica", "Buraco Negro", "Física", "Ondas Gravitacionais", "Programa de Pós-Graduação em Física", "Projeto +Ciência", "UNIFAL-MG"]
+coverCaption = "Imagen ilustrativa. (Foto: Reproducción/Canva Education)"
+tags = ["Astrofísica", "Agujero Negro", "Física", "Ondas Gravitacionales", "Programa de Posgrado en Física", "Projeto +Ciência", "UNIFAL-MG"]
 categories = ["Física"]
-keywords = ["buracos negros física básica", "ondas gravitacionais", "astrofísica acessível", "ensino de física", "LIGO-Virgo pesquisa UNIFAL"]
-description = "Pesquisadores da UNIFAL-MG usam equações de física básica para tornar o estudo de buracos negros e ondas gravitacionais acessível a alunos de graduação."
+keywords = ["agujeros negros física básica", "ondas gravitacionales", "astrofísica accesible", "enseñanza de la física", "LIGO-Virgo investigación UNIFAL"]
+description = "Investigadores de la UNIFAL-MG usan ecuaciones de física básica para hacer accesible a estudiantes de grado el estudio de los agujeros negros y las ondas gravitacionales."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-Com o intuito de possibilitar que o estudo de ondas gravitacionais e buracos negros sejam mais acessíveis para alunos no início de graduação em cursos da área de Ciências Exatas, pesquisadores da UNIFAL-MG desenvolveram métodos, utilizando conceitos e equações de física básica, para facilitar os cálculos e entendimentos. A pesquisa foi desenvolvida em 2022 como um projeto de iniciação científica do discente do curso de Física Nicolas Lerioni Nascimento e orientado pelo professor Rodrigo Cuzinatto, do [Programa de Pós-Graduação em Física](https://www.unifal-mg.edu.br/ppgf/) da UNIFAL-MG.
+Con el propósito de que el estudio de las ondas gravitacionales y los agujeros negros sea más accesible para estudiantes de los primeros años de carreras del área de Ciencias Exactas, investigadores de la UNIFAL-MG desarrollaron métodos que utilizan conceptos y ecuaciones de física básica para facilitar los cálculos y la comprensión. La investigación se desarrolló en 2022 como un proyecto de iniciación científica del estudiante de Física Nicolas Lerioni Nascimento, dirigido por el profesor Rodrigo Cuzinatto, del [Programa de Posgrado en Física](https://www.unifal-mg.edu.br/ppgf/) de la UNIFAL-MG.
 
 {{< grid-gallery >}}
-  {{< grid-item src="Nicolas-Lerioni-Nascimento-Fisica.png" alt="Nicolas Nascimento – egresso de Física e autor do estudo. (Foto: Arquivo Pessoal)" >}}
-  {{< grid-item src="Rodrigo-Cuzinatto.jpg" alt="Rodrigo Cuzinatto – professor e orientador. (Foto: Arquivo Pessoal)" >}}
+  {{< grid-item src="Nicolas-Lerioni-Nascimento-Fisica.png" alt="Nicolas Nascimento – egresado de Física y autor del estudio. (Foto: Archivo Personal)" >}}
+  {{< grid-item src="Rodrigo-Cuzinatto.jpg" alt="Rodrigo Cuzinatto – profesor y director. (Foto: Archivo Personal)" >}}
 {{< /grid-gallery >}}
 
-Para o orientador, o principal mérito do trabalho é o caráter pedagógico. “Ele entrega ideias e resultados sofisticados de uma forma supostamente tão simples quanto possível”, destaca. O professor acrescenta que as equações estipuladas permitiram estimar com precisão os parâmetros físicos de sistemas binários de buracos negros em comparação com os dados coletados pela colaboração da rede internacional dos observatórios e interferômetros [LIGO-Virgo-Kagra (LVK)](https://gcn-nasa-gov.translate.goog/missions/lvk?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc).
+Para el director, el principal mérito del trabajo es su carácter pedagógico. “Entrega ideas y resultados sofisticados de una forma supuestamente tan simple como sea posible”, destaca. El profesor añade que las ecuaciones planteadas permitieron estimar con precisión los parámetros físicos de sistemas binarios de agujeros negros en comparación con los datos recopilados por la colaboración de la red internacional de observatorios e interferómetros [LIGO-Virgo-Kagra (LVK)](https://gcn-nasa-gov.translate.goog/missions/lvk?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc).
 
-Segundo ele, o artigo produzido trata do tema das ondas gravitacionais com um nível de exigência técnica adequado à etapa de formação de alunos de cursos de Ciências Exatas em início de graduação.
+Según él, el artículo producido aborda el tema de las ondas gravitacionales con un nivel de exigencia técnica adecuado a la etapa de formación de estudiantes de Ciencias Exactas en los primeros años de la carrera.
 
-## Entendendo a gravidade de forma didática
+## Entendiendo la gravedad de forma didáctica
 
-Para explicar os conceitos da relatividade de Einstein, Rodrigo Cuzinatto utilizou uma analogia visual: “Podemos imaginar o espaço como um lençol esticado, bem lisinho e plano, segurado por quatro pessoas em cada uma de suas pontas. Uma quinta pessoa coloca uma bola de boliche no centro do lençol. Isso provocaria o aparecimento de uma bacia no lençol. Se jogássemos uma bola de tênis sobre esse lençol, ela seguiria uma trajetória curva devido à bacia produzida pela bola de boliche no lençol.” Nessa metáfora, a bola de boliche representa a Terra, e a bola de tênis, a Lua.
+Para explicar los conceptos de la relatividad de Einstein, Rodrigo Cuzinatto utilizó una analogía visual: “Podemos imaginar el espacio como una sábana estirada, bien lisa y plana, sostenida por cuatro personas, una en cada esquina. Una quinta persona coloca una bola de boliche en el centro de la sábana. Esto haría aparecer una hondonada en la sábana. Si lanzáramos una pelota de tenis sobre esa sábana, seguiría una trayectoria curva debido a la hondonada producida por la bola de boliche.” En esta metáfora, la bola de boliche representa a la Tierra, y la pelota de tenis, a la Luna.
 
-Segundo ele, Einstein sugeriu que a gravitação não é uma força atrativa, como defendia Newton, mas sim, uma curvatura do espaço e tempo, produzida pela presença de matéria. O professor explicou que são ondas gravitacionais, ao comparar as perturbações de um corpo massivo no tecido do espaço-tempo, com uma pedra jogada no lago. “Sabemos o que são ondas na superfície de um lago calmo perturbada pela queda de uma pedrinha. De forma parecida, ondas gravitacionais são perturbações no tecido do espaço e do tempo, provocadas pelo movimento de grandes corpos, como buracos negros”, esclarece.
+Según él, Einstein sugirió que la gravitación no es una fuerza de atracción, como defendía Newton, sino una curvatura del espacio y del tiempo producida por la presencia de materia. El profesor explicó qué son las ondas gravitacionales comparando las perturbaciones que un cuerpo masivo provoca en el tejido del espacio-tiempo con una piedra arrojada a un lago. “Sabemos qué son las ondas en la superficie de un lago tranquilo perturbada por la caída de una piedrita. De forma parecida, las ondas gravitacionales son perturbaciones en el tejido del espacio y del tiempo, provocadas por el movimiento de grandes cuerpos, como los agujeros negros”, aclara.
 
-## Contribuição científica e oportunidades para estudantes
+## Contribución científica y oportunidades para estudiantes
 
-Conforme o professor, além de tornar mais acessível o conteúdo científico, o trabalho produzido também aborda como as ondas gravitacionais são detectadas e como colisões de buracos negros e estrelas de nêutrons confirmam as previsões da teoria da relatividade.
+Según el profesor, además de hacer más accesible el contenido científico, el trabajo también aborda cómo se detectan las ondas gravitacionales y cómo las colisiones de agujeros negros y estrellas de neutrones confirman las predicciones de la teoría de la relatividad.
 
-Rodrigo Cuzinatto aponta que toda a comunidade se beneficia com o desenvolvimento da economia movimentada para sustentar os laboratórios, o desenvolvimento de indústrias – de precisão e da engenharia de instrumentação, inclusive as brasileiras. Além disso, os estudantes podem se beneficiar com bolsas de estudo nas universidades envolvidas na colaboração LVK.
+Rodrigo Cuzinatto señala que toda la comunidad se beneficia de la actividad económica generada para sostener los laboratorios y del desarrollo de industrias – de precisión y de ingeniería de instrumentación, incluidas las brasileñas. Además, los estudiantes pueden beneficiarse con becas de estudio en las universidades que participan en la colaboración LVK.
 
 ![alt text](Observatorio-LIGO-1-768x576.jpg)
-Virgo é o nome do detector de ondas gravitacionais localizado na cidade de Pisa, na Itália. (Foto: Arquivo/Rodrigo Cuzinatto)
+Virgo es el nombre del detector de ondas gravitacionales ubicado en la ciudad de Pisa, en Italia. (Foto: Archivo/Rodrigo Cuzinatto)
 
-A expectativa dos autores é estimular mais estudantes interessados na física do espaço a direcionarem suas escolhas acadêmicas para o estudo de ondas gravitacionais.
+Los autores esperan estimular a más estudiantes interesados en la física del espacio a orientar sus decisiones académicas hacia el estudio de las ondas gravitacionales.
 
-“Os estudantes da UNIFAL-MG estão convidados a trabalhar na colaboração LVK através do grupo VirgoBR. Há oportunidades para IC [iniciação científica] e mestrado conosco; há também possibilidade de doutoramento nas demais instituições com período de experiência no exterior”, frisa o professor Rodrigo Cuzinatto.
+“Los estudiantes de la UNIFAL-MG están invitados a trabajar en la colaboración LVK a través del grupo VirgoBR. Hay oportunidades de IC [iniciación científica] y maestría con nosotros; también existe la posibilidad de hacer el doctorado en las demás instituciones, con un período de experiencia en el exterior”, subraya el profesor Rodrigo Cuzinatto.
 
 ![alt text](Rodrigo-Cuzinatto-no-laboratorio-LIGO-Virgo-Kagra-768x576.jpg)
-Rodrigo Cuzinatto integra o grupo de pesquisa do Observatório VirgoBR, vinculado à colaboração internacional LIGO-Virgo-Kagra (LVK). (Foto: Arquivo Pessoal)
+Rodrigo Cuzinatto integra el grupo de investigación del Observatorio VirgoBR, vinculado a la colaboración internacional LIGO-Virgo-Kagra (LVK). (Foto: Archivo Personal)
 
-O projeto foi financiado pelo [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br), por meio do Programa Institucional de Bolsas de Iniciação Científica (PIBIC) da UNIFAL-MG. O trabalho foi selecionado pela [Pró-Reitoria de Pesquisa e Pós-Graduação (PRPPG)](https://www.unifal-mg.edu.br/prppg/) para competir nacionalmente pelo prêmio CNPq de melhor iniciação científica em 2022.
+El proyecto fue financiado por el [Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br), a través del Programa Institucional de Becas de Iniciación Científica (PIBIC) de la UNIFAL-MG. El trabajo fue seleccionado por la [Prorrectoría de Investigación y Posgrado (PRPPG)](https://www.unifal-mg.edu.br/prppg/) para competir a nivel nacional por el premio CNPq a la mejor iniciación científica de 2022.
 
-Para informações adicionais sobre o grupo VirgoBR, [acesse aqui](https://www.instagram.com/virgobrasil/).
+Para más información sobre el grupo VirgoBR, [haz clic aquí](https://www.instagram.com/virgobrasil/).
 
-Para a leitura do artigo na íntegra, clique [neste link](https://www.scielo.br/j/rbef/a/Rk3M8xjnHxGZVjVZSjPbDkt/?lang=pt).
+Para leer el artículo completo, haz clic [en este enlace](https://www.scielo.br/j/rbef/a/Rk3M8xjnHxGZVjVZSjPbDkt/?lang=pt).
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Texto elaborado bajo la supervisión y orientación de Ana Carolina Araújo, periodista de la Universidad Federal de Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/estudo-usa-conceitos-de-fisica-basica-para-explicar-buracos-negros-e-ondas-gravitacionais/) para acessar o texto na íntegra.
+Visita la [página de la UNIFAL-MG](https://jornal.unifal-mg.edu.br/estudo-usa-conceitos-de-fisica-basica-para-explicar-buracos-negros-e-ondas-gravitacionais/) para acceder al texto original completo.

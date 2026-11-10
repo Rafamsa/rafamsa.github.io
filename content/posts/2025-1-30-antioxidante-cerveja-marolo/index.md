@@ -13,7 +13,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 +++
-Pesquisadores da UNIFAL-MG, vinculados ao projeto [Cerveja com Ciência](https://www.unifal-mg.edu.br/lme/cervejacomciencia/), produziram cerveja com marolo e testaram o seu potencial antioxidante utilizando diferentes concentrações da fruta. O resultado mostrou que a cerveja com marolo tem maior potencial oxidante e o sabor foi aprovado pelos avaliadores.
+Pesquisadores da UNIFAL-MG, vinculados ao projeto [Cerveja com Ciência](https://www.unifal-mg.edu.br/lme/cervejacomciencia/), produziram cerveja com marolo e testaram o seu potencial antioxidante utilizando diferentes concentrações da fruta. O resultado mostrou que a cerveja com marolo tem maior potencial antioxidante e o sabor foi aprovado pelos avaliadores.
 
 A pesquisa integra o projeto de iniciação científica realizado por Tallis Vinicius Araujo da Silva, discente do curso de Biotecnologia, sob orientação dos professores Gabriel Gerber Hornink, do Instituto de Ciências Biomédicas (ICB), e Bruno Martins Dala Paula, da Faculdade de Nutrição (FANUT), com auxílio de colegas graduandos dos cursos de Biotecnologia e de Ciências Biológicas.
 
@@ -42,7 +42,7 @@ A pesquisa recebeu apoio por meio do Programa Institucional de Bolsas de Inicia�
 
 O resumo do trabalho, apresentado durante o 10º Simpósio Integrado da UNIFAL-MG, pode ser [acessado neste no jornal da UNIFAL](https://jornal.unifal-mg.edu.br/wp-content/uploads/2025/01/Aumento-de-valor-agregado-da-cerveja-uso-de-insumos-inovadores-e-aumento-do-potencial-antioxidante.pdf).
 
-Acesse também informações sobre o projeto [“Ciência com Cerveja”](https://www.unifal-mg.edu.br/lme/cervejacomciencia/)
+Acesse também informações sobre o projeto [“Cerveja com Ciência”](https://www.unifal-mg.edu.br/lme/cervejacomciencia/)
 
 *Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
 

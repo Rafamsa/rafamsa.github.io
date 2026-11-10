@@ -1,79 +1,79 @@
 +++
-title = "Trecho Alfenas x Elói Mendes possui maior incidência de atropelamento de animais silvestres e domésticos da rodovia MG-491"
-subtitle = "Estudo realizado por pesquisadores da UNIFAL-MG identifica acidentes que prejudicam tanto a fauna local quanto a segurança dos viajantes"
+title = "El tramo Alfenas–Elói Mendes tiene la mayor incidencia de atropellamientos de animales silvestres y domésticos de la carretera MG-491"
+subtitle = "Estudio realizado por investigadores de la UNIFAL-MG identifica accidentes que perjudican tanto a la fauna local como a la seguridad de los viajeros"
 date = "2024-09-25"
 author = "Rafael Martins da Silva Afeto"
 cover = "danna-em-campo.jpg"
-coverCaption = "Danna Ferreira coletando os dados. (Foto: Arquivo Pessoal)"
-tags = ["Atropelamentos", "Ciência", "FAPEMIG", "Iniciação Científica", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Meio Ambiente"]
-keywords = ["atropelamento de animais silvestres", "rodovia MG-491", "fauna silvestre Alfenas", "hotspots atropelamento", "ecologia de estradas"]
-description = "Pesquisa da UNIFAL-MG mapeia os trechos com maior incidência de atropelamento de animais silvestres e domésticos na rodovia MG-491, entre Alfenas e Varginha."
+coverCaption = "Danna Ferreira recolectando los datos. (Foto: Archivo Personal)"
+tags = ["Atropellamientos", "Ciencia", "FAPEMIG", "Iniciación Científica", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Medio Ambiente"]
+keywords = ["atropellamiento de animales silvestres", "carretera MG-491", "fauna silvestre Alfenas", "hotspots de atropellamiento", "ecología de carreteras"]
+description = "Investigación de la UNIFAL-MG mapea los tramos con mayor incidencia de atropellamientos de animales silvestres y domésticos en la carretera MG-491, entre Alfenas y Varginha."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
-Uma pesquisa realizada pela recém-graduada em Ciências Biológicas pela UNIFAL-MG Danna Perondi Ferreira e orientada pela professora Érica Hasui (Instituto de Ciências da Natureza) foi responsável por indicar locais, na rodovia MG-491, com o maior índice de atropelamento de animais silvestres e domésticos, conhecidos como hotspots. Realizado entre outubro de 2023 e abril de 2024, o estudo também identificou os fatores que interferem no atropelamento.
+Una investigación realizada por Danna Perondi Ferreira, recién graduada en Ciencias Biológicas por la UNIFAL-MG, bajo la dirección de la profesora Érica Hasui (Instituto de Ciencias de la Naturaleza), permitió señalar los lugares de la carretera MG-491 con el mayor índice de atropellamientos de animales silvestres y domésticos, conocidos como hotspots. Realizado entre octubre de 2023 y abril de 2024, el estudio también identificó los factores que influyen en los atropellamientos.
 
-O trecho estudado se encontra entre as cidades mineiras de Alfenas e Varginha, no entanto, os locais com maior incidência de atropelamentos de animais silvestres foi entre os km 210 e 218, entre Paraguaçu e Elói Mendes. Já para os animais domésticos, o km 196, entre Alfenas e Paraguaçu, teve seu maior destaque.
+El tramo estudiado se encuentra entre las ciudades de Alfenas y Varginha, en el estado de Minas Gerais; sin embargo, los lugares con mayor incidencia de atropellamientos de animales silvestres estuvieron entre los km 210 y 218, entre Paraguaçu y Elói Mendes. En el caso de los animales domésticos, el km 196, entre Alfenas y Paraguaçu, fue el que más se destacó.
 
-Durante o período de realização do estudo, a pesquisadora fotografou animais atropelados para posterior análise e também anotou os padrões geográficos e do ambiente próximo aos animais encontrados.
+Durante el período del estudio, la investigadora fotografió animales atropellados para su posterior análisis y también registró los patrones geográficos y del entorno cercano a los animales encontrados.
 
-O local de escolha do estudo, atualmente está sob administração do grupo EPR Vias do Café e já é conhecido pela grande quantidade de atropelamentos de animais. A pesquisa mostra que estes acidentes prejudicam tanto a fauna local, com a morte destes animais, quanto a segurança dos viajantes.
+El tramo elegido para el estudio está actualmente bajo la administración del grupo EPR Vias do Café y ya es conocido por la gran cantidad de atropellamientos de animales. La investigación muestra que estos accidentes perjudican tanto a la fauna local, con la muerte de estos animales, como a la seguridad de los viajeros.
 
 {{< grid-gallery >}}
     {{< grid-item src="trecho-atropelamentos-800x528.jpg" >}}
     {{< grid-item src="trecho-atropelamentos1.jpg" >}}
 {{< /grid-gallery >}}
-Pontos de maior incidência de atropelamentos. (Imagens: Reprodução/TCC Danna Ferreira)
+Puntos con mayor incidencia de atropellamientos. (Imágenes: Reproducción/Trabajo de grado de Danna Ferreira)
 
-## Motivação para o tema de pesquisa
+## La motivación del tema de investigación
 
-Intitulado “Avaliação de hotspots de atropelamento de animais silvestres na rodovia MG-491”, o estudo é fruto do trabalho de conclusão de curso (TCC), vinculado ao projeto de iniciação científica “Biodiversidade e serviços associados: PELD Corredor Cantareira Mantiqueira”.
+Titulado "Evaluación de hotspots de atropellamiento de animales silvestres en la carretera MG-491", el estudio es fruto del trabajo de conclusión de carrera (TCC), vinculado al proyecto de iniciación científica "Biodiversidad y servicios asociados: PELD Corredor Cantareira Mantiqueira".
 
-A proposta do TCC veio a partir das viagens que a pesquisadora fazia entre Alfenas e sua cidade natal. “Eu sou de Três Corações e sempre que ia pra lá nos finais de semana eu via muitos animais atropelados, isso sempre me chateava e eu ficava me perguntando sobre o motivo de tantas ocorrências, e se havia algo que eu pudesse fazer. Procurei saber mais sobre o tema, encontrei vários artigos e conversei com a Érica [Hasui], minha orientadora, sugerindo o tema“, informa Danna Ferreira. “A partir daí, vimos a possibilidade de desenvolver essa pesquisa para entender melhor os padrões de atropelamento e a partir disso sugerir medidas que pudessem mudar essa realidade”, complementa.
+La propuesta del TCC surgió de los viajes que la investigadora hacía entre Alfenas y su ciudad natal. "Soy de Três Corações y siempre que iba para allá los fines de semana veía muchos animales atropellados. Eso siempre me molestaba y me preguntaba por qué había tantos casos y si había algo que yo pudiera hacer. Busqué más información sobre el tema, encontré varios artículos y hablé con Érica [Hasui], mi directora, sugiriéndole el tema", cuenta Danna Ferreira. "A partir de ahí, vimos la posibilidad de desarrollar esta investigación para entender mejor los patrones de atropellamiento y, con base en eso, sugerir medidas que pudieran cambiar esta realidad", añade.
 
-Para auxiliar na identificação dos animais encontrados, outros pesquisadores da UNIFAL-MG e da Universidade Federal de Lavras (UFLA) estiveram presentes na força-tarefa. Danna Ferreira conta que a família e seu namorado foram de grande ajuda para essa pesquisa acontecer. “Minha família e meu namorado se dispuseram na hora de fazer as coletas comigo, em especial meu pai, com quem fiz a maior parte da pesquisa”, compartilha.
+Para ayudar a identificar los animales encontrados, otros investigadores de la UNIFAL-MG y de la Universidad Federal de Lavras (UFLA) participaron en el trabajo. Danna Ferreira cuenta que su familia y su novio fueron de gran ayuda para que esta investigación se hiciera realidad. "Mi familia y mi novio se ofrecieron de inmediato a hacer las recolecciones conmigo, en especial mi papá, con quien hice la mayor parte de la investigación", comparte.
 
 ![alt text](A-pesquisadora-e-o-pai-em-campo.jpeg)
-Danna Ferreira acompanhada pelo pai Kerlei Ferreira durante a coleta de dados. (Foto: Arquivo Pessoal)
+Danna Ferreira acompañada por su padre, Kerlei Ferreira, durante la recolección de datos. (Foto: Archivo Personal)
 
-## Rodovias e a fragmentação de hábitat
+## Carreteras y fragmentación del hábitat
 
-No trabalho, a autora reforça que a expansão de pastagem, construção de indústrias ou abertura de novas rodovias impactam diretamente a cobertura vegetal e o uso dado para as porções de terra.
+En el trabajo, la autora subraya que la expansión de los pastizales, la construcción de industrias o la apertura de nuevas carreteras impactan directamente la cobertura vegetal y el uso que se le da a la tierra.
 
-De acordo com o estudo, o que é visto como progresso para os seres humanos pode significar destruição para a fauna e flora, já que a urbanização e construção de infraestruturas fragmentam os habitats naturais. Isso transforma áreas, antes contínuas, em porções menores e isoladas. Para a autora, o grande problema é que essa fragmentação dificulta o movimento dos animais entre essas áreas, devido à falta de conectividade entre os fragmentos. Além disso, conforme dados do Centro Brasileiro de Estudos em Ecologia de Estradas (CBEE) da Universidade Federal de Lavras, estima-se que cerca de 450 milhões de animais silvestres são atropelados todos os anos no Brasil, ameaçando gravemente a biodiversidade do país.
+Según el estudio, lo que se considera progreso para los seres humanos puede significar destrucción para la fauna y la flora, ya que la urbanización y la construcción de infraestructura fragmentan los hábitats naturales. Esto transforma áreas que antes eran continuas en porciones más pequeñas y aisladas. Para la autora, el gran problema es que esta fragmentación dificulta el movimiento de los animales entre esas áreas, debido a la falta de conectividad entre los fragmentos. Además, según datos del Centro Brasileño de Estudios en Ecología de Carreteras (CBEE) de la Universidad Federal de Lavras, se estima que cerca de 450 millones de animales silvestres son atropellados cada año en Brasil, lo que amenaza gravemente la biodiversidad del país.
 
-Danna Ferreira destaca que, após setembro de 2023, a rodovia MG-491, anteriormente sob administração estadual, foi concedida ao grupo EPR Vias do Café no programa de Concessões Rodoviárias do Governo de Minas Gerais. “A concessionária assumiu a responsabilidade pelo lote 3 – Varginha – Furnas, que inclui a MG 491”, explica a autora.A pesquisadora ressalta ainda que o contrato de concessão tem duração de 30 anos e prevê uma série de melhorias, como correções na pista, construção de praças de pedágio, limpeza das áreas laterais e revitalização da sinalização, tudo visando aumentar a segurança viária. “É importante considerar a segurança da fauna que habita a região e se movimenta na paisagem, já que é visível a alta incidência de atropelamentos de animais na rodovia”, alerta.
+Danna Ferreira destaca que, después de septiembre de 2023, la carretera MG-491, antes bajo administración estatal, fue concesionada al grupo EPR Vias do Café dentro del programa de Concesiones Viales del Gobierno de Minas Gerais. "La concesionaria asumió la responsabilidad del lote 3 – Varginha – Furnas, que incluye la MG 491", explica la autora. La investigadora señala además que el contrato de concesión tiene una duración de 30 años y prevé una serie de mejoras, como reparaciones de la vía, construcción de casetas de peaje, limpieza de las áreas laterales y renovación de la señalización, todo con el fin de aumentar la seguridad vial. "Es importante tener en cuenta la seguridad de la fauna que habita la región y se desplaza por el paisaje, ya que es evidente la alta incidencia de atropellamientos de animales en la carretera", advierte.
 ![alt text](Divulgacao-EPR-vias-do-Cafe-Semana.jpg)
-(Divulgação: EPR Vias do Café)
+(Divulgación: EPR Vias do Café)
 
-## Quais foram as vítimas?
+## ¿Cuáles fueron las víctimas?
 
-Durante o período de coleta, a pesquisadora encontrou 189 animais atropelados, sendo eles, silvestres e domésticos. Dos animais silvestres, a maioria encontrada foi de mamíferos, como capivaras, ouriços-cacheiro, gambás e tatus. Também foi encontrado, em menor proporção, tapitis, um mamífero que se encontra em perigo de extinção.
+Durante el período de recolección, la investigadora encontró 189 animales atropellados, tanto silvestres como domésticos. Entre los animales silvestres, la mayoría fueron mamíferos, como capibaras, puercoespines, zarigüeyas y armadillos. También se encontraron, en menor proporción, tapitis (conejos silvestres sudamericanos), un mamífero que está en peligro de extinción.
 
-Algumas aves, como os canários-da-terra e urubus-de-cabeça-preta também foram bastante encontrados. Com relação aos répteis, teiús (lagartos) também foram vistos atropelados. De anfíbios, não foi possível identificar as espécies.
+Algunas aves, como el chirigüe azafranado y el zopilote negro, también se encontraron con frecuencia. En cuanto a los reptiles, también se vieron lagartos overos (teiús) atropellados. En el caso de los anfibios, no fue posible identificar las especies.
 
-Segundo o estudo, as espécies mais abundantes localmente e/ou generalistas (capazes de sobreviver em diversas condições e se alimentar de diversas fontes de alimento), são as espécies que apresentam maior movimentação entre os fragmentos e rodovias, por isso, tendem a ser os mais atingidos.
+Según el estudio, las especies más abundantes localmente y/o generalistas (capaces de sobrevivir en diversas condiciones y de alimentarse de diversas fuentes) son las que presentan mayor movimiento entre los fragmentos y las carreteras, por lo que tienden a ser las más afectadas.
 
-Vale também para espécies noturnas, como os gambás, que podem ser vítimas pelo fato de a visibilidade do motorista à noite ser reduzida e os faróis desnortearem os animais.
+Lo mismo vale para las especies nocturnas, como las zarigüeyas, que pueden ser víctimas porque la visibilidad del conductor se reduce de noche y los faros desorientan a los animales.
 
-Danna Ferreira cita, ainda, as espécies necrófagas, ou seja, que se alimentam de animais mortos, como urubus, que sofrem por serem atraídas por carcaças nas rodovias, aumentando a chance de serem vítimas.
+Danna Ferreira menciona además a las especies necrófagas, es decir, que se alimentan de animales muertos, como los zopilotes, que sufren porque son atraídas por los cadáveres en las carreteras, lo que aumenta la probabilidad de convertirse en víctimas.
 
-Cães e gatos foram comumente vistos, atropelados em rodovias longe de zonas urbanas. Por serem animais domésticos, alguns fatores como a presença de roças e sítios próximos às estradas, oferta de alimento, como carniça e lixo e o abandono destes animais, estão diretamente relacionados com os atropelamentos deles.
+Perros y gatos fueron vistos con frecuencia atropellados en carreteras alejadas de las zonas urbanas. Por tratarse de animales domésticos, factores como la presencia de cultivos y pequeñas fincas cerca de las carreteras, la oferta de alimento, como carroña y basura, y el abandono de estos animales están directamente relacionados con sus atropellamientos.
 
-## O ambiente influencia?
+## ¿Influye el entorno?
 
-Danna Ferreira nos mostra, em seu estudo, que o ambiente é um fator crucial para a definição dos hotspots, ou locais críticos, já que ambientes mais preservados, como próximos a áreas de vegetação florestal natural, costumam ter mais atropelamentos. Enquanto que, locais próximos a ambientes degradados, como plantações florestais, ou distantes de algum recurso hídrico, os atropelamentos diminuem. Como enfatiza a autora, isso se relaciona com a diminuição de recursos, já que, com essas plantações, como as de eucalipto, comuns na região, há um empobrecimento do solo e de recursos hídricos, o que não é atrativo para animais, tendo menos biodiversidade e, consequentemente, menos atropelamentos.
+Danna Ferreira muestra, en su estudio, que el entorno es un factor crucial para definir los hotspots, o puntos críticos, ya que los ambientes más preservados, como los cercanos a áreas de vegetación forestal natural, suelen tener más atropellamientos. En cambio, en lugares cercanos a ambientes degradados, como plantaciones forestales, o alejados de alguna fuente de agua, los atropellamientos disminuyen. Como enfatiza la autora, esto se relaciona con la disminución de recursos, ya que con estas plantaciones, como las de eucalipto, comunes en la región, se empobrecen el suelo y los recursos hídricos, lo cual no resulta atractivo para los animales; hay menos biodiversidad y, en consecuencia, menos atropellamientos.
 
-## Desdobramentos do estudo
+## Repercusiones del estudio
 
-Os dados do estudo apontam para a necessidade de pensar em medidas mitigadoras. No início de 2023, Guilherme Abraão, ambientalista e sociólogo, encaminhou ao Ministério Público uma proposta de medidas de preservação de fauna no edital de concessão de rodovias, o que inclui o trecho estudado. No entanto, essas medidas não chegaram até agora.
+Los datos del estudio apuntan a la necesidad de pensar en medidas de mitigación. A inicios de 2023, Guilherme Abraão, ambientalista y sociólogo, presentó ante el Ministerio Público una propuesta de medidas de preservación de la fauna en el pliego de concesión de carreteras, que incluye el tramo estudiado. Sin embargo, hasta ahora esas medidas no se han concretado.
 
-“Eu não via medidas mitigadoras para atropelamento de animais nessa rodovia nem antes de iniciar a pesquisa”, informou Danna Ferreira. “[o grupo EPR Vias do Café] iniciou diversas obras ao longo da pista, mas ainda não vejo medidas voltadas para redução de atropelamento”, argumenta.
+"Yo no veía medidas de mitigación para el atropellamiento de animales en esta carretera ni siquiera antes de iniciar la investigación", afirmó Danna Ferreira. "[El grupo EPR Vias do Café] inició diversas obras a lo largo de la vía, pero todavía no veo medidas orientadas a reducir los atropellamientos", argumenta.
 
-Segundo a autora e outros estudos sobre o tema, medidas como pontes para travessia de animais, radares em pontos estratégicos, cercas laterais, entre outras, auxiliariam na redução de atropelamentos. “São importantes para, além de evitar que animais morram atropelados, permitir que tanto eles como os seres humanos se movimentem com segurança, já que esses acidentes também são um risco para nós.”
+Según la autora y otros estudios sobre el tema, medidas como puentes para el paso de fauna, radares en puntos estratégicos y cercas laterales, entre otras, ayudarían a reducir los atropellamientos. "Son importantes no solo para evitar que los animales mueran atropellados, sino también para permitir que tanto ellos como los seres humanos se desplacen con seguridad, ya que estos accidentes también son un riesgo para nosotros."
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Texto elaborado bajo la supervisión y orientación de Ana Carolina Araújo, periodista de la Universidad Federal de Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/trecho-alfenas-x-paraguacu-possui-maior-incidencia-de-atropelamento-de-animais-silvestres-e-domesticos-da-rodovia-mg-491/) para acessar o texto na íntegra.
+Visita la [página de la UNIFAL-MG](https://jornal.unifal-mg.edu.br/trecho-alfenas-x-paraguacu-possui-maior-incidencia-de-atropelamento-de-animais-silvestres-e-domesticos-da-rodovia-mg-491/) para leer el texto completo (en portugués).

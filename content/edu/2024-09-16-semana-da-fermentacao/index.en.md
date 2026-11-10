@@ -1,22 +1,22 @@
 +++
 date = '2024-09-16'
 draft = false
-title = '1ª Semana Da Fermentacao - UNIFAL-MG'
+title = '1st Fermentation Week - UNIFAL-MG'
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Fermentação", "Cerveja", "Ciência da Cerveja", "Microrganismos", "UNIFAL-MG"]
-categories = ["Material Educativo"]
-keywords = ["semana da fermentação UNIFAL", "como microrganismos fermentam", "fermentação biotecnologia", "evento fermentação universidade", "infográfico fermentação"]
-description = "Material da 1ª Semana da Fermentação da UNIFAL-MG: banner e infográfico sobre como os microrganismos fermentam, com foco em processos biológicos e aplicações."
+tags = ["Fermentation", "Beer", "Beer Science", "Microorganisms", "UNIFAL-MG"]
+categories = ["Educational Material"]
+keywords = ["fermentation week UNIFAL", "how microorganisms ferment", "fermentation biotechnology", "university fermentation event", "fermentation infographic"]
+description = "Material from UNIFAL-MG's 1st Fermentation Week: a banner and an infographic on how microorganisms ferment, focusing on biological processes and applications."
 +++
-A 1ª Semana da Fermentação da UNIFAL-MG foi um evento dedicado a explorar o fascinante mundo da fermentação, destacando sua importância histórica, científica e cultural. O evento contou com palestras e atividades interativas que abordaram diversos aspectos da fermentação, desde os processos biológicos envolvidos até suas aplicações na produção de alimentos, bebidas e biotecnologia.
+UNIFAL-MG's 1st Fermentation Week was an event dedicated to exploring the fascinating world of fermentation, highlighting its historical, scientific and cultural importance. The event featured talks and interactive activities covering many aspects of fermentation, from the biological processes involved to its applications in the production of food, beverages and biotechnology.
 
-Sob orientação do professor Gabriel Hornink, do Instituto de Ciências Biológicas (ICB) da UNIFAL-MG, e do técnico Gustavo Silveira, eu e minha dupla, Bianca Soares, realizamos um banner sobre como os microorganismos funcionam ([acesse o banner completo aqui](https://www.researchgate.net/publication/384011832_Como_os_microrganismos_fermentam_painel)) e um infográfico de mesmo tema ([acesse o infográfico completo aqui](https://www.researchgate.net/publication/384011528_Como_os_microrganismos_fermentam_infografico)).
+Under the supervision of professor Gabriel Hornink, from the Institute of Biological Sciences (ICB) at UNIFAL-MG, and technician Gustavo Silveira, my partner Bianca Soares and I made a banner about how microorganisms work ([see the full banner here](https://www.researchgate.net/publication/384011832_Como_os_microrganismos_fermentam_painel)) and an infographic on the same topic ([see the full infographic here](https://www.researchgate.net/publication/384011528_Como_os_microrganismos_fermentam_infografico)).
 
-### Banner: Como os microrganismos fermentam?
+### Banner: How do microorganisms ferment?
 
 ![alt text](painel_fermentados.pdf.png)
 
-### Infográfico: Como os microrganismos fermentam?
+### Infographic: How do microorganisms ferment?
 
 ![alt text](infografico_semana_fermentacao.pdf.png)

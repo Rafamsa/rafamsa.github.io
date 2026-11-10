@@ -1,25 +1,25 @@
 +++
-title = "Tecido Cartilaginoso"
+title = "Cartilage Tissue"
 date = "2022-06-17"
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Histologia", "Atlas Histológico","Tecido Cartilaginoso", "Desenho Científico", "UNIFAL-MG"]
-categories = ["Material Educativo"]
-keywords = ["tecido cartilaginoso histologia", "cartilagem hialina elástica fibrosa", "o que é tecido cartilaginoso", "traqueia cartilagem", "atlas tecido cartilaginoso"]
-description = "Tipos de tecido cartilaginoso: hialino, elástico e fibroso, com ilustrações da traqueia e discos intervertebrais. Atlas de Histologia da UNIFAL-MG."
+tags = ["Histology", "Histology Atlas","Cartilage Tissue", "Scientific Illustration", "UNIFAL-MG"]
+categories = ["Educational Material"]
+keywords = ["cartilage tissue histology", "hyaline elastic fibrous cartilage", "what is cartilage tissue", "tracheal cartilage", "cartilage tissue atlas"]
+description = "Types of cartilage tissue: hyaline, elastic and fibrous, with illustrations of the trachea and intervertebral discs. UNIFAL-MG Histology Atlas."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-O tecido cartilaginoso é um conjuntivo avascular que suporta tecidos moles e absorve impactos, dividindo-se em: hialina (colágeno II, comum em articulações e esqueleto embrionário), elástica (flexibilidade para orelha e epiglote) e fibrosa (colágeno I, resistente a tensões). Enquanto as duas primeiras possuem pericôndrio, a fibrocartilagem é nutrida por difusão ou líquido sinovial ([acesse o Atlas para mais informações](https://www.unifal-mg.edu.br/histologiainterativa/tecido-cartilaginoso/)).
+Cartilage tissue is an avascular connective tissue that supports soft tissues and absorbs impacts, and it is divided into: hyaline cartilage (type II collagen, common in joints and in the embryonic skeleton), elastic cartilage (flexibility for the ear and epiglottis) and fibrocartilage (type I collagen, resistant to tension). While the first two have a perichondrium, fibrocartilage is nourished by diffusion or by synovial fluid ([visit the Atlas for more information](https://www.unifal-mg.edu.br/histologiainterativa/tecido-cartilaginoso/)).
 
-### Traqueia
+### Trachea
 
-A traqueia é composta por tecido cartilaginoso hialino. Esse tecido forma os anéis cartilaginosos que mantêm a traqueia aberta, permitindo a passagem do ar. Essas estruturas são incompletas na parte posterior, onde a traqueia é flexível para acomodar o esôfago durante a deglutição. O tecido cartilaginoso hialino é caracterizado por uma matriz extracelular homogênea e rica em colágeno tipo II, conferindo resistência e suporte estrutural à traqueia.
+The trachea is made up of hyaline cartilage tissue. This tissue forms the cartilaginous rings that keep the trachea open, allowing air to pass through. These structures are incomplete at the back, where the trachea is flexible to accommodate the esophagus during swallowing. Hyaline cartilage tissue is characterized by a homogeneous extracellular matrix rich in type II collagen, which gives the trachea strength and structural support.
 ![alt text](traqueia-cartilagem-hialina.png)
 
-### Discos intervertebrais
+### Intervertebral discs
 
-Os discos intervertebrais são compostos por tecido cartilaginoso fibroso. Eles estão localizados entre as vértebras da coluna vertebral e atuam como amortecedores, absorvendo impactos e permitindo a flexibilidade da coluna. O tecido cartilaginoso fibroso é caracterizado por uma matriz extracelular densa e rica em colágeno tipo I, conferindo resistência à tração e suporte estrutural aos discos intervertebrais.
+The intervertebral discs are made up of fibrocartilage. They are located between the vertebrae of the spine and act as shock absorbers, absorbing impacts and allowing the spine to flex. Fibrocartilage is characterized by a dense extracellular matrix rich in type I collagen, which gives the intervertebral discs tensile strength and structural support.
 ![alt text](disco-intervertebral.png)

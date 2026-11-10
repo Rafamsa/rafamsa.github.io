@@ -21,7 +21,7 @@ O esôfago conta com um tecido epitelial de revestimento estratificado pavimento
 
 ### Intestino delgado
 
-O intestino delgado é revestido por um tecido epitelial de revestimento simples cilindrico, especializado para absorção de nutrientes. Ele é composto por uma única camada de células colunares, que possuem microvilosidades na superfície apical para aumentar a área de absorção. Esse tecido também contêm células calciformes (glândulas secretoras) que produzem muco para proteger o epitélio e facilitar a passagem do conteúdo intestinal.
+O intestino delgado é revestido por um tecido epitelial de revestimento simples cilíndrico, especializado para absorção de nutrientes. Ele é composto por uma única camada de células colunares, que possuem microvilosidades na superfície apical para aumentar a área de absorção. Esse tecido também contém células caliciformes (glândulas secretoras) que produzem muco para proteger o epitélio e facilitar a passagem do conteúdo intestinal.
 ![alt text](intestino-delgado-tecido-epitelial.png)
 
 ### Pele espessa

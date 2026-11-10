@@ -1,53 +1,53 @@
 +++
-title = "Pesquisa desenvolve técnica de alta precisão para produção de nanopartículas de ouro com potencial aplicação em saúde, tecnologia e meio ambiente"
-subtitle = "Método desenvolvido no doutorado em Ciência e Engenharia de Materiais da UNIFAL-MG utiliza laser ultravioleta para controlar tamanho e formato das partículas"
+title = "Research develops high-precision technique for producing gold nanoparticles with potential applications in health, technology and the environment"
+subtitle = "Method developed in the doctoral program in Materials Science and Engineering at UNIFAL-MG uses an ultraviolet laser to control the size and shape of the particles"
 date = "2026-01-19"
 author = "Rafael Martins da Silva Afeto"
 cover = "Capa_materia_tecnica-de-alta-precisao-para-producao-de-nanoparticulas-de-ouro.jpg"
-coverCaption = "Processo utilizado na pesquisa é conhecido como “escrita direta a laser” e consiste na aplicação de um laser ultravioleta sobre um filme fino de polimetilmetacrilato (PMMA) - um tipo de plástico transparente que contém um composto chamado sal de ouro. (Foto: Arquivo/Richard Pereira)"
-tags = ["Nanopartículas", "Pesquisa", "Programa de Pós-Graduação em Ciência e Engenharia de Materiais", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Tecnologia"]
-keywords = ["nanopartículas de ouro", "escrita direta a laser", "nanomateriais saúde", "PMMA nanopartículas", "pesquisa engenharia de materiais UNIFAL"]
-description = "Pesquisa da UNIFAL-MG apresenta método de escrita direta a laser para produzir nanopartículas de ouro com controle preciso, com aplicações em saúde e tecnologia."
+coverCaption = "The process used in the research is known as “direct laser writing” and consists of applying an ultraviolet laser to a thin film of polymethyl methacrylate (PMMA) - a type of transparent plastic that contains a compound called gold salt. (Photo: Archive/Richard Pereira)"
+tags = ["Nanoparticles", "Research", "Graduate Program in Materials Science and Engineering", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Technology"]
+keywords = ["gold nanoparticles", "direct laser writing", "nanomaterials health", "PMMA nanoparticles", "materials engineering research UNIFAL"]
+description = "Research at UNIFAL-MG presents a direct laser writing method to produce gold nanoparticles with precise control, with applications in health and technology."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
-Uma pesquisa realizada no [Laboratório de Espectroscopia Óptica e Fotônica (LEOF)](https://www.unifal-mg.edu.br/ppgf/laboratorio-de-espectroscopia-optica-e-fotonica/) da UNIFAL-MG, no campus de Poços de Caldas, apresenta um novo método para a fabricação de nanopartículas de ouro com controle preciso de tamanho, forma, densidade e concentração. O estudo é parte do doutorado de Richard Silveira Pereira, desenvolvido sob orientação do professor Marcelo Gonçalves Vivas, junto ao [Programa de Pós-Graduação em Ciência e Engenharia de Materiais](https://www.unifal-mg.edu.br/ppgcem/), e abre caminho para aplicações em áreas como diagnóstico de doenças, desenvolvimento de sensores e tecnologias ópticas avançadas.
+A study carried out at the [Optical Spectroscopy and Photonics Laboratory (LEOF)](https://www.unifal-mg.edu.br/ppgf/laboratorio-de-espectroscopia-optica-e-fotonica/) of UNIFAL-MG, on the Poços de Caldas campus, presents a new method for manufacturing gold nanoparticles with precise control over size, shape, density and concentration. The study is part of Richard Silveira Pereira's doctorate, developed under the supervision of professor Marcelo Gonçalves Vivas in the [Graduate Program in Materials Science and Engineering](https://www.unifal-mg.edu.br/ppgcem/), and paves the way for applications in areas such as disease diagnosis, sensor development and advanced optical technologies.
 
-O processo utilizado na pesquisa é conhecido como “escrita direta a laser” e consiste na aplicação de um laser ultravioleta sobre um filme fino de polimetilmetacrilato (PMMA) – um tipo de plástico transparente que contém um composto chamado sal de ouro. Ao variar a potência do laser e a velocidade com que ele percorre o material, o grupo descobriu que era possível moldar com alto controle as nanopartículas de ouro.
+The process used in the research is known as “direct laser writing” and consists of applying an ultraviolet laser to a thin film of polymethyl methacrylate (PMMA) – a type of transparent plastic that contains a compound called gold salt. By varying the laser power and the speed at which it sweeps across the material, the group found that it was possible to shape the gold nanoparticles with a high degree of control.
 
 ![alt text](01-Filme-PMMA-NPs-de-ouro-Rafael-Martins-da-Silva-Afeto-768x767.jpg)
-Filme de polimetilmetacrilato (PMMA) + nanopartículas de ouro. (Imagem: Reprodução/Pesquisa)
+Polymethyl methacrylate (PMMA) film + gold nanoparticles. (Image: Reproduction/Research)
 
-Esse filme fino de polimetilmetacrilato foi escolhido por apresentar vantagens como transparência, facilidade de manuseio, resistência e estabilidade frente a variações de temperatura e umidade. Segundo o pesquisador, a alta energia do laser leva o material a um estado ionizado (o quarto estado da matéria), o que permite formar nanopartículas de ouro extremamente pequenas −100 mil vezes menores que a largura de um fio de cabelo com a aglomeração de átomos do metal.
+This thin polymethyl methacrylate film was chosen because of advantages such as transparency, ease of handling, durability and stability under variations in temperature and humidity. According to the researcher, the laser's high energy drives the material into an ionized state (the fourth state of matter), which makes it possible to form extremely small gold nanoparticles −100,000 times smaller than the width of a strand of hair through the clustering of metal atoms.
 
-Após a produção, as nanopartículas foram analisadas por meio de simulações computacionais baseadas no chamado efeito plasmônico, que ocorre quando a luz interage com partículas metálicas em escala nanométrica.
+After production, the nanoparticles were analyzed through computer simulations based on the so-called plasmonic effect, which occurs when light interacts with metal particles at the nanometer scale.
 
-Para explicar o fenômeno, o pesquisador utiliza uma analogia simples: “Imagine uma multidão em um show: quando a banda começa a tocar, o público passa a pular e se mover no mesmo ritmo da música”, explica. Da mesma forma, a luz (a música) faz os elétrons livres na superfície da nanopartícula de ouro (a multidão) vibrarem em um ritmo sincronizado e coletivo.
+To explain the phenomenon, the researcher uses a simple analogy: “Imagine a crowd at a concert: when the band starts playing, the audience starts jumping and moving to the same rhythm as the music,” he explains. In the same way, light (the music) makes the free electrons on the surface of the gold nanoparticle (the crowd) vibrate in a synchronized, collective rhythm.
 
-Segundo o acadêmico, os estudos em nanopartículas são recentes, mas já demonstram um grande impacto na sociedade. “Há pesquisas com nanopartículas aplicadas ao combate ao câncer e ao diagnóstico precoce do Alzheimer”, afirma. “No campo dos materiais plasmônicos, destacam-se aplicações no desenvolvimento de displays de altíssima resolução e sensores capazes de detectar vírus, bactérias e até poluentes em água de maneira rápida e eficiente”, acrescenta.
+According to the researcher, studies on nanoparticles are recent, but they already show a major impact on society. “There is research with nanoparticles applied to fighting cancer and to the early diagnosis of Alzheimer's,” he says. “In the field of plasmonic materials, notable applications include the development of ultra-high-resolution displays and sensors capable of detecting viruses, bacteria and even pollutants in water quickly and efficiently,” he adds.
 
-A combinação de um método de fabricação preciso com técnicas de leitura óptica rápidas e não destrutivas representa para Richard Pereira uma ferramenta promissora para o avanço científico e tecnológico. O grupo pretende, nos próximos passos, aplicar a mesma técnica a outros materiais, como nanopartículas de prata, além de explorar novas matrizes poliméricas e aplicações no desenvolvimento de sensores.
+For Richard Pereira, the combination of a precise manufacturing method with fast, non-destructive optical readout techniques represents a promising tool for scientific and technological advancement. As next steps, the group intends to apply the same technique to other materials, such as silver nanoparticles, as well as to explore new polymer matrices and applications in sensor development.
 
-O trabalho conta com financiamento da [Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)](https://www.gov.br/capes/pt-br), do [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)](https://www.gov.br/cnpq/pt-br) e da [Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG)](https://fapemig.br/)
+The work is funded by the [Coordination for the Improvement of Higher Education Personnel (CAPES)](https://www.gov.br/capes/pt-br), the [National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br) and the [Minas Gerais State Research Support Foundation (FAPEMIG)](https://fapemig.br/)
 
-Os resultados foram publicados em artigo científico assinado por Richard Silveira Pereira e Marcelo Gonçalves Vivas, com a participação dos pesquisadores Diego Lourençoni Ferreira e Gabriel Ferrari de Oliveira, do Laboratório de Espectroscopia Óptica e Fotônica (LEOF) da UNIFAL-MG, em parceria com colaboradores do Instituto de Física de São Carlos: Gabriele C. Felipe de Paula, André Luís dos Santos Romero e Cleber Renato Mendonça.
+The results were published in a scientific article authored by Richard Silveira Pereira and Marcelo Gonçalves Vivas, with the participation of researchers Diego Lourençoni Ferreira and Gabriel Ferrari de Oliveira, from the Optical Spectroscopy and Photonics Laboratory (LEOF) of UNIFAL-MG, in partnership with collaborators from the São Carlos Institute of Physics: Gabriele C. Felipe de Paula, André Luís dos Santos Romero and Cleber Renato Mendonça.
 
 {{< grid-gallery >}}
-  {{< grid-item src="Richard-Silveira-Pereira.jpg" alt="Richard Silveira Pereira – autor do estudo/doutorando em Ciência e Engenharia de Materiais" >}}
-  {{< grid-item src="Marcelo-Goncalves-Vivas.jpg" alt="Marcelo Gonçalves Vivas – orientador do estudo/professor da UNIFAL-MG" >}}
-  {{< grid-item src="Diego-Lourenconi-Ferreira.jpg" alt="Diego Lourençoni Ferreira – pesquisador do LEOF" >}}
-  {{< grid-item src="Gabriel-Ferrari-de-Oliveira.jpg" alt="Gabriel Ferrari de Oliveira – pesquisador do LEOF" >}}
-  {{< grid-item src="Gabriele-C.-Felipe-de-Paula.jpg" alt="Gabriele C. Felipe de Paula – pesquisadora do IFSC" >}}
-  {{< grid-item src="Andre-Luis-dos-Santos-Romero.jpg" alt="André Luís dos Santos Romero – pesquisador do IFSC" >}}
-  {{< grid-item src="Cleber-Renato-Mendonca.jpg" alt="Cleber Renato Mendonça – pesquisador do IFSC" >}}
+  {{< grid-item src="Richard-Silveira-Pereira.jpg" alt="Richard Silveira Pereira – author of the study/doctoral student in Materials Science and Engineering" >}}
+  {{< grid-item src="Marcelo-Goncalves-Vivas.jpg" alt="Marcelo Gonçalves Vivas – study supervisor/professor at UNIFAL-MG" >}}
+  {{< grid-item src="Diego-Lourenconi-Ferreira.jpg" alt="Diego Lourençoni Ferreira – LEOF researcher" >}}
+  {{< grid-item src="Gabriel-Ferrari-de-Oliveira.jpg" alt="Gabriel Ferrari de Oliveira – LEOF researcher" >}}
+  {{< grid-item src="Gabriele-C.-Felipe-de-Paula.jpg" alt="Gabriele C. Felipe de Paula – IFSC researcher" >}}
+  {{< grid-item src="Andre-Luis-dos-Santos-Romero.jpg" alt="André Luís dos Santos Romero – IFSC researcher" >}}
+  {{< grid-item src="Cleber-Renato-Mendonca.jpg" alt="Cleber Renato Mendonça – IFSC researcher" >}}
 {{< /grid-gallery >}}
 
-Confira o artigo completo no site da revista científica ACS Applied Nano Materials, [neste link](https://pubs.acs.org/doi/10.1021/acsanm.5c00832).
+Read the full article on the website of the scientific journal ACS Applied Nano Materials, [at this link](https://pubs.acs.org/doi/10.1021/acsanm.5c00832).
 
-Conheça o Laboratório de Espectroscopia Óptica e Fotônica [aqui](https://www.unifal-mg.edu.br/ppgf/laboratorio-de-espectroscopia-optica-e-fotonica/).
+Learn more about the Optical Spectroscopy and Photonics Laboratory [here](https://www.unifal-mg.edu.br/ppgf/laboratorio-de-espectroscopia-optica-e-fotonica/).
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Text written under the supervision and guidance of Ana Carolina Araújo, journalist at the Federal University of Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/pesquisa-desenvolve-tecnica-de-alta-precisao-para-producao-de-nanoparticulas-de-ouro-com-potencial-aplicacao-em-saude-tecnologia-e-meio-ambiente/) para acessar o texto na íntegra.
+Visit the [UNIFAL-MG page](https://jornal.unifal-mg.edu.br/pesquisa-desenvolve-tecnica-de-alta-precisao-para-producao-de-nanoparticulas-de-ouro-com-potencial-aplicacao-em-saude-tecnologia-e-meio-ambiente/) to read the full original text.

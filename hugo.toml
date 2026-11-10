@@ -80,6 +80,21 @@ weight = 2
 title = 'Rafael Martins'
 fallback = ['pt-br']
 
+[languages.en.params]
+description = "A blog about science, education, art and culture."
+readMore = "Read more"
+newerPosts = "Newer articles"
+olderPosts = "Older articles"
+subtitle = "Science communication, education, art and culture blog by Rafael Martins — UNIFAL-MG"
+keywords = [
+    "science communication",
+    "science",
+    "education",
+    "UNIFAL-MG",
+    "academic research",
+    "art and culture",
+]
+
 [[languages.en.menus.main]]
 name = "Articles"
 url = "/en/posts/"
@@ -117,6 +132,21 @@ locale = 'es-ES'
 weight = 3
 title = 'Rafael Martins'
 fallback = ['pt-br']
+
+[languages.es.params]
+description = "Un blog sobre ciencia, educación, arte y cultura."
+readMore = "Leer más"
+newerPosts = "Artículos más recientes"
+olderPosts = "Artículos más antiguos"
+subtitle = "Blog de divulgación científica, educación, arte y cultura de Rafael Martins — UNIFAL-MG"
+keywords = [
+    "divulgación científica",
+    "ciencia",
+    "educación",
+    "UNIFAL-MG",
+    "investigación académica",
+    "arte y cultura",
+]
 
 [[languages.es.menus.main]]
 name = "Artículos"

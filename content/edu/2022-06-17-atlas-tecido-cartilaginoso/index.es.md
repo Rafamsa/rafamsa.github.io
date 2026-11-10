@@ -1,25 +1,25 @@
 +++
-title = "Tecido Cartilaginoso"
+title = "Tejido Cartilaginoso"
 date = "2022-06-17"
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Histologia", "Atlas Histológico","Tecido Cartilaginoso", "Desenho Científico", "UNIFAL-MG"]
+tags = ["Histología", "Atlas Histológico","Tejido Cartilaginoso", "Ilustración Científica", "UNIFAL-MG"]
 categories = ["Material Educativo"]
-keywords = ["tecido cartilaginoso histologia", "cartilagem hialina elástica fibrosa", "o que é tecido cartilaginoso", "traqueia cartilagem", "atlas tecido cartilaginoso"]
-description = "Tipos de tecido cartilaginoso: hialino, elástico e fibroso, com ilustrações da traqueia e discos intervertebrais. Atlas de Histologia da UNIFAL-MG."
+keywords = ["tejido cartilaginoso histología", "cartílago hialino elástico fibroso", "qué es el tejido cartilaginoso", "cartílago de la tráquea", "atlas tejido cartilaginoso"]
+description = "Tipos de tejido cartilaginoso: hialino, elástico y fibroso, con ilustraciones de la tráquea y los discos intervertebrales. Atlas de Histología de la UNIFAL-MG."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-O tecido cartilaginoso é um conjuntivo avascular que suporta tecidos moles e absorve impactos, dividindo-se em: hialina (colágeno II, comum em articulações e esqueleto embrionário), elástica (flexibilidade para orelha e epiglote) e fibrosa (colágeno I, resistente a tensões). Enquanto as duas primeiras possuem pericôndrio, a fibrocartilagem é nutrida por difusão ou líquido sinovial ([acesse o Atlas para mais informações](https://www.unifal-mg.edu.br/histologiainterativa/tecido-cartilaginoso/)).
+El tejido cartilaginoso es un tejido conectivo avascular que sostiene los tejidos blandos y absorbe impactos, y se divide en: hialino (colágeno tipo II, común en las articulaciones y en el esqueleto embrionario), elástico (flexibilidad para la oreja y la epiglotis) y fibroso (colágeno tipo I, resistente a las tensiones). Mientras que los dos primeros tienen pericondrio, el fibrocartílago se nutre por difusión o por el líquido sinovial ([visita el Atlas para más información](https://www.unifal-mg.edu.br/histologiainterativa/tecido-cartilaginoso/)).
 
-### Traqueia
+### Tráquea
 
-A traqueia é composta por tecido cartilaginoso hialino. Esse tecido forma os anéis cartilaginosos que mantêm a traqueia aberta, permitindo a passagem do ar. Essas estruturas são incompletas na parte posterior, onde a traqueia é flexível para acomodar o esôfago durante a deglutição. O tecido cartilaginoso hialino é caracterizado por uma matriz extracelular homogênea e rica em colágeno tipo II, conferindo resistência e suporte estrutural à traqueia.
+La tráquea está compuesta por tejido cartilaginoso hialino. Este tejido forma los anillos cartilaginosos que mantienen la tráquea abierta y permiten el paso del aire. Estas estructuras son incompletas en la parte posterior, donde la tráquea es flexible para acomodar el esófago durante la deglución. El tejido cartilaginoso hialino se caracteriza por una matriz extracelular homogénea y rica en colágeno tipo II, que confiere resistencia y soporte estructural a la tráquea.
 ![alt text](traqueia-cartilagem-hialina.png)
 
-### Discos intervertebrais
+### Discos intervertebrales
 
-Os discos intervertebrais são compostos por tecido cartilaginoso fibroso. Eles estão localizados entre as vértebras da coluna vertebral e atuam como amortecedores, absorvendo impactos e permitindo a flexibilidade da coluna. O tecido cartilaginoso fibroso é caracterizado por uma matriz extracelular densa e rica em colágeno tipo I, conferindo resistência à tração e suporte estrutural aos discos intervertebrais.
+Los discos intervertebrales están compuestos por tejido cartilaginoso fibroso. Se ubican entre las vértebras de la columna vertebral y actúan como amortiguadores, absorbiendo impactos y permitiendo la flexibilidad de la columna. El tejido cartilaginoso fibroso se caracteriza por una matriz extracelular densa y rica en colágeno tipo I, que confiere resistencia a la tracción y soporte estructural a los discos intervertebrales.
 ![alt text](disco-intervertebral.png)

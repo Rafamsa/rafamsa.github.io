@@ -1,51 +1,51 @@
 +++
-title = "Estudo confirma a importância das comissões de verificação para garantir a legitimidade das políticas afirmativas nas universidades públicas"
-subtitle = "Levantamento feito em dissertação de mestrado em Administração Pública da UNIFAL-MG aponta queda nas tentativas de fraude após criação de bancas de heteroidentificação"
+title = "Study confirms the importance of verification committees in ensuring the legitimacy of affirmative action policies at public universities"
+subtitle = "Research from a master's thesis in Public Administration at UNIFAL-MG points to a drop in fraud attempts after hetero-identification committees were created"
 date = "2025-10-09"
 author = "Rafael Martins da Silva Afeto"
 cover = "capa_pesquisa_comissao_heteroidentificacao.jpg"
-coverCaption = "Imagem ilustrativa. (Foto gerada por IA/Plataforma DALL·E 3)"
-tags = ["CAVANE", "Cotas", "Mestrado em Administração Pública", "Políticas Afirmativas", "Projeto +Ciência", "UNIFAL-MG"]
-categories = ["Ciências Sociais"]
-keywords = ["heteroidentificação universidade", "cotas raciais fraude", "comissão verificação autodeclaração", "políticas afirmativas universidade pública", "CAVANE UNIFAL"]
-description = "Pesquisa da UNIFAL-MG demonstra que a comissão de heteroidentificação (CAVANE) reduziu fraudes nas cotas raciais e fortaleceu a transparência do processo."
+coverCaption = "Illustrative image. (AI-generated image/DALL·E 3 platform)"
+tags = ["CAVANE", "Quotas", "Master's in Public Administration", "Affirmative Action", "Projeto +Ciência", "UNIFAL-MG"]
+categories = ["Social Sciences"]
+keywords = ["university hetero-identification", "racial quota fraud", "self-declaration verification committee", "affirmative action public university", "CAVANE UNIFAL"]
+description = "UNIFAL-MG research shows that the hetero-identification committee (CAVANE) reduced fraud in racial quotas and strengthened the transparency of the process."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-A criação de comissões responsáveis por verificar a autodeclaração racial de candidatos em universidades públicas têm mostrado resultados expressivos no combate a fraudes nas cotas raciais. Uma pesquisa desenvolvida na UNIFAL-MG demonstrou que a [Comissão de Aferição da Veracidade da Autodeclaração (CAVANE)](https://www.unifal-mg.edu.br/portal/wp-content/uploads/sites/52/2019/11/Resolu%C3%A7%C3%A3o-55-2018-alterada-pela-resolu%C3%A7%C3%A3o-n%C2%BA-014-19-1-3.pdf) foi decisiva para tornar o sistema mais confiável e transparente.
+The creation of committees responsible for verifying the racial self-declaration of applicants at public universities has shown significant results in fighting fraud in racial quotas. Research carried out at UNIFAL-MG showed that the [Committee for Verifying the Truthfulness of Self-Declaration (CAVANE)](https://www.unifal-mg.edu.br/portal/wp-content/uploads/sites/52/2019/11/Resolu%C3%A7%C3%A3o-55-2018-alterada-pela-resolu%C3%A7%C3%A3o-n%C2%BA-014-19-1-3.pdf) was decisive in making the system more reliable and transparent.
 
-O trabalho intitulado Sob a pele: o processo de heteroidentificação na graduação da Universidade Federal de Alfenas é de autoria do acadêmico Paulo Henrique Santos Pereira, desenvolvido sob a orientação do professor Jackson Wilke da Cruz Souza , que integrou o corpo docente do [Mestrado Profissional em Administração Pública (Profiap)](https://www.unifal-mg.edu.br/profiap/) oferecido pela Universidade no campus Varginha, e hoje faz parte do [Instituto de Ciência, Tecnologia e Inovação (ICTI)](https://icti.ufba.br/) da Universidade Federal da Bahia (UFBA).
+The work, titled Under the skin: the hetero-identification process in undergraduate admissions at the Federal University of Alfenas, was written by graduate student Paulo Henrique Santos Pereira under the supervision of professor Jackson Wilke da Cruz Souza , who was a faculty member of the [Professional Master's in Public Administration (Profiap)](https://www.unifal-mg.edu.br/profiap/) offered by the University at its Varginha campus, and is now part of the [Institute of Science, Technology and Innovation (ICTI)](https://icti.ufba.br/) at the Federal University of Bahia (UFBA).
 
 {{< grid-gallery >}}
-  {{< grid-item src="Paulo-Henrique-Santos-Pereira.jpg" alt="Paulo Henrique Santos Pereira – autor da pesquisa. (Foto: Arquivo Pessoal)" >}}
-  {{< grid-item src="Jackson-Wilke-da-Cruz-Souza.jpg" alt="Jackson Wilke da Cruz Souza – professor que orientou o trabalho. (Foto: Arquivo Pessoal)" >}}
+  {{< grid-item src="Paulo-Henrique-Santos-Pereira.jpg" alt="Paulo Henrique Santos Pereira – author of the research. (Photo: Personal Archive)" >}}
+  {{< grid-item src="Jackson-Wilke-da-Cruz-Souza.jpg" alt="Jackson Wilke da Cruz Souza – professor who supervised the work. (Photo: Personal Archive)" >}}
 {{< /grid-gallery >}}
 
 
-A CAVANE, comissão responsável por essa validação, foi criada em 2018 na UNIFAL-MG e, para Paulo Henrique Pereira, foi um divisor de águas na Universidade. “O resultado mais impactante é a drástica queda no percentual de matrículas indeferidas”, compartilha. Ele informa que, no início do processo, em 2018, 52% das autodeclarações analisadas eram rejeitadas, número que caiu para apenas 11% no segundo semestre de 2020. Segundo o acadêmico, isso sugere que a existência da comissão diminuiu tentativas de fraude, tornando o processo mais robusto e transparente.
+CAVANE, the committee responsible for this validation, was created at UNIFAL-MG in 2018 and, for Paulo Henrique Pereira, was a watershed for the University. “The most striking result is the sharp drop in the percentage of rejected enrollments,” he shares. He reports that at the start of the process, in 2018, 52% of the self-declarations reviewed were rejected, a figure that fell to just 11% in the second semester of 2020. According to the researcher, this suggests that the committee's existence reduced fraud attempts, making the process more robust and transparent.
 
-Apesar do sucesso da comissão, o pesquisador aponta alguns desafios, como a dificuldade de engajamento e a necessidade de capacitação contínua da banca, importante para evitar injustiças, principalmente na classificação de pessoas pardas.
+Despite the committee's success, the researcher points out some challenges, such as the difficulty of engaging members and the need for ongoing training of the panel, which is important to avoid injustices, especially in classifying pardo (mixed-race) people.
 
-Os detalhes de como a política de cotas raciais é colocada em prática na UNIFAL-MG foi compreendida cruzando a análise de documentos oficiais, com os dados numéricos e o que outros pesquisadores já sabiam da área. Segundo o autor do estudo, a pesquisa contribuiu para a legitimação e defesa das políticas de cota. “Em um cenário de constantes ataques e desinformação sobre as ações afirmativas, estudos como este fornecem dados concretos que demonstram que as universidades estão, sim, criando mecanismos eficazes para combater fraudes. Isso fortalece a política de cotas perante a opinião pública e oferece argumentos sólidos para sua defesa e manutenção”, argumenta.
+The details of how the racial quota policy is put into practice at UNIFAL-MG were understood by cross-referencing an analysis of official documents with numerical data and what other researchers already knew about the field. According to the study's author, the research contributed to legitimizing and defending quota policies. “In a context of constant attacks and misinformation about affirmative action, studies like this provide concrete data showing that universities are indeed creating effective mechanisms to fight fraud. This strengthens the quota policy in the eyes of the public and offers solid arguments for defending and maintaining it,” he argues.
 
-Para ele, a pesquisa promove um letramento racial, uma vez que conduz a comunidade acadêmica e sociedade a discutirem o que é ser negro no Brasil. Na sua visão, isso ajuda a desconstruir a ideia de que o Brasil é uma “democracia racial”, visto que raça é uma construção social, que a partir de traços físicos,  expõe pessoas a desigualdades. “O processo move o debate da esfera privada da autoidentificação para a esfera pública da heteroidentificação, que é como o racismo opera”, esclarece.
+In his view, the research promotes racial literacy, since it leads the academic community and society to discuss what it means to be Black in Brazil. He believes this helps deconstruct the idea that Brazil is a “racial democracy,” given that race is a social construct that, based on physical traits,  exposes people to inequality. “The process moves the debate from the private sphere of self-identification to the public sphere of hetero-identification, which is how racism operates,” he clarifies.
 
-O trabalho também contribui para o aperfeiçoamento da Gestão Pública, pois ao detalhar o processo da UNIFAL-MG, com seus acertos e desafios, oferece um roteiro que pode ser adaptado e aprimorado por outros órgãos que implementam cota racial, como concursos públicos, citados pelo pesquisador.
+The work also contributes to improving Public Administration because, by detailing UNIFAL-MG's process, with its successes and challenges, it offers a roadmap that can be adapted and improved by other bodies that implement racial quotas, such as civil service exams, as the researcher mentions.
 
-“Para os jovens negros que são o público-alvo da política, a existência de uma comissão robusta garante essa segurança”, afirma, acrescentando que a garantia de sua vaga e da segurança contra os fraudadores aumenta a confiança no sistema.
+“For young Black people, who are the target audience of the policy, the existence of a robust committee guarantees that security,” he says, adding that having their spot guaranteed and being protected against fraudsters increases trust in the system.
 
-O próximo passo do pesquisador é levar a discussão para além do ambiente universitário. Em seu doutorado, ele pretende investigar o uso de cotas raciais em concursos públicos da magistratura federal, com o objetivo de ampliar o debate sobre justiça e igualdade de oportunidades no serviço público.
+The researcher's next step is to take the discussion beyond the university setting. In his PhD, he plans to investigate the use of racial quotas in civil service exams for the federal judiciary, with the goal of broadening the debate on justice and equal opportunity in public service.
 
-## Como a pandemia de covid-19 impactou na Comissão de Heteroidentificação na UNIFAL-MG
+## How the covid-19 pandemic affected the Hetero-identification Committee at UNIFAL-MG
 
-Os impactos da pandemia de covid-19 também foram avaliados. Para Paulo Henrique Santos Pereira, a doença trouxe tanto desafios quanto oportunidades. Com a necessidade de distanciamento social, a UNIFAL-MG e outras instituições precisaram adaptar um processo que depende da observação de características físicas, como cor da pele, textura do cabelo e formato do rosto, o que levou à implementação de entrevistas por videoconferência.
+The impacts of the covid-19 pandemic were also assessed. For Paulo Henrique Santos Pereira, the disease brought both challenges and opportunities. With the need for social distancing, UNIFAL-MG and other institutions had to adapt a process that depends on observing physical characteristics, such as skin color, hair texture and facial shape, which led to the introduction of interviews by videoconference.
 
-Além de manter a continuidade do processo, o formato remoto permitiu que candidatos que moram longe dos campi da Universidade participassem sem precisar arcar com custos de viagem. Para o pesquisador, essa experiência mostrou que o modelo híbrido pode tornar o sistema mais acessível e inclusivo, e ampliar as oportunidades para estudantes de diferentes regiões.
+In addition to keeping the process going, the remote format allowed applicants who live far from the University's campuses to take part without having to pay travel costs. For the researcher, this experience showed that a hybrid model can make the system more accessible and inclusive, and expand opportunities for students from different regions.
 
-Para mais informações, acesse a dissertação [Sob a pele: o processo de heteroidentificação na graduação da Universidade Federal de Alfenas](https://bdtd.unifal-mg.edu.br:8443/handle/tede/2281), disponível na Biblioteca Digital de Teses e Dissertações da UNIFAL-MG.
+For more information, read the thesis [Sob a pele: o processo de heteroidentificação na graduação da Universidade Federal de Alfenas](https://bdtd.unifal-mg.edu.br:8443/handle/tede/2281) (Under the skin: the hetero-identification process in undergraduate admissions at the Federal University of Alfenas), available in UNIFAL-MG's Digital Library of Theses and Dissertations.
 
-*Texto elaborado sob supervisão e orientação de Ana Carolina Araújo, jornalista da Universidade Federal de Alfenas (UNIFAL-MG).*
+*Text written under the supervision and guidance of Ana Carolina Araújo, journalist at the Federal University of Alfenas (UNIFAL-MG).*
 
-Visite a [página da UNIFAL-MG](https://jornal.unifal-mg.edu.br/estudo-confirma-a-importancia-das-comissoes-de-verificacao-para-garantir-a-legitimidade-das-politicas-afirmativas-nas-universidades-publicas/) para acessar o texto na íntegra.
+Visit the [UNIFAL-MG page](https://jornal.unifal-mg.edu.br/estudo-confirma-a-importancia-das-comissoes-de-verificacao-para-garantir-a-legitimidade-das-politicas-afirmativas-nas-universidades-publicas/) to read the full text.

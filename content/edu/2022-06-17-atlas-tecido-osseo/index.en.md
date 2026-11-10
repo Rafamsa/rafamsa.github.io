@@ -1,30 +1,30 @@
 +++
-title = "Tecido Ósseo"
+title = "Bone Tissue"
 date = "2022-06-17"
 author = "Rafael Martins da Silva Afeto"
 cover = ""
-tags = ["Histologia", "Atlas Histológico","Tecido Ósseo", "Desenho Científico", "UNIFAL-MG"]
-categories = ["Material Educativo"]
-keywords = ["tecido ósseo histologia", "tecido ósseo primário secundário", "osso compacto esponjoso", "o que é tecido ósseo", "atlas tecido ósseo"]
-description = "Tecido ósseo primário e secundário: estrutura, mineralização e remodelagem com ilustrações. Atlas Interativo de Histologia da UNIFAL-MG."
+tags = ["Histology", "Histology Atlas","Bone Tissue", "Scientific Illustration", "UNIFAL-MG"]
+categories = ["Educational Material"]
+keywords = ["bone tissue histology", "primary secondary bone tissue", "compact spongy bone", "what is bone tissue", "bone tissue atlas"]
+description = "Primary and secondary bone tissue: structure, mineralization and remodeling with illustrations. UNIFAL-MG Interactive Histology Atlas."
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
 
-O tecido ósseo é um conjuntivo especializado onde a matriz mineralizada (cristais de hidroxiapatita) fornece dureza e a parte orgânica (colágeno tipo I) garante flexibilidade. Atua no suporte mecânico, proteção de órgãos vitais e reserva de íons como cálcio e fosfato, sendo uma estrutura dinâmica em constante remodelação. Além disso, abriga a medula óssea e potencializa movimentos através do sistema de alavancas com os músculos esqueléticos ([acesse o Atlas para mais informações](https://www.unifal-mg.edu.br/histologiainterativa/tecido-osseo/)).
+Bone tissue is a specialized connective tissue in which the mineralized matrix (hydroxyapatite crystals) provides hardness and the organic portion (type I collagen) ensures flexibility. It provides mechanical support, protects vital organs and stores ions such as calcium and phosphate, and it is a dynamic structure in constant remodeling. It also houses the bone marrow and amplifies movement through the lever system it forms with the skeletal muscles ([visit the Atlas for more information](https://www.unifal-mg.edu.br/histologiainterativa/tecido-osseo/)).
 
-### Tecido ósseo primário
+### Primary bone tissue
 
-O tecido ósseo primário é caracterizado por uma matriz óssea recém-formada e desorganizada. Ele é encontrado principalmente durante o desenvolvimento embrionário e em processos de reparação óssea, como fraturas. O tecido ósseo primário é composto por fibras de colágeno tipo I dispostas de maneira irregular, conferindo-lhe uma aparência menos densa e mais flexível em comparação com o tecido ósseo maduro. Ele é posteriormente remodelado para formar o tecido ósseo secundário, que é mais organizado e resistente.
+Primary bone tissue is characterized by a newly formed, disorganized bone matrix. It is found mainly during embryonic development and in bone repair processes, such as fractures. Primary bone tissue is made up of irregularly arranged type I collagen fibers, which make it look less dense and more flexible than mature bone tissue. It is later remodeled to form secondary bone tissue, which is more organized and stronger.
 ![alt text](tecido-osseo-primario-embriao.png)
 
-### Tecido ósseo secundário
+### Secondary bone tissue
 
-O tecido ósseo secundário, também conhecido como tecido ósseo lamelar, é caracterizado por uma matriz óssea organizada em camadas ou lâminas. Ele é encontrado em ossos maduros e é o resultado do processo de remodelação óssea, onde o tecido ósseo primário é substituído por tecido ósseo mais resistente e organizado. Ele é responsável por fornecer suporte estrutural ao esqueleto e proteger os órgãos vitais, além de atuar como reserva de íons e local de produção de células sanguíneas na medula óssea.
+Secondary bone tissue, also known as lamellar bone tissue, is characterized by a bone matrix organized in layers or lamellae. It is found in mature bones and is the result of bone remodeling, in which primary bone tissue is replaced by stronger, more organized bone tissue. It is responsible for providing structural support to the skeleton and protecting the vital organs, and it also serves as an ion reserve and as the site of blood cell production in the bone marrow.
 ![alt text](tecido-osseo-secundario.png)
 
-### Osso longo embrionário
+### Embryonic long bone
 
-O osso longo embrionário desenvolve-se através da ossificação endocondral, onde um molde de cartilagem hialina é gradualmente substituído por tecido ósseo primário. Esse processo ocorre em zonas distintas: os condrócitos proliferam em fileiras, sofrem hipertrofia e a matriz é calcificada, permitindo que osteoblastos depositem matriz óssea e osteoclastos modelem o canal medular. Essa dinâmica é essencial para a estruturação do esqueleto e o crescimento longitudinal do organismo durante a fase embrionária.
+The embryonic long bone develops through endochondral ossification, in which a hyaline cartilage model is gradually replaced by primary bone tissue. This process takes place in distinct zones: chondrocytes proliferate in rows, undergo hypertrophy and the matrix becomes calcified, allowing osteoblasts to deposit bone matrix and osteoclasts to shape the medullary canal. This dynamic is essential for building the skeleton and for the organism's longitudinal growth during the embryonic stage.
 ![alt text](osso-longo-embrionario.png)
