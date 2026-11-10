@@ -1,5 +1,13 @@
 <meta name="google-site-verification" content="6LgRlwa4cwzxLpwvIsFQwqSstAVuqf2D4Y2fnTm5GIo" />
 
+{{/* hreflang: tell search engines which pages are translations of each other */}}
+{{ if .IsTranslated }}
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+{{ if eq .Language.Lang "pt-br" }}<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />{{ end }}
+{{ end }}
+{{ end }}
+
 {{/* JSON-LD Structured Data for SEO */}}
 
 {{ if .IsHome }}
