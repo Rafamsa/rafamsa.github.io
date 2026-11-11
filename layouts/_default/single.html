@@ -38,6 +38,18 @@
     </span>
     {{ end }}
 
+    <!-- ADICIONADO: Largura máxima opcional da capa (ex.: capa de livro em pé) -->
+    {{ with .Params.coverMaxWidth }}
+    <style>
+        .post-cover {
+            max-width: {{ . | safeCSS }} !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+            display: block;
+        }
+    </style>
+    {{ end }}
+
     {{ partial "cover.html" . }}
 
     <!-- ADICIONADO: Legenda da Imagem de Capa -->

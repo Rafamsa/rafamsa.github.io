@@ -88,6 +88,11 @@ $.Site.BaseURL) "sameAs" $sameAs }}
         font-weight: 800 !important;
     }
 
+    /* Espaço menor entre as abas, para as 7 caberem numa linha só no desktop */
+    .navigation-menu__inner>li:not(:last-of-type) {
+        margin-right: 8px;
+    }
+
     /* 5. Celular: usa o mesmo menu do desktop no lugar do botão "Menu ▾" */
     @media (max-width: 684px) {
         .menu--mobile {

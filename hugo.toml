@@ -14,7 +14,7 @@ disableLanguages = []
 author = "Rafael Martins da Silva Afeto"
 description = "Um blog sobre ciência, educação, arte e cultura."
 centerTheme = true
-showMenuItems = 6
+showMenuItems = 7
 readMore = "Leia mais"
 newerPosts = "Artigos mais recentes"
 olderPosts = "Artigos mais antigos"
@@ -50,6 +50,11 @@ weight = 20
 name = "Ilustrações"
 url = "/ilustracoes/"
 weight = 30
+
+[[menus.main]]
+name = "Livro"
+url = "/livro/"
+weight = 35
 
 [[menus.main]]
 name = "Categorias"
@@ -111,6 +116,11 @@ url = "/en/ilustracoes/"
 weight = 30
 
 [[languages.en.menus.main]]
+name = "Book"
+url = "/en/livro/"
+weight = 35
+
+[[languages.en.menus.main]]
 name = "Categories"
 url = "/en/categories/"
 weight = 40
@@ -162,6 +172,11 @@ weight = 20
 name = "Ilustraciones"
 url = "/es/ilustracoes/"
 weight = 30
+
+[[languages.es.menus.main]]
+name = "Libro"
+url = "/es/livro/"
+weight = 35
 
 [[languages.es.menus.main]]
 name = "Categorías"
