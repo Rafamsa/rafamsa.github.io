@@ -87,6 +87,36 @@ $.Site.BaseURL) "sameAs" $sameAs }}
         color: #111 !important;
         font-weight: 800 !important;
     }
+
+    /* 5. Celular: usa o mesmo menu do desktop no lugar do botão "Menu ▾" */
+    @media (max-width: 684px) {
+        .menu--mobile {
+            display: none !important;
+        }
+
+        .navigation-menu__inner.menu--desktop {
+            display: flex !important;
+            flex-direction: row !important;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 8px 6px;
+            margin: 20px 0 0 !important;
+        }
+
+        .navigation-menu__inner.menu--desktop li {
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+
+        /* Seletor de idioma (PT ▾) volta a aparecer no topo */
+        .menu--language-selector {
+            display: flex !important;
+        }
+
+        .menu--language-selector .menu__trigger {
+            display: block !important;
+        }
+    }
 </style>
 
 <script>
