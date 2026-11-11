@@ -3,6 +3,11 @@ title = "Conglomerado 742: Medo"
 subtitle = "Fiction · 226 pages · 2026 · Self-published · Book in Portuguese"
 cover = "capa-conglomerado-742-medo.jpg"
 coverMaxWidth = "320px"
+year = 2026
+# Para uma série, descomente e preencha:
+# series = "Conglomerado 742"
+# volume = 1
+aliases = ["/livro/"]
 keywords = ["Conglomerado 742", "Conglomerado 742: Medo", "fantasy book", "Brazilian fiction", "Rafael Martins da Silva Afeto book"]
 description = "Conglomerado 742: Medo (Fear), a fiction book by Rafael Martins da Silva Afeto. The Nightmare, an entity from the world of dreams, chases his dream across the nine worlds of Conglomerate 742."
 showFullContent = false

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}
+    <div class="content">{{ .Content }}</div>
+    {{ end }}
+</div>
+
+<!-- Estante: capas lado a lado, do livro mais recente para o mais antigo -->
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 30px; margin-top: 2rem;">
+    {{ range sort .Pages "Params.year" "desc" }}
+    {{ $livro := . }}
+    <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">
+        {{ with .Resources.GetMatch .Params.cover }}
+        <img src="{{ .RelPermalink }}" loading="lazy" alt="{{ $livro.Title }}"
+            style="width: 100%; aspect-ratio: 5 / 8; object-fit: cover; border: 2px solid var(--accent, #f5c211);">
+        {{ end }}
+        <div style="margin-top: 10px; color: var(--accent, #f5c211); font-weight: 700;">{{ .Title }}</div>
+        <div style="font-size: 0.9rem; color: #a9a9b3;">
+            {{ with .Params.series }}{{ . }}{{ with $livro.Params.volume }} · Vol. {{ . }}{{ end }} · {{ end }}{{ .Params.year }}
+        </div>
+    </a>
+    {{ end }}
+</div>
+{{ end }}

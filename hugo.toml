@@ -52,8 +52,8 @@ url = "/ilustracoes/"
 weight = 30
 
 [[menus.main]]
-name = "Livro"
-url = "/livro/"
+name = "Livros"
+url = "/livros/"
 weight = 35
 
 [[menus.main]]
@@ -116,8 +116,8 @@ url = "/en/ilustracoes/"
 weight = 30
 
 [[languages.en.menus.main]]
-name = "Book"
-url = "/en/livro/"
+name = "Books"
+url = "/en/livros/"
 weight = 35
 
 [[languages.en.menus.main]]
@@ -174,8 +174,8 @@ url = "/es/ilustracoes/"
 weight = 30
 
 [[languages.es.menus.main]]
-name = "Libro"
-url = "/es/livro/"
+name = "Libros"
+url = "/es/livros/"
 weight = 35
 
 [[languages.es.menus.main]]

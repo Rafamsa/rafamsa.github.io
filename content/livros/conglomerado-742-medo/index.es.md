@@ -3,6 +3,11 @@ title = "Conglomerado 742: Medo"
 subtitle = "Literatura y ficción · 226 páginas · 2026 · Publicación independiente · Libro en portugués"
 cover = "capa-conglomerado-742-medo.jpg"
 coverMaxWidth = "320px"
+year = 2026
+# Para uma série, descomente e preencha:
+# series = "Conglomerado 742"
+# volume = 1
+aliases = ["/livro/"]
 keywords = ["Conglomerado 742", "Conglomerado 742: Medo", "libro de fantasía", "ficción brasileña", "Rafael Martins da Silva Afeto libro"]
 description = "Conglomerado 742: Medo (Miedo), libro de ficción de Rafael Martins da Silva Afeto. La Pesadilla, una entidad del mundo de los sueños, persigue su sueño a través de los nueve mundos del Conglomerado 742."
 showFullContent = false

@@ -12,6 +12,25 @@
     </h2>
     {{ end }}
 
+    <!-- ADICIONADO: Série de livros (só aparece se o livro tiver "series" no cabeçalho) -->
+    {{ with .Params.series }}
+    {{ $serie := . }}
+    {{ $lang := $.Site.Language.Lang }}
+    <div style="margin-bottom: 2rem; color: #a9a9b3;">
+        {{ if eq $lang "en" }}Series{{ else if eq $lang "es" }}Serie{{ else }}Série{{ end }}
+        <strong style="color: var(--accent, #f5c211);">{{ $serie }}</strong>
+        {{ with $.Params.volume }}· {{ if eq $lang "pt-br" }}Volume{{ else }}Vol.{{ end }} {{ . }}{{ end }}
+        <ul style="margin-top: 0.5rem;">
+            {{ range sort (where $.CurrentSection.Pages "Params.series" $serie) "Params.volume" }}
+            <li>
+                {{ with .Params.volume }}{{ . }}. {{ end }}
+                {{ if eq .RelPermalink $.RelPermalink }}<strong>{{ .Title }}</strong>{{ else }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
     <div class="post-meta">
         {{- if .Date -}}
         <time class="post-date">

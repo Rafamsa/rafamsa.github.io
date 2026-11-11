@@ -3,6 +3,11 @@ title = "Conglomerado 742: Medo"
 subtitle = "Literatura e ficção · 226 páginas · 2026 · Publicação independente"
 cover = "capa-conglomerado-742-medo.jpg"
 coverMaxWidth = "320px"
+year = 2026
+# Para uma série, descomente e preencha:
+# series = "Conglomerado 742"
+# volume = 1
+aliases = ["/livro/"]
 keywords = ["Conglomerado 742", "Conglomerado 742: Medo", "livro de fantasia", "ficção brasileira", "Rafael Martins da Silva Afeto livro"]
 description = "Conglomerado 742: Medo, livro de ficção de Rafael Martins da Silva Afeto. O Pesadelo, uma entidade do mundo dos sonhos, corre atrás de seu sonho por entre os nove mundos do Conglomerado 742."
 showFullContent = false
